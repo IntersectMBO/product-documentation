@@ -7,7 +7,7 @@ This page is written on behalf of the Core Infrastructure Roadmap working group,
 ## What is the Core Infrastructure committee?
 
 {% hint style="warning" %}
-We currently do not have a Backlog committee. It is currently an idea under review with the community.
+The Core Infrastructure Roadmap committee is currently under review with the community.
 {% endhint %}
 
 We originally designed a Vision committee for [Intersect](https://docs.intersectmbo.org/) as our 7th committee with the remit to manage visionary scope and roadmap for future development items.
