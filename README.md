@@ -24,11 +24,11 @@ All of the above is a draft in design with many questions to be answered. Inters
 
 The Core Infrastructure Roadmap working group may decide to change its name befitting its purpose. As the working group matures we do expect it to be promoted to become a committee-level group due to its importance.
 
-You can read more on the [Core Infrastructure Roadmap working group](working-group/core-infrastructure-roadmap-working-group/) or submit an inquiry to [backlog@intersectmbo.org.](mailto:backlog@intersectmbo.org)
+You can read more on the [Core Infrastructure Roadmap Committee](https://intersect.gitbook.io/core-infrastructure-committee) or submit an inquiry to [backlog@intersectmbo.org.](mailto:backlog@intersectmbo.org)
 
 ## Extra info or links
 
-More info about the committee and its working groups can be found [here](https://intersect.gitbook.io/backlog-committee/).
+More info about the committee and its working groups can be found [here](https://intersect.gitbook.io/core-infrastructure-committee).
 
 
 
