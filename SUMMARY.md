@@ -2,7 +2,7 @@
 
 ## ABOUT
 
-* [Roadmap committee (proposed)](README.md)
+* [Backlog/Vision committee (proposed)](README.md)
 * [Committee Members](about/committee-members.md)
 
 ## Working Group
