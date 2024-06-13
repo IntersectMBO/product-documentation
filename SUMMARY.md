@@ -2,7 +2,7 @@
 
 ## ABOUT
 
-* [Roadmap committee](README.md)
+* [Roadmap committee (proposed)](README.md)
 * [Committee Members](about/committee-members.md)
 
 ## Working Group

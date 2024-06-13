@@ -1,14 +1,10 @@
-# Roadmap committee
+# Roadmap committee (proposed)
 
 {% hint style="info" %}
-This page is written on behalf of the Core Infrastructure Roadmap working group, the information contained is subject to change and amendment by the working group at any time.
+This committee is still in development, we will publish more information shortly.
 {% endhint %}
 
 ## What is the Roadmap committee?
-
-{% hint style="warning" %}
-We currently do not have a Roadmap committee. It is currently an idea under review with the community.&#x20;
-{% endhint %}
 
 We originally designed a Vision committee for [Intersect](https://docs.intersectmbo.org/) as our 7th committee with the remit to manage visionary scope and roadmap for future development items.&#x20;
 
