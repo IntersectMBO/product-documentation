@@ -2,7 +2,7 @@
 
 ## ABOUT
 
-* [Backlog/Vision committee (proposed)](README.md)
+* [Vision/Backlog committee (proposed)](README.md)
 * [Committee Members](about/committee-members.md)
 
 ## Working Group
