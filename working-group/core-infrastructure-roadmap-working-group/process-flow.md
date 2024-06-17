@@ -5,14 +5,14 @@ description: 'Updated on: 14/6/2024'
 # Process Flow
 
 {% hint style="info" %}
-This page is still being developed by the Core Infrastructure Roadmap Working Group. The process flow is continuously being refined and will evolve as the group progresses. If you have any feedback or questions, please reach out to the [working group](./#learn-more-and-get-involved).
+This page is still being developed by the Roadmap Roadmap Working Group. The process flow is continuously being refined and will evolve as the group progresses. If you have any feedback or questions, please reach out to the [working group](./#learn-more-and-get-involved).
 {% endhint %}
 
 <figure><img src="../../.gitbook/assets/intersect-roadmap-process_1 (1).png" alt=""><figcaption><p>Process Flow Diagram (Rev 1.0)</p></figcaption></figure>
 
 ## Introduction
 
-This process is not exhaustive and the Core Infrastructure Roadmap Working Group (CIR-WG) may from time to time make exceptions in order to accommodate work packages deemed critical to the future of the ecosystem. Additionally it is presumed that the committees and working groups may have additional communications beyond those required by the CIR-WG - these are simply defining the key steps to add, change, progress, and remove items from the Core Infrastructure Roadmap.
+This process is not exhaustive and the Roadmap Roadmap Working Group (CIR-WG) may from time to time make exceptions in order to accommodate work packages deemed critical to the future of the ecosystem. Additionally it is presumed that the committees and working groups may have additional communications beyond those required by the CIR-WG - these are simply defining the key steps to add, change, progress, and remove items from the Roadmap Roadmap.
 
 Crucially, the CIR WG performs these all of these discussions in one of two forms:
 
@@ -21,7 +21,7 @@ Crucially, the CIR WG performs these all of these discussions in one of two form
 
 ## Adding an Item (Triage Stage)
 
-The criteria to be added to the roadmap should include any 3 of: CPS, business case document, security case document, CIP. However, not all items that have all of these will be considered Core Infrastructure or sufficiently mature to prioritize. The CIR-WG may include or not include an item entirely at its own discretion.
+The criteria to be added to the roadmap should include any 3 of: CPS, business case document, security case document, CIP. However, not all items that have all of these will be considered Roadmap or sufficiently mature to prioritize. The CIR-WG may include or not include an item entirely at its own discretion.
 
 It is presumed that this process is friendly to both software deliverables that can be shipped, and research-phase projects which may have different kinds of output (white papers, proof of concept, feasibility studies, etc).
 

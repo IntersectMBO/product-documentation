@@ -21,7 +21,7 @@ description: May 20, 2024
 ## Notes/Decision
 
 1. New member introduction - Santiago Carmuega - TXPipe CEO
-2. Mission revision - Foster a transparent, inclusive, and adaptable core infrastructure roadmap for the decentralized development of Cardano as an open-source blockchain and maintain its competitiveness.
+2. Mission revision - Foster a transparent, inclusive, and adaptable Roadmap roadmap for the decentralized development of Cardano as an open-source blockchain and maintain its competitiveness.
 3. Vision statement - Create a clear map of the current State and an open collaborative Journey Map for getting to the future state with contributions from the rest of the community
 4. Goals revision -&#x20;
    * Creating standard language, vocabulary, measures,  categories-of-item, drivers for the Roadmap process

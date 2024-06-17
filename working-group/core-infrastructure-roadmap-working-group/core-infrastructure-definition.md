@@ -2,17 +2,17 @@
 description: 'Updated on: 14/6/2024'
 ---
 
-# Core Infrastructure Definition
+# Roadmap Definition
 
 {% hint style="info" %}
-This page is still being developed by the Core Infrastructure Roadmap Working Group. If you have any feedback or questions, please reach out to the [working group](./#learn-more-and-get-involved).
+This page is still being developed by the Roadmap Roadmap Working Group. If you have any feedback or questions, please reach out to the [working group](./#learn-more-and-get-involved).
 {% endhint %}
 
 ## Introduction
 
-Core Infrastructure is an inventory of essential services that support vital economic and social activities within Cardano. It supports the essential building blocks upon which the next layer of abstraction supporting Builders and enabling DApps. The definition of Core Infrastructure (COREINF) will change upon agreement with the 'Technical Steering Committee (TSC), associated Technical Working Groups (TWG) and the Cardano Infrastructure Roadmap Working Group (CIR-WG).
+Roadmap is an inventory of essential services that support vital economic and social activities within Cardano. It supports the essential building blocks upon which the next layer of abstraction supporting Builders and enabling DApps. The definition of Roadmap (COREINF) will change upon agreement with the 'Technical Steering Committee (TSC), associated Technical Working Groups (TWG) and the Cardano Infrastructure Roadmap Working Group (CIR-WG).
 
-Whilst not exhaustive, this contains Cardano Node, Plutus, Cardano wallet, agreed tools or low-level enabling; it is envisaged that determination of what is "Core Infrastructure" is part of the 'triage' where incoming proposals are tested against a growing list of 'Core Infrastructure'. It is reasonable to expect that a combination of TSC, CIR-WG and TWGs will converge upon a non-moving definition after an agreed period.
+Whilst not exhaustive, this contains Cardano Node, Plutus, Cardano wallet, agreed tools or low-level enabling; it is envisaged that determination of what is "Roadmap" is part of the 'triage' where incoming proposals are tested against a growing list of 'Roadmap'. It is reasonable to expect that a combination of TSC, CIR-WG and TWGs will converge upon a non-moving definition after an agreed period.
 
 ### How are items Triaged and what format are those accepted in?
 

@@ -17,12 +17,12 @@ A working group is formed to generate the definitions of scope items, scope cate
 The proposed Backlog committee will provide the approved list of items on the shared backlog to a Budget committee. The Budget committee’s remit is to calculate an appropriate budget to assign to backlog scope items and manage a process to have a budget approved by the community to be paid out of the Treasury.&#x20;
 
 {% hint style="warning" %}
-All of the above is a draft in design with many questions to be answered. Intersect acting in the role of servant-leader is facilitating and coordinating the Core Infrastructure Roadmap Working Group to figure out these answers.&#x20;
+All of the above is a draft in design with many questions to be answered. Intersect acting in the role of servant-leader is facilitating and coordinating the Roadmap Roadmap Working Group to figure out these answers.&#x20;
 {% endhint %}
 
-The Core Infrastructure Roadmap Working Group may decide to change its name befitting its purpose. Whatever name is decided upon on a working group level will also change the name at the committee level. As the working group matures we do expect it to be promoted to become a committee-level group due to its importance.
+The Roadmap Roadmap Working Group may decide to change its name befitting its purpose. Whatever name is decided upon on a working group level will also change the name at the committee level. As the working group matures we do expect it to be promoted to become a committee-level group due to its importance.
 
-You can read more on the [Core Infrastructure Roadmap Working Group](working-group/core-infrastructure-roadmap-working-group/) or submit an inquiry to [backlog@intersectmbo.org.](mailto:backlog@intersectmbo.org)
+You can read more on the [Roadmap Roadmap Working Group](working-group/core-infrastructure-roadmap-working-group/) or submit an inquiry to [backlog@intersectmbo.org.](mailto:backlog@intersectmbo.org)
 
 ## Extra info or links
 

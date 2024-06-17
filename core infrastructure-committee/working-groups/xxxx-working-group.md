@@ -1,4 +1,4 @@
-# Core Infrastructure Roadmap Working Group
+# Roadmap Roadmap Working Group
 
 ## Purpose / Goal
 

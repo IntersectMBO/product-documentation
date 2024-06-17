@@ -23,7 +23,7 @@ description: May 7, 2024
 
 ### 1. Mission:&#x20;
 
-Foster a transparent, inclusive, and adaptable core infrastructure roadmap for the decentralized development of Cardano open-source blockchain and maintain its competitiveness.
+Foster a transparent, inclusive, and adaptable Roadmap roadmap for the decentralized development of Cardano open-source blockchain and maintain its competitiveness.
 
 ### 2. Goals:
 
@@ -40,7 +40,7 @@ Foster a transparent, inclusive, and adaptable core infrastructure roadmap for t
   1. LSM
   2. Leios
 * Backlog working group name to be confirmed
-* Concern: Should we replace the terminology “Core Infrastructure” with “Cardano”
+* Concern: Should we replace the terminology “Roadmap” with “Cardano”
 
 ## Action items
 

@@ -1,5 +1,5 @@
-# Core Infrastructure Roadmap Committee
+# Roadmap Roadmap Committee
 
-## What is the Core Infrastructure Roadmap Committee?
+## What is the Roadmap Roadmap Committee?
 
 ## Goals of the Committee?

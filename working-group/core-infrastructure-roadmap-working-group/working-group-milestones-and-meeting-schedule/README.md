@@ -1,10 +1,10 @@
 # Working Group Milestones and meeting schedule
 
 {% hint style="info" %}
-This page is written on behalf of the Core Infrastructure Roadmap working group, the information contained is subject to change and amendment by the working group at any time.
+This page is written on behalf of the Roadmap Roadmap working group, the information contained is subject to change and amendment by the working group at any time.
 {% endhint %}
 
-The Core Infrastructure Roadmap working group's mission is to foster a transparent, inclusive, and adaptable core infrastructure roadmap for the decentralized development of Cardano as an open-source blockchain and maintain its competitiveness.
+The Roadmap Roadmap working group's mission is to foster a transparent, inclusive, and adaptable Roadmap roadmap for the decentralized development of Cardano as an open-source blockchain and maintain its competitiveness.
 
 To fulfill this mission, the working group has set several goals that needs to be looked into, namely Vocabulary & Definitions, Communication Plan, The Process, and Vision.
 

@@ -1,12 +1,12 @@
-# Core Infrastructure Roadmap working group
+# Roadmap Roadmap working group
 
 {% hint style="info" %}
-This page is written on behalf of the Core Infrastructure Roadmap Working Group. The information contained is subject to change and amendment by the working group at any time.
+This page is written on behalf of the Roadmap Roadmap Working Group. The information contained is subject to change and amendment by the working group at any time.
 {% endhint %}
 
 ## Purpose of this working group&#x20;
 
-The purpose of the Core Infrastructure Roadmap working group is to support the following[ Intersect pillars](https://docs.intersectmbo.org/) on behalf of Intersect and its membership:
+The purpose of the Roadmap Roadmap working group is to support the following[ Intersect pillars](https://docs.intersectmbo.org/) on behalf of Intersect and its membership:
 
 * Intersect Pillar 3: Orchestrate delivery of the community-approved Cardano Roadmap.
 * Intersect Pillar 4: Facilitate the continuity of Cardano for system stability.
@@ -29,7 +29,7 @@ As the working group progresses over time, the defined items will be reviewed an
 
 ### Mission
 
-The Core Infrastructure Roadmap working group's mission is to foster a transparent, inclusive, and adaptable core infrastructure roadmap for the decentralized development of Cardano open-source blockchain and maintain its competitiveness.
+The Roadmap Roadmap working group's mission is to foster a transparent, inclusive, and adaptable Roadmap roadmap for the decentralized development of Cardano open-source blockchain and maintain its competitiveness.
 
 ### Goals
 
@@ -38,7 +38,7 @@ Several goals has been set to achieve the Mission set out which encompasses Voca
 1. **Vocabulary & Definitions**: A standard language, vocabulary, measures,  categories-of-item, drivers to be defined within the group
 2. **Communication Plan**: Clear communication for the Continuity Backlog to illustrate where it currently fits in the lifecycle process and how it will evolve
 3. **The Process** has two separate goals:
-   1. Aggregate relevant (core infrastructure) items from CIPs, CPS, SIGs, Intersect TWGs' backlogs and prioritize them for funding / development.
+   1. Aggregate relevant (Roadmap) items from CIPs, CPS, SIGs, Intersect TWGs' backlogs and prioritize them for funding / development.
    2. Define tiers in the Roadmap (defined, research-pending, poc ready, research paper)
 4. **Vision**: Create a clear map of current State and an open collaborative Journey Map for getting to Future state with contributions from the rest of the community.
 
