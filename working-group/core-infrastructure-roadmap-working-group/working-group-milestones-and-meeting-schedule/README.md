@@ -1,7 +1,7 @@
 # Working Group Milestones and meeting schedule
 
 {% hint style="info" %}
-This page is written on behalf of the Core Infrastructure Roadmap working group (previously known as the Backlog working group), the information contained is subject to change and amendment by the working group at any time.
+This page is written on behalf of the Core Infrastructure Roadmap working group, the information contained is subject to change and amendment by the working group at any time.
 {% endhint %}
 
 The Core Infrastructure Roadmap working group's mission is to foster a transparent, inclusive, and adaptable core infrastructure roadmap for the decentralized development of Cardano as an open-source blockchain and maintain its competitiveness.
