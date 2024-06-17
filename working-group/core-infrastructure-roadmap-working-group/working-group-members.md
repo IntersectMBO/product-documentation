@@ -33,6 +33,11 @@ An initial cohort has been invited into the Core Infrastructure Roadmap working 
 1. Erik Skogsberg (Lead facilitator - Voltage Control)
 2. Douglas Fergusion (Asst. facilitator - Voltage Control)
 
+### Committee Representatives
+
+1. Duncan Soutar ([Technical Steering Committee](https://docs.intersectmbo.org/intersect-overview/intersect-committees/technical-steering-committee-tsc) Representative)
+2. Nori Nishigaya ([Membership and Community Committee](https://docs.intersectmbo.org/intersect-overview/intersect-committees/membership-and-community-committee-mcc) Representative)
+
 ### Intersect (acting as servant leader and observers)
 
 1. Karen Wickham (Observer - Intersect Committee Liaison)
