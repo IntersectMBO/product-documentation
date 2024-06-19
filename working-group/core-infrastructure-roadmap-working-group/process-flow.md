@@ -5,14 +5,14 @@ description: 'Updated on: 14/6/2024'
 # Process Flow
 
 {% hint style="info" %}
-This page is still being developed by the Roadmap Roadmap Working Group. The process flow is continuously being refined and will evolve as the group progresses. If you have any feedback or questions, please reach out to the [working group](./#learn-more-and-get-involved).
+This page is still being developed by the Core Infrastructure Roadmap Working Group. The process flow is continuously being refined and will evolve as the group progresses. If you have any feedback or questions, please reach out to the [working group](./#learn-more-and-get-involved).
 {% endhint %}
 
 <figure><img src="../../.gitbook/assets/intersect-roadmap-process_1 (1).png" alt=""><figcaption><p>Process Flow Diagram (Rev 1.0)</p></figcaption></figure>
 
 ## Introduction
 
-This process is not exhaustive and the Roadmap Roadmap Working Group (CIR-WG) may from time to time make exceptions in order to accommodate work packages deemed critical to the future of the ecosystem. Additionally it is presumed that the committees and working groups may have additional communications beyond those required by the CIR-WG - these are simply defining the key steps to add, change, progress, and remove items from the Roadmap Roadmap.
+This process is not exhaustive and the Core Infrastructure Roadmap Working Group (CIR-WG) may from time to time make exceptions in order to accommodate work packages deemed critical to the future of the ecosystem. Additionally it is presumed that the committees and working groups may have additional communications beyond those required by the CIR-WG - these are simply defining the key steps to add, change, progress, and remove items from the Roadmap Roadmap.
 
 Crucially, the CIR WG performs these all of these discussions in one of two forms:
 
@@ -32,7 +32,7 @@ From this step, the CIR-WG will recognize a champion as the comms leader/champio
 Once an item is accepted onto the roadmap, there are additional requirements that must be met in order to show that the item is sufficiently mature for funding:
 
 1. A set of well-scoped deliverables (whether for research or for production software) ready to be made into a work-package (which may define future phases/partitions as well as feasibility)
-2. Acceptance of those deliverables by the relevant TWG and/or SIGs&#x20;
+2. Acceptance of those deliverables by the relevant TWG and/or SIGs
 
 Once these criteria have been met to the satisfaction of the CIR-WG - then all work packages that meet these criteria will be omnibussed into a proposed set of budgetary items.
 
@@ -46,7 +46,7 @@ Following final approval and a CIP-1694 onchain vote, Intersect will receive fun
 
 ## Change Management & Delivery (Cycle planning)
 
-Reviewing, accepting, and managing requirements changes for approved work packages is out of scope for the CIR-WG and is managed by Intersect at it’s sole discretion.&#x20;
+Reviewing, accepting, and managing requirements changes for approved work packages is out of scope for the CIR-WG and is managed by Intersect at it’s sole discretion.
 
 However, CIR-WG cycle planning sessions may include projects that have completed a work phase, and here the CIR-WG can choose if the next phase is sufficiently mature to proceed, or if priorities and changes are needed in the next set of work.
 

@@ -2,13 +2,13 @@
 
 ## ABOUT
 
-* [Vision/Backlog committee (proposed)](README.md)
+* [Roadmap committee (proposed)](README.md)
 * [Committee Members](about/committee-members.md)
 
 ## Working Group
 
-* [Roadmap Roadmap working group](working-group/core-infrastructure-roadmap-working-group/README.md)
-  * [Roadmap Definition](working-group/core-infrastructure-roadmap-working-group/core-infrastructure-definition.md)
+* [Core Infrastructure Roadmap working group](working-group/core-infrastructure-roadmap-working-group/README.md)
+  * [Roadmap Definition](working-group/core-infrastructure-roadmap-working-group/roadmap-definition.md)
   * [Process Flow](working-group/core-infrastructure-roadmap-working-group/process-flow.md)
   * [Working Group members](working-group/core-infrastructure-roadmap-working-group/working-group-members.md)
   * [Working Group Milestones and meeting schedule](working-group/core-infrastructure-roadmap-working-group/working-group-milestones-and-meeting-schedule/README.md)

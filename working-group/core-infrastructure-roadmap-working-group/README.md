@@ -1,19 +1,19 @@
-# Roadmap Roadmap working group
+# Core Infrastructure Roadmap working group
 
 {% hint style="info" %}
-This page is written on behalf of the Roadmap Roadmap Working Group. The information contained is subject to change and amendment by the working group at any time.
+This page is written on behalf of the Core Infrastructure Roadmap Working Group. The information contained is subject to change and amendment by the working group at any time.
 {% endhint %}
 
-## Purpose of this working group&#x20;
+## Purpose of this working group
 
-The purpose of the Roadmap Roadmap working group is to support the following[ Intersect pillars](https://docs.intersectmbo.org/) on behalf of Intersect and its membership:
+The purpose of the Core Infrastructure Roadmap working group is to support the following[ Intersect pillars](https://docs.intersectmbo.org/) on behalf of Intersect and its membership:
 
 * Intersect Pillar 3: Orchestrate delivery of the community-approved Cardano Roadmap.
 * Intersect Pillar 4: Facilitate the continuity of Cardano for system stability.
 
 To date, the simplest way to explain the purpose of this working group is to generate the definitions of scope items, scope categories in a shared Cardano backlog and to design the process to have the scope items reviewed and ultimately approved for funding.
 
-An attribute of each item of backlog scope is time. Each item will be approved with an expectation of a schedule. Hence, over time the working group will generate a backlog of items that are scheduled and that gives us a roadmap.&#x20;
+An attribute of each item of backlog scope is time. Each item will be approved with an expectation of a schedule. Hence, over time the working group will generate a backlog of items that are scheduled and that gives us a roadmap.
 
 {% hint style="info" %}
 As the working group matures we expect the group to be promoted to become an Intersect committee.
@@ -21,7 +21,7 @@ As the working group matures we expect the group to be promoted to become an Int
 
 ### Why
 
-As part of the vision of[ Cardano](https://whitepaper.io/document/581/cardano-whitepaper), the Voltaire era will bring about community voting and a Treasury management system. This era unlocks the funds for the community to curate the growth of the Cardano Economy through the delivery of a shared collection of development items.&#x20;
+As part of the vision of[ Cardano](https://whitepaper.io/document/581/cardano-whitepaper), the Voltaire era will bring about community voting and a Treasury management system. This era unlocks the funds for the community to curate the growth of the Cardano Economy through the delivery of a shared collection of development items.
 
 The working group has then been formed to design a method to define the scopes of the items and to design a backlog process to manage this scope.
 
@@ -35,7 +35,7 @@ The Roadmap Roadmap working group's mission is to foster a transparent, inclusiv
 
 Several goals has been set to achieve the Mission set out which encompasses Vocabulary & Definitions, Communication Plan, The Process, and Vision.
 
-1. **Vocabulary & Definitions**: A standard language, vocabulary, measures,  categories-of-item, drivers to be defined within the group
+1. **Vocabulary & Definitions**: A standard language, vocabulary, measures, categories-of-item, drivers to be defined within the group
 2. **Communication Plan**: Clear communication for the Continuity Backlog to illustrate where it currently fits in the lifecycle process and how it will evolve
 3. **The Process** has two separate goals:
    1. Aggregate relevant (Roadmap) items from CIPs, CPS, SIGs, Intersect TWGs' backlogs and prioritize them for funding / development.
@@ -56,14 +56,12 @@ Via Intersect’s Civics committee, we held a workshop in London where we agreed
 Intersect as the servant-leader of the community has built a backlog team to facilitate the working group and support the working group in generating our target outcomes.
 {% endhint %}
 
-## What&#x20;
+## What
 
-There are a massive variety of scope items that could be added to the backlog and may get approval. These items could be continuity items to keep our current Blockchain running smoothly, future development items, research items, and possibly a variety of supporting items that will generate value for Cardano.&#x20;
+There are a massive variety of scope items that could be added to the backlog and may get approval. These items could be continuity items to keep our current Blockchain running smoothly, future development items, research items, and possibly a variety of supporting items that will generate value for Cardano.
 
-The working group will start with our current items under delivery which are Continuity items. These items will test the process we are designing to be implemented. Over time, as the working group matures we will publish our backlog and link it from these Knowledge Base pages. &#x20;
+The working group will start with our current items under delivery which are Continuity items. These items will test the process we are designing to be implemented. Over time, as the working group matures we will publish our backlog and link it from these Knowledge Base pages.
 
 ## Learn more and get involved
 
-Regular updates will be provided to Intersect Members on the progress of backlog-related activity, followed by public updates. To participate in the discussion on Discord or to submit an inquiry, please contact us at [backlog@intersectmbo.org.](mailto:backlog@intersectmbo.org)
-
-\
+Regular updates will be provided to Intersect Members on the progress of core infrastructure roadmap-related activity, followed by public updates. To participate in the discussion on Discord or to submit an inquiry, please contact us at [backlog@intersectmbo.org.](mailto:backlog@intersectmbo.org)
