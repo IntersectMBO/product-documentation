@@ -19,4 +19,5 @@
     * [(20/5/24) Meeting Minutes](working-group/core-infrastructure-roadmap-working-group/working-group-milestones-and-meeting-schedule/20-5-24-meeting-minutes.md)
     * [(28/5/24) Meeting Minutes](working-group/core-infrastructure-roadmap-working-group/working-group-milestones-and-meeting-schedule/28-5-24-meeting-minutes.md)
     * [(3/6/24) Meeting Minutes](working-group/core-infrastructure-roadmap-working-group/working-group-milestones-and-meeting-schedule/28-5-24-meeting-minutes-1.md)
+    * [(10/6/24) Meeting Minutes](working-group/core-infrastructure-roadmap-working-group/working-group-milestones-and-meeting-schedule/28-5-24-meeting-minutes-1-1.md)
   * [Working group FAQ](working-group/core-infrastructure-roadmap-working-group/working-group-faq.md)
