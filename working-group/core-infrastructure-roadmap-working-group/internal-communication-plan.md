@@ -73,12 +73,12 @@ List of communication strategies are updated on the comms and engagement plan li
 
 * Email: Gmail
 * Instant Messaging: Internal: [Discord](https://discord.com/channels/1136727663583698984/1217695569301213224) ; Public Announcement: [Discord](https://discord.com/channels/1136727663583698984/1250805863384481803)
-* Documentation: [Gitbook](https://intersect.gitbook.io/backlog-committee), [Google Drive](https://drive.google.com/drive/u/0/folders/1wt\_o9The5KEkBbyOisMWO37iZYlWgxb7)
+* Documentation: [Gitbook](https://intersect.gitbook.io/backlog-committee), Google Drive
 * Video Conferencing: Zoom, Google Meet
-* Project Management: [Miro](https://miro.com/app/board/uXjVKPwgqXk=/), [Google Drive](https://drive.google.com/drive/u/0/folders/1wt\_o9The5KEkBbyOisMWO37iZYlWgxb7)
+* Project Management: Miro, Google Drive
 * Intranet: [Intersect Website](https://www.intersectmbo.org/), [Knowledge Base](https://docs.intersectmbo.org/)
 * Survey Tools: Google Forms, Doodle Poll
-* Time Zone Management tools: Any suggestions? https://www.timeanddate.com/worldclock/meeting.html
+* Time Zone Management tools: TBC
 
 ## Measurement and Evaluation
 
@@ -89,7 +89,7 @@ List of communication strategies are updated on the comms and engagement plan li
 
 ## Roles and Responsibilities
 
-**Chairs**: Owns the roadmap, accountable for the wg direction and achieving its goals
+**Chairs**: Owns the roadmap, accountable for the WG direction and achieving its goals
 
 **Secretary**: Communications and documentation of the group’s proceedings and actions.
 
