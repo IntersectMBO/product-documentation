@@ -27,6 +27,7 @@ An initial cohort has been invited into the Core Infrastructure Roadmap working 
 7. Samuel Leather (SME - IOI Head of Product)
 8. Giorgio Zinetti (SME - Cardano Foundation CTO)
 9. Santiago Carmuega (SME - TxPipe CEO)
+10. Trym Bruset (SME - IOHK Product Manager)
 
 ### Facilitator
 
@@ -37,6 +38,7 @@ An initial cohort has been invited into the Core Infrastructure Roadmap working 
 
 1. Duncan Soutar ([Technical Steering Committee](https://docs.intersectmbo.org/intersect-overview/intersect-committees/technical-steering-committee-tsc) Representative)
 2. Nori Nishigaya ([Membership and Community Committee](https://docs.intersectmbo.org/intersect-overview/intersect-committees/membership-and-community-committee-mcc) Representative)
+3. Lloyd Duhon ([Civics Committee](https://intersect.gitbook.io/civics-committee) Representative)
 
 ### Intersect (acting as servant leader and observers)
 
