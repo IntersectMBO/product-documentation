@@ -16,20 +16,20 @@ To date, the simplest way to explain the purpose of this working group is to gen
 An attribute of each item of backlog scope is time. Each item will be approved with an expectation of a schedule. Hence, over time the working group will generate a backlog of items that are scheduled and that gives us a roadmap.
 
 {% hint style="info" %}
-As the working group matures we expect the group to be promoted to become an Intersect committee.
+As the working group completes its scope the resulting Sub Committee will be formed and this will feed into the Roadmap Committee.
 {% endhint %}
 
 ### Why
 
 As part of the vision of[ Cardano](https://whitepaper.io/document/581/cardano-whitepaper), the Voltaire era will bring about community voting and a Treasury management system. This era unlocks the funds for the community to curate the growth of the Cardano Economy through the delivery of a shared collection of development items.
 
-The working group has then been formed to design a method to define the scopes of the items and to design a backlog process to manage this scope.
+The working group has been formed to design a method to define the scopes of the core infrastructure items and to design a backlog process to manage this scope.
 
-As the working group progresses over time, the defined items will be reviewed and approved for funding on the backlog. The outcomes from the working group will be a shared backlog and roadmap that enables the Budget committee to generate a budget for funding by the Treasury.
+As the working group progresses over time, the defined items will be reviewed and approved for funding. The outcomes from the working group will be a shared core infrastructure backlog and roadmap that enables the Budget committee to generate a budget for funding by the Treasury.
 
 ### Mission
 
-The Roadmap Roadmap working group's mission is to foster a transparent, inclusive, and adaptable Roadmap roadmap for the decentralized development of Cardano open-source blockchain and maintain its competitiveness.
+The Core Infrastructure Roadmap working group's mission is to foster a transparent, inclusive, and adaptable roadmap for the decentralized development of Cardano open-source blockchain and maintain its competitiveness.
 
 ### Goals
 
