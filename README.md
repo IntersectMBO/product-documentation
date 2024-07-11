@@ -14,13 +14,13 @@ This naturally led us to consider that the artifact we need is a roadmap to defi
 
 Groups will be formed to generate the definitions of scope items, scope categories in a shared Cardano backlog and to design the process to have the scope items reviewed and ultimately approved for funding.
 
-The proposed Roadmap committee will provide the approved list of items on the shared backlog to a Budget committee. The Budget committee’s remit is to calculate an appropriate budget to assign to backlog scope items and manage a process to have a budget approved by the community to be paid out of the Treasury.
+The proposed Roadmap committee will provide the approved list of items on the shared backlog to a Budget committee. The Budget committee’s remit is to calculate an appropriate budget to assign to scoped items and manage a process to have a budget approved by the community to be paid out of the Treasury.
 
 {% hint style="warning" %}
 All of the above is a draft in design with many questions to be answered. Intersect acting in the role of servant-leader is facilitating and coordinating the Core Infrastructure Roadmap Working Group to figure out these answers.
 {% endhint %}
 
-The Core Infrastructure Roadmap Working Group may decide to change its name befitting its purpose. Whatever name is decided upon on a working group level will also change the name at the committee level. As the working group matures we do expect it to be promoted to become a committee-level group due to its importance.
+The Core Infrastructure Roadmap Working Group has been established, its current scope is to design a sub-committee and associated process to triage and prioritise core infrastructure requirements including continuity items.  Once the Working Group has achieved its scope it will be closed down and the sub-committee will be stood up as an enduring part of the overarching Roadmap Committee. &#x20;
 
 You can read more on the [Core Infrastructure Roadmap Working Group](working-group/core-infrastructure-roadmap-working-group/) or submit an inquiry to [backlog@intersectmbo.org.](mailto:backlog@intersectmbo.org)
 
