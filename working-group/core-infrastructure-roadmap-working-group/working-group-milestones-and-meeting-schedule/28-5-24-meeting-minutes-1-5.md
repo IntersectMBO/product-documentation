@@ -16,8 +16,6 @@ description: July 8, 2024
 * Douglas Ferguson
 * Hwang HuongKet
 
-&#x20;[Hwang Huongket](mailto:hwang.huongket@intersectmbo.org) [douglas@voltagecontrol.com](mailto:douglas@voltagecontrol.com) [leonard.hegarty@iohk.io](mailto:leonard.hegarty@iohk.io) [nori@bridgebuilders.io](mailto:nori@bridgebuilders.io) [eysteinsofus@gmail.com](mailto:eysteinsofus@gmail.com) [samuel.leathers@iohk.io](mailto:samuel.leathers@iohk.io) [Ryan Williams](mailto:ryan.williams@intersectmbo.org) [romain.pellerin@iohk.io](mailto:romain.pellerin@iohk.io) [ben@mlabs.city](mailto:ben@mlabs.city)
-
 ## Agenda
 
 ### Action items
