@@ -20,11 +20,11 @@ An initial cohort has been invited into the Core Infrastructure Roadmap working 
 
 1. Eystein Hansen (Governance expert - NBX Head of Staking Operations)
 2. Silona Bonewald (OS SME - External/IOG)
-3. Romain Pellerin (SME - IOI CTO)
+3. Romain Pellerin (SME - IOG CTO)
 4. Alex Karpov (SME - NBX CTO)
 5. Benjamin Hart (SME - Mlabs CTO)
 6. Leonard Hegarty (SME - IOI Delivery lead)
-7. Samuel Leather (SME - IOI Head of Product)
+7. Samuel Leather (SME - IOG Head of Product)
 8. Giorgio Zinetti (SME - Cardano Foundation CTO)
 9. Santiago Carmuega (SME - TxPipe CEO)
 10. Trym Bruset (SME - IOHK Product Manager)
