@@ -9,6 +9,7 @@
 
 * [Core Infrastructure Roadmap working group](working-group/core-infrastructure-roadmap-working-group/README.md)
   * [Core Infrastructure Definition](working-group/core-infrastructure-roadmap-working-group/core-infrastructure-definition.md)
+  * [Current State](working-group/core-infrastructure-roadmap-working-group/current-state.md)
   * [Process Flow](working-group/core-infrastructure-roadmap-working-group/process-flow.md)
   * [Working Group members](working-group/core-infrastructure-roadmap-working-group/working-group-members.md)
   * [Internal Communication Plan](working-group/core-infrastructure-roadmap-working-group/internal-communication-plan.md)
