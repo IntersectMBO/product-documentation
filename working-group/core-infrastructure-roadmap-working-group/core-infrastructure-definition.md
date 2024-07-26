@@ -4,6 +4,10 @@ description: 'Published date: 26/7/2024'
 
 # Core Infrastructure Definition
 
+{% hint style="info" %}
+This page is written on behalf of the Core Infrastructure Roadmap working group, the information contained is subject to change and amendment by the working group at any time.
+{% endhint %}
+
 Core Infrastructure is an inventory of essential services that support vital economic and social activities within Cardano. It supports the fundamental building blocks upon which the next abstraction layer supports Builders and enables DApps. The definition of Core Infrastructure (CI) will change upon agreement with the 'Technical Steering Committee (TSC), associated Technical Working Groups (TWGs), and the Cardano Infrastructure Roadmap working group (CIR-WG).
 
 Whilst not exhaustive, this includes Cardano Node, Plutus, Cardano wallet, agreed tools, or low-level enabling; it is envisaged that determining what is "Core Infrastructure" is part of the 'triage', where incoming proposals are tested against a growing list of 'Core Infrastructure'. It is reasonable to expect that a combination of TSC, CIR-WG, and TWGs will converge upon a non-moving definition after an agreed-upon period.

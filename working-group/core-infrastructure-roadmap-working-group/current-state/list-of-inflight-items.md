@@ -4,6 +4,10 @@ description: 'Published: 26/7/2024'
 
 # List of Inflight items
 
+{% hint style="info" %}
+This page is written on behalf of the Core Infrastructure Roadmap working group, the information contained is subject to change and amendment by the working group at any time.
+{% endhint %}
+
 ## Introduction
 
 The objective of this document is to provide context for the inflight items within Intersect. This list was developed in collaboration with the various suppliers and item champions to encourage accuracy. At the end of this document, we will provide details of future planned work to improve this list further. If you like to read more of the progress on the milestones and deliverables, please refer to the milestone reports published [here](https://docs.intersectmbo.org/cardano/cardano-continuity/cardano-continuity-reports/what-work-has-been-completed-since-the-start-of-intersect).
