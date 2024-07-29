@@ -22,7 +22,7 @@ All of the above is a draft in design with many questions to be answered. Inters
 
 The Core Infrastructure Roadmap Working Group has been established, its current scope is to design a sub-committee and associated process to triage and prioritise core infrastructure requirements including continuity items.  Once the Working Group has achieved its scope it will be closed down and the sub-committee will be stood up as an enduring part of the overarching Roadmap Committee. &#x20;
 
-You can read more on the [Core Infrastructure Roadmap Working Group](working-group/core-infrastructure-roadmap-working-group/) or submit an inquiry to [backlog@intersectmbo.org.](mailto:backlog@intersectmbo.org)
+You can read more on the [Core Infrastructure Roadmap Working Group](working-group/core-infrastructure-roadmap-working-group/) or submit an inquiry to [roadmap@intersectmbo.org](mailto:roadmap@intersectmbo.org).
 
 ## Extra info or links
 
