@@ -11,9 +11,9 @@ The purpose of the Core Infrastructure Roadmap working group is to support the f
 * Intersect Pillar 3: Orchestrate delivery of the community-approved Cardano Roadmap.
 * Intersect Pillar 4: Facilitate the continuity of Cardano for system stability.
 
-To date, the simplest way to explain the purpose of this working group is to generate the definitions of scope items, scope categories in a shared Cardano backlog and to design the process to have the scope items reviewed and ultimately approved for funding.
+To date, the simplest way to explain the purpose of this working group is to generate the definitions of scope items, scope categories in a shared Cardano roadmap and to design the process to have the scope items reviewed and ultimately approved for funding.
 
-An attribute of each item of backlog scope is time. Each item will be approved with an expectation of a schedule. Hence, over time the working group will generate a backlog of items that are scheduled and that gives us a roadmap.
+An attribute of each item on the Roadmap scope is time. Each item will be approved with an expectation of a schedule. Hence, over time the working group will generate a list of items that are scheduled and that gives us the Core Infrastructure Roadmap.
 
 {% hint style="info" %}
 As the working group completes its scope the resulting Sub Committee will be formed and this will feed into the Roadmap Committee.
@@ -23,9 +23,9 @@ As the working group completes its scope the resulting Sub Committee will be for
 
 As part of the vision of[ Cardano](https://whitepaper.io/document/581/cardano-whitepaper), the Voltaire era will bring about community voting and a Treasury management system. This era unlocks the funds for the community to curate the growth of the Cardano Economy through the delivery of a shared collection of development items.
 
-The working group has been formed to design a method to define the scopes of the core infrastructure items and to design a backlog process to manage this scope.
+The working group has been formed to design a method to define the scopes of the core infrastructure items and to design a process to manage this scope.
 
-As the working group progresses over time, the defined items will be reviewed and approved for funding. The outcomes from the working group will be a shared core infrastructure backlog and roadmap that enables the Budget committee to generate a budget for funding by the Treasury.
+As the working group progresses over time, the defined items will be reviewed and approved for funding. The outcomes from the working group will be a shared list of core infrastructure items and a roadmap that enables the Budget committee to generate a budget for funding by the Treasury.
 
 ### Mission
 
@@ -58,10 +58,10 @@ Intersect as the servant-leader of the community has built a backlog team to fac
 
 ## What
 
-There are a massive variety of scope items that could be added to the backlog and may get approval. These items could be continuity items to keep our current Blockchain running smoothly, future development items, research items, and possibly a variety of supporting items that will generate value for Cardano.
+There are a massive variety of scope items that could be added to the Roadmap and may get approval. These items could be continuity items to keep our current Blockchain running smoothly, future development items, research items, and possibly a variety of supporting items that will generate value for Cardano.
 
-The working group will start with our current items under delivery which are Continuity items. These items will test the process we are designing to be implemented. Over time, as the working group matures we will publish our backlog and link it from these Knowledge Base pages.
+The working group will start with our current items under delivery which are Continuity items. These items will test the process we are designing to be implemented. Over time, as the working group matures we will publish our Roadmap and link it from these Knowledge Base pages.
 
 ## Learn more and get involved
 
-Regular updates will be provided to Intersect Members on the progress of core infrastructure roadmap-related activity, followed by public updates. To participate in the discussion on Discord or to submit an inquiry, please contact us at [roadmap-committee@intersectmbo.org](mailto:roadmap-committee@intersectmbo.org)[.](mailto:backlog@intersectmbo.org)
+Regular updates will be provided to Intersect Members on the progress of Core Infrastructure Roadmap-related activity, followed by public updates. To participate in the discussion on Discord or to submit an inquiry, please contact us at [roadmap-committee@intersectmbo.org](mailto:roadmap-committee@intersectmbo.org)[.](mailto:backlog@intersectmbo.org)
