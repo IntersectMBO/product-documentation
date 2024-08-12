@@ -20,7 +20,7 @@ As this is an iterative process, the schedule below will be subject to change ac
 
 The working group has outlined several key milestones to be achieved up to October. These milestones serve as initial benchmarks to guide the group's progress towards their goals. As the group advances, these milestones will be further refined and become more concrete.
 
-<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption><p>90 day Milestone Plan</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption><p>90-day Milestone Plan</p></figcaption></figure>
 
 These milestones provide a structured framework for the group to follow, ensuring that efforts are coordinated and focused on achieving the set goals. Regular reviews and adjustments will ensure that the group remains on track and can adapt to any emerging challenges or opportunities.
 
