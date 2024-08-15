@@ -4,6 +4,7 @@
 
 * [Roadmap committee (proposed)](README.md)
 * [Committee Members](about/committee-members.md)
+* [How to Join or Contact Us?](about/how-to-join-or-contact-us.md)
 
 ## Working Group
 
