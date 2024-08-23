@@ -1,9 +1,5 @@
 # Product committee
 
-{% hint style="info" %}
-This committee is still in development, we will publish more information shortly.
-{% endhint %}
-
 ## What is the Product Committee?
 
 We originally designed a Vision committee for [Intersect](https://docs.intersectmbo.org/) as our 7th committee with the remit to manage visionary scope and roadmap for future development items.&#x20;
