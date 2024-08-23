@@ -6,6 +6,10 @@
 * [Committee Members](about/committee-members.md)
 * [How to Join or Contact Us?](about/how-to-join-or-contact-us.md)
 
+## Committee meeting notes
+
+* [7th August 2024](committee-meeting-notes/7th-august-2024.md)
+
 ## Working Group
 
 * [Core Infrastructure Roadmap working group](working-group/core-infrastructure-roadmap-working-group/README.md)
