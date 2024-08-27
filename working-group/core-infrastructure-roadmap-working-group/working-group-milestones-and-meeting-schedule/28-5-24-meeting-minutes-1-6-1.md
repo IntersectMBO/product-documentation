@@ -8,7 +8,7 @@ description: July 22, 2024
 
 * Ben Hart
 * Douglas Ferguson
-* Einstein Hansen
+* Eystein Hansen
 * Silona Bonewald
 * Alex Karpov
 * Romain Pellerin

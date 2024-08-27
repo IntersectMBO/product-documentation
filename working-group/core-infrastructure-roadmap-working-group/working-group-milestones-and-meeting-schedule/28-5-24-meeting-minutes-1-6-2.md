@@ -11,7 +11,7 @@ description: July 29, 2024
 * Hwang HuongKet
 * Leonard Hegarty
 * Duncan Soutar
-* Einstein Hansen
+* Eystein Hansen
 * Giorgio Zinetti
 * Nori Nishigaya
 * Silona Bonewald
