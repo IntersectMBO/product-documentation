@@ -43,3 +43,8 @@
     * [(12/8/24) Meeting Minutes](working-group/core-infrastructure-roadmap-working-group/working-group-milestones-and-meeting-schedule/28-5-24-meeting-minutes-1-6-4.md)
   * [Working group FAQ](working-group/core-infrastructure-roadmap-working-group/working-group-faq.md)
   * [Glossary](working-group/core-infrastructure-roadmap-working-group/glossary.md)
+* [Special Interest Groups](working-group/special-interest-groups/README.md)
+  * [Interoperability](working-group/special-interest-groups/interoperability.md)
+  * [Scalability](working-group/special-interest-groups/scalability.md)
+  * [DeFi/DApps](working-group/special-interest-groups/defi-dapps.md)
+  * [Stake Pool Operators](working-group/special-interest-groups/stake-pool-operators.md)
