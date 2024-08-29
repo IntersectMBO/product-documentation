@@ -19,7 +19,7 @@
     * [List of Inflight items (2024)](working-group/core-infrastructure-roadmap-working-group/current-state/list-of-inflight-items.md)
   * [Roadmap Items (Proposals for 2025 onwards)](working-group/core-infrastructure-roadmap-working-group/roadmap-items-proposals-for-2025-onwards/README.md)
     * [In draft](working-group/core-infrastructure-roadmap-working-group/roadmap-items-proposals-for-2025-onwards/in-draft.md)
-    * [In Triage](working-group/core-infrastructure-roadmap-working-group/roadmap-items-proposals-for-2025-onwards/in-triage.md)
+    * [In triage](working-group/core-infrastructure-roadmap-working-group/roadmap-items-proposals-for-2025-onwards/in-triage.md)
     * [In-flight](working-group/core-infrastructure-roadmap-working-group/roadmap-items-proposals-for-2025-onwards/in-flight.md)
   * [Working Group members](working-group/core-infrastructure-roadmap-working-group/working-group-members.md)
   * [Internal Communication Plan](working-group/core-infrastructure-roadmap-working-group/internal-communication-plan.md)
