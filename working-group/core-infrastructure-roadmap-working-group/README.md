@@ -64,4 +64,4 @@ The working group will start with our current items under delivery which are Con
 
 ## Learn more and get involved
 
-Regular updates will be provided to Intersect Members on the progress of Core Infrastructure Roadmap-related activity, followed by public updates. To participate in the discussion on Discord or to submit an inquiry, please contact us at [roadmap-committee@intersectmbo.org](mailto:roadmap-committee@intersectmbo.org)[.](mailto:backlog@intersectmbo.org)
+Regular updates will be provided to Intersect Members on the progress of Core Infrastructure Roadmap-related activity, followed by public updates. To participate in the discussion on Discord or to submit an inquiry, please contact us at [product-committee@intersectmbo.org](mailto:product-committee@intersectmbo.org)[.](mailto:backlog@intersectmbo.org)

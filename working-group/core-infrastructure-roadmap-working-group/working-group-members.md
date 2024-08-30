@@ -19,15 +19,14 @@ Other roles are expected to be defined by the core members of the Core Infrastru
 An initial cohort has been invited into the Core Infrastructure Roadmap working group. It is anticipated this will expand as the need for external expertise and representation is required. The members listed below (excluding facilitators and Intersect staff) hold voting rights and are the core members of the working group:
 
 1. Eystein Hansen (Governance expert - NBX Head of Staking Operations)
-2. Silona Bonewald (OS SME - External/IOG)
-3. Romain Pellerin (SME - IOG CTO)
-4. Alex Karpov (SME - NBX CTO)
-5. Benjamin Hart (SME - Mlabs CTO)
-6. Leonard Hegarty (SME - IOI Delivery lead)
-7. Samuel Leather (SME - IOG Head of Product)
-8. Giorgio Zinetti (SME - Cardano Foundation CTO)
-9. Santiago Carmuega (SME - TxPipe CEO)
-10. Trym Bruset (SME - IOHK Product Manager)
+2. Romain Pellerin (SME - IOG CTO)
+3. Alex Karpov (SME - NBX CTO)
+4. Benjamin Hart (SME - Mlabs CTO)
+5. Leonard Hegarty (SME - IOI Delivery lead)
+6. Samuel Leather (SME - IOG Head of Product)
+7. Giorgio Zinetti (SME - Cardano Foundation CTO)
+8. Santiago Carmuega (SME - TxPipe CEO)
+9. Trym Bruset (SME - IOHK Product Manager)
 
 ### Facilitator
 
