@@ -8,6 +8,10 @@ description: 'Updated: 28 Aug 2024'
 This page is written on behalf of the Core Infrastructure Roadmap working group, the information contained is subject to change and amendment by the working group at any time.
 {% endhint %}
 
+This list contains items where analysis is complete but these are not yet prioritised.\
+Items are align to the 3 pillars of Decentralisation, Ecosystem and Scalability \
+Items on this list may be re-assessed to align with the evolving product direction.
+
 ## LSM-2. Increase Capability to store UTxOs on disk using LSM (Integration to Node)
 
 {% hint style="info" %}
