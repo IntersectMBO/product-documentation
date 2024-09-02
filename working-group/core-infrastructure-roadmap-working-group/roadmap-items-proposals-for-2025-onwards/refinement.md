@@ -2,13 +2,14 @@
 description: 'Updated: 28 Aug 2024'
 ---
 
-# In triage
+# Refinement
 
-{% hint style="info" %}
-This page is written on behalf of the Core Infrastructure Roadmap working group, the information contained is subject to change and amendment by the working group at any time.
-{% endhint %}
+Items in this category need to undergo additional requirements that must be met in order to show sufficient maturity for funding:
 
-**Criteria:** This list contains items where analysis is complete but these are not yet prioritised. Items are align to the 3 pillars of Decentralisation, Ecosystem and Scalability. Items on this list may be re-assessed to align with the evolving product direction. For more information regarding the process flow, please refer [here](../process-flow.md).
+1. A set of well-scoped deliverables (whether for research or for production software) ready to be made into a work-package (which may define future phases/partitions as well as feasibility)
+2. Acceptance of those deliverables by the relevant TWG and/or SIGs
+
+For any further information, refer to the process flow [here](../process-flow.md).
 
 ## LSM-2. Increase Capability to store UTxOs on disk using LSM (Integration to Node)
 
