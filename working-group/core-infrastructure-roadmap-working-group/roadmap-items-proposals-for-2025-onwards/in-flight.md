@@ -1,9 +1,6 @@
 # In-flight
 
-{% hint style="info" %}
-This page is still in development, we will publish more information shortly.
-{% endhint %}
-
+**Criteria:**\
 Items on the in-flight list contains ready-to-implement items. \
 Items here will be initiated subject to budget and suitable delivery capability being available. \
 Research has been completed to allow progression to discovery or development. \

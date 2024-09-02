@@ -8,7 +8,7 @@ description: 'Updated: 30 Aug 2024'
 This page is written on behalf of the Core Infrastructure Roadmap working group, the information contained is subject to change and amendment by the working group at any time.
 {% endhint %}
 
-This list contains items which were raised as items requiring wider discussion at TWG or SIGs as appropriate. Some items listed are also Research items. Whilst items are self contained, assessment on the definition of its 'Problem Statement' needs to be completed.&#x20;
+**Criteria:** This list contains items which were raised as items requiring wider discussion at TWG or SIGs as appropriate. Some items listed are also Research items. Whilst items are self contained, assessment on the definition of its 'Problem Statement' needs to be completed. For more information regarding the process flow, please refer [here](../process-flow.md).
 
 ## OBL-1. Ouroboros Leios
 
