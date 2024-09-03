@@ -1,14 +1,13 @@
-# Working Group members
+---
+description: 'Updated: 3 Sept 2024'
+---
 
-{% hint style="info" %}
-The participants of the Core Infrastructure Roadmap working group and their roles are confirmed by the group members.
-{% endhint %}
+# Working Group members
 
 ## Seated Members <a href="#seated-members" id="seated-members"></a>
 
 * Co-Chairs: Ben Hart (Mlab) & Leonard Hegarty (IOI)
-* Interim Secretary: Hwang HuongKet (Intersect Backlog Team)
-* Facilitator: Erik Skogsberg (Voltage Control)
+* Interim Secretary: Hwang HuongKet (Intersect Technical Analyst)
 * SIG Liaison: Eystein Hansen (NBX)
 * TWG Liaison: Romain Pellerin (IOI)
 
@@ -27,11 +26,9 @@ An initial cohort has been invited into the Core Infrastructure Roadmap working 
 7. Giorgio Zinetti (SME - Cardano Foundation CTO)
 8. Santiago Carmuega (SME - TxPipe CEO)
 9. Trym Bruset (SME - IOHK Product Manager)
+10. Silona Bonewald (_Left_)&#x20;
 
-### Facilitator
 
-1. Erik Skogsberg (Lead facilitator - Voltage Control)
-2. Douglas Fergusion (Asst. facilitator - Voltage Control)
 
 ### Committee Representatives
 
@@ -43,6 +40,5 @@ An initial cohort has been invited into the Core Infrastructure Roadmap working 
 
 1. Karen Wickham (Observer - Intersect Committee Liaison)
 2. Hwang HuongKet (Observer - Intersect Technical Analyst)
-3. Nigel Hemsley (Observer - Intersect COO)
 
 ​
