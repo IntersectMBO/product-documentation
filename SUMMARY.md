@@ -8,6 +8,7 @@
 
 ## Committee meeting notes
 
+* [29th August 2024](committee-meeting-notes/29th-august-2024.md)
 * [7th August 2024](committee-meeting-notes/7th-august-2024.md)
 
 ## Working Group
