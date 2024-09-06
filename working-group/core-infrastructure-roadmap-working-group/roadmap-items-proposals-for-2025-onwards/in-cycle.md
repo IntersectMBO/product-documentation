@@ -18,9 +18,7 @@ Some of these items may be removed or amended for the following reason:
 Items in this list are still in draft and may not have sufficient information to be triaged. CIR-WG will be updating this page on a regular basis.
 {% endhint %}
 
-### MTH-1. Mithril
 
-Item details to be updated
 
 ### SPI-1. Revised Stake Pool Incentives
 
