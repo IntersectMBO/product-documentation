@@ -2,7 +2,7 @@
 
 ## Table of Contents
 
-- [Contributing to the Product Committee documentation](#contributing-to-the-Roadmap Roadmap-committee-documentation)
+- [Contributing to the Product Committee documentation](#contributing-to-the-product-committee-documentation)
   - [Table of Contents](#table-of-contents)
   - [Code of Conduct](#code-of-conduct)
   - [Roles and Responsibilities](#roles-and-responsibilities)
