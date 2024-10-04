@@ -1,8 +1,8 @@
-# Contributing to the Roadmap Roadmap Committee documentation
+# Contributing to the Product Committee documentation
 
 ## Table of Contents
 
-- [Contributing to the Roadmap Roadmap Committee documentation](#contributing-to-the-Roadmap Roadmap-committee-documentation)
+- [Contributing to the Product Committee documentation](#contributing-to-the-Roadmap Roadmap-committee-documentation)
   - [Table of Contents](#table-of-contents)
   - [Code of Conduct](#code-of-conduct)
   - [Roles and Responsibilities](#roles-and-responsibilities)
@@ -30,7 +30,7 @@ Note that you might need to get approvals from all code owners (even though GitH
 ### Setup
 
 1. **Fork the repository:**
-   - Navigate to  https://github.com/Roadmap Roadmap/Roadmap Roadmap-committee-documentation
+   - Navigate to  https://github.com/IntersectMBO/budget-committee-documentation
    - Press the `Fork` button and make a fork of the repository.
 
 2. **Clone the fork:**
