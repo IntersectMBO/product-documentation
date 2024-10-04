@@ -44,7 +44,7 @@ Note that you might need to get approvals from all code owners (even though GitH
 3. **Navigate to the Project Directory:**
    - After cloning, change into the project's root directory:
      ```shell
-     cd Roadmap Roadmap-committee-documentation
+     cd product-committee-documentation
      ```
 
 ### Make changes
