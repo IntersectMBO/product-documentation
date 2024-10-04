@@ -38,7 +38,7 @@ Note that you might need to get approvals from all code owners (even though GitH
    - Navigate to the directory where you want to store the project.
    - Run the following command to clone the repository:
      ```shell
-     git clone https://github.com/Roadmap Roadmap/Roadmap Roadmap-committee-documentation.git
+     git clone https://github.com/IntersectMBO/product-committee-documentation.git
      ```
 
 3. **Navigate to the Project Directory:**
