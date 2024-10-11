@@ -5,6 +5,7 @@
 * [Product committee](README.md)
 * [Committee Members](about/committee-members.md)
 * [How to Join or Contact Us?](about/how-to-join-or-contact-us.md)
+* [Product committee focus](about/product-committee-focus.md)
 
 ## Committee meeting notes
 
@@ -60,3 +61,7 @@
   * [Scalability](working-group/special-interest-groups/scalability.md)
   * [DeFi/DApps](working-group/special-interest-groups/defi-dapps.md)
   * [Stake Pool Operators](working-group/special-interest-groups/stake-pool-operators.md)
+
+## Committee outcomes
+
+* [2025 Cardano's roadmap](committee-outcomes/2025-cardanos-roadmap.md)
