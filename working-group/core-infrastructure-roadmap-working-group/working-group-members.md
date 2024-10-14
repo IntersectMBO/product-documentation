@@ -1,12 +1,12 @@
 ---
-description: 'Updated: 3 Sept 2024'
+description: 'Updated: 10 Oct 2024'
 ---
 
 # Working Group members
 
 ## Seated Members <a href="#seated-members" id="seated-members"></a>
 
-* Co-Chairs: Ben Hart (Mlab) & Leonard Hegarty (IOI)
+* Co-Chairs: Ben Hart (Mlab) & Giorgio Zinetti (Cardano Foundation)
 * Interim Secretary: Hwang HuongKet (Intersect Technical Analyst)
 * SIG Liaison: Eystein Hansen (NBX)
 * TWG Liaison: Romain Pellerin (IOI)
@@ -21,14 +21,12 @@ An initial cohort has been invited into the Core Infrastructure Roadmap working 
 2. Romain Pellerin (SME - IOG CTO)
 3. Alex Karpov (SME - NBX CTO)
 4. Benjamin Hart (SME - Mlabs CTO)
-5. Leonard Hegarty (SME - IOI Delivery lead)
-6. Samuel Leather (SME - IOG Head of Product)
-7. Giorgio Zinetti (SME - Cardano Foundation CTO)
-8. Santiago Carmuega (SME - TxPipe CEO)
-9. Trym Bruset (SME - IOHK Product Manager)
-10. Silona Bonewald (_Left_)&#x20;
-
-
+5. Samuel Leather (SME - IOG Head of Product)
+6. Giorgio Zinetti (SME - Cardano Foundation CTO)
+7. Santiago Carmuega (SME - TxPipe CEO)
+8. Trym Bruset (SME - IOHK Product Manager)
+9. Silona Bonewald (_Left_)
+10. Leonard Hegarty (_Left_)
 
 ### Committee Representatives
 
