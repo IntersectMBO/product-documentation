@@ -68,6 +68,7 @@
   * [Scalability](working-group/special-interest-groups/scalability.md)
   * [DeFi/DApps](working-group/special-interest-groups/defi-dapps.md)
   * [Stake Pool Operators](working-group/special-interest-groups/stake-pool-operators.md)
+* [Research Working Group](working-group/research-working-group.md)
 
 ## Committee outcomes
 
