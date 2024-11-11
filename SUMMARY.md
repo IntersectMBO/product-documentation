@@ -9,10 +9,13 @@
 
 ## Committee meeting notes
 
-* [17th October 2024](committee-meeting-notes/26th-september-2024.md)
-* [10th October 2024](committee-meeting-notes/26th-september-2024-1.md)
-* [3rd October 2024](committee-meeting-notes/26th-september-2024-2.md)
-* [26th September 2024](committee-meeting-notes/26th-september-2024-3.md)
+* [7th October 2024](committee-meeting-notes/26th-september-2024.md)
+* [31st October 2024](committee-meeting-notes/26th-september-2024-1.md)
+* [24th October 2024](committee-meeting-notes/26th-september-2024-2.md)
+* [17th October 2024](committee-meeting-notes/26th-september-2024-3.md)
+* [10th October 2024](committee-meeting-notes/26th-september-2024-4.md)
+* [3rd October 2024](committee-meeting-notes/26th-september-2024-5.md)
+* [26th September 2024](committee-meeting-notes/26th-september-2024-6.md)
 * [19th September 2024](committee-meeting-notes/19th-september-2024.md)
 * [12th September 2024](committee-meeting-notes/12th-september-2024.md)
 * [10th September 2024](committee-meeting-notes/10th-september-2024.md)
