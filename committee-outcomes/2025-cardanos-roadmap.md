@@ -17,3 +17,8 @@ For the latter, the committee has currently set different ways to contribute and
 * Regular open calls 👉🏻 [Register here](https://lu.ma/intersectProductCommittee)
 * An open miro board 👉🏻 [Add feedback here](https://miro.com/app/board/uXjVLbsV09Y=/)
 * An open survey 👉🏻 [Participate here](https://forms.gle/9PJ6Fq3q9VhkgvJaA)
+
+## Current version of Goals
+
+* [Presentation](https://docs.google.com/presentation/d/1uJZkbIyp9YGTv7\_yvc3HnhDUca3cQNOV9ThBzGT5uZ8/edit#slide=id.g30a7761f514\_0\_2737) \[video coming soon]
+* [Document](https://docs.google.com/document/d/1UEeNYieMTdn6EwSJ8xOieRHPXnfwgdIRe7YlS0bJdnU/edit?tab=t.0#heading=h.r7l6thf4fsmw)&#x20;
