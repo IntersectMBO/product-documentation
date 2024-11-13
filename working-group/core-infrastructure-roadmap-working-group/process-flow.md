@@ -5,10 +5,14 @@ description: 'Updated on: 14/6/2024'
 # Process Flow
 
 {% hint style="info" %}
-This page is still being developed by the Core Infrastructure Roadmap Working Group. The process flow is continuously being refined and will evolve as the group progresses. If you have any feedback or questions, please reach out to the [working group](./#learn-more-and-get-involved).
+## How To Submit a Proposal?
+
+If you have an item you'd like to propose onto the roadmap, fill in this [template](https://docs.google.com/spreadsheets/d/1Lc2mx6Nd7PLnYKZWiVSGuzyui7ULtSoyHQeGZKMhZQE/edit?gid=2026913177#gid=2026913177) and send in your proposal to the CIR-WG at [product-committee@intersectmbo.org](mailto:product-committee@intersectmbo.org).
 {% endhint %}
 
 <figure><img src="../../.gitbook/assets/intersect-roadmap-process_1 (1).png" alt=""><figcaption><p>Process Flow Diagram (Rev 1.0)</p></figcaption></figure>
+
+##
 
 ## Introduction
 
@@ -58,6 +62,3 @@ During cycle planning, the CIR-WG may remove or regress an item in the following
 * Item is no longer a priority
 * Research has determined that the solution is unsound or otherwise infeasible
 
-## Contribute to the Roadmap
-
-If you have an item you'd like to propose onto the roadmap, please contact us at [product-committee@intersectmbo.org](mailto:product-committee@intersectmbo.org) to kickstart the submission process.
