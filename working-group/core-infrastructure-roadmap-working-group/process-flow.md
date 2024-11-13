@@ -58,6 +58,6 @@ During cycle planning, the CIR-WG may remove or regress an item in the following
 * Item is no longer a priority
 * Research has determined that the solution is unsound or otherwise infeasible
 
-## Learn more and get involved
+## Contribute to the Roadmap
 
-Regular updates will be provided to Intersect Members on the progress of Core Infrastructure Roadmap-related activity, followed by public updates. To participate in the discussion on Discord or to submit an inquiry, please contact us at [product-committee@intersectmbo.org](mailto:product-committee@intersectmbo.org)[.](mailto:backlog@intersectmbo.org)
+If you have an item you'd like to propose onto the roadmap, please contact us at [product-committee@intersectmbo.org](mailto:product-committee@intersectmbo.org) to kickstart the submission process.
