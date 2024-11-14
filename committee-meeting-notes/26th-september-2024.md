@@ -1,4 +1,4 @@
-# 7th October 2024
+# 14th October 2024
 
 The session was run in the related [miro board](https://miro.com/app/board/uXjVKro\_lxs=/)
 
@@ -8,14 +8,15 @@ The session was run in the related [miro board](https://miro.com/app/board/uXjVK
 
 ## Agenda
 
-* Review actions + decisions from last session
-* Research wg update
-* Review budget - product research review
+* Review actions + decisions from last session and general updates
+* Review the status of 2024 committee deliverables + key activities/meetings (next 6 weeks)
+* Review budget - product research review doc and comment\
+
 
 ## Updates
 
-* The group continued to discuss product research budget
+* The group review the first draft of the proposal for the research budget
 
 ## Outcomes & Recommendations
 
-* N/A
+* The voting seat acknowledged and accepted the chair, Saman Far, stepping down from both the role of the chair and the voting seat. The secretary will organize elections for the new chair
