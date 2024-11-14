@@ -39,7 +39,7 @@ Once your proposal is submitted and reviewed, it will be available for the commu
 ### **Step 5: Engage in Discussions**
 
 Join the ongoing conversations around these projects and goals. We hold regular Q\&A sessions where you can voice your thoughts, ask questions, and provide feedback on specific proposals.\
-👉 **Check the schedule and join the discussion on Luma or Discord (available shortly)**
+👉 **Check the schedule and join the discussion on Luma or Discord (**[**Events List**](https://discord.com/channels/1136727663583698984/1243498043676819498)**)**
 
 Help prioritize potential projects for inclusion in the technical roadmap. Complete the prioritization survey here.
 
