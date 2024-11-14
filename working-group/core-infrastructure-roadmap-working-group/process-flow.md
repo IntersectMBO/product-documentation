@@ -7,12 +7,8 @@ description: 'Updated on: 13/11/2024'
 {% hint style="info" %}
 ## How To Submit a Proposal?
 
-If you have an item you'd like to propose onto the roadmap, fill in this [template](https://docs.google.com/spreadsheets/d/1Lc2mx6Nd7PLnYKZWiVSGuzyui7ULtSoyHQeGZKMhZQE/edit?gid=2026913177#gid=2026913177) and send in your proposal to the CIR-WG at [product-committee@intersectmbo.org](mailto:product-committee@intersectmbo.org).
+If you have an item you'd like to propose onto the roadmap, fill in this submission form (available shortly)
 {% endhint %}
-
-<figure><img src="../../.gitbook/assets/intersect-roadmap-process_1 (1).png" alt=""><figcaption><p>Process Flow Diagram (Rev 1.0)</p></figcaption></figure>
-
-##
 
 ## Introduction
 
