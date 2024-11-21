@@ -9,8 +9,9 @@
 
 ## Committee meeting notes
 
-* [14th October 2024](committee-meeting-notes/26th-september-2024.md)
-* [7th October 2024](committee-meeting-notes/26th-september-2024-1.md)
+* [21st November 2024](committee-meeting-notes/21st-november-2024.md)
+* [14th November 2024](committee-meeting-notes/26th-september-2024.md)
+* [7th November 2024](committee-meeting-notes/26th-september-2024-1.md)
 * [31st October 2024](committee-meeting-notes/26th-september-2024-2.md)
 * [24th October 2024](committee-meeting-notes/26th-september-2024-3.md)
 * [17th October 2024](committee-meeting-notes/26th-september-2024-4.md)
@@ -78,3 +79,7 @@
 ## Committee outcomes
 
 * [2025 Cardano's roadmap](committee-outcomes/2025-cardanos-roadmap.md)
+
+## Standards operational procedures
+
+* [Chair Election Process](standards-operational-procedures/chair-election-process.md)
