@@ -44,7 +44,7 @@ Join the ongoing conversations around these projects and goals. We hold regular 
 
 Help prioritize potential projects for inclusion in the technical roadmap. Complete the prioritization survey here.
 
-👉 **Participate in the prioritization (**[**Survey**](https://docs.google.com/forms/d/1aGwaVxHyI3vMX3UxQ2PKLxr1rVbprZ1K2735YcIAjH4/)**)**
+👉 **Participate in the prioritization** (Temporarily closed for feedback, will open ahead of Q1 2025)
 
 ***
 
