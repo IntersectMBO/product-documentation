@@ -9,6 +9,7 @@
 
 ## Committee meeting notes
 
+* [25th November 2024](committee-meeting-notes/25th-november-2024.md)
 * [21st November 2024](committee-meeting-notes/21st-november-2024.md)
 * [14th November 2024](committee-meeting-notes/26th-september-2024.md)
 * [7th November 2024](committee-meeting-notes/26th-september-2024-1.md)
