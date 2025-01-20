@@ -7,6 +7,13 @@
 * [How to Join or Contact Us?](about/how-to-join-or-contact-us.md)
 * [Product committee focus](about/product-committee-focus.md)
 
+## Committee outcomes
+
+* [2025 Cardano's roadmap](committee-outcomes/2025-cardanos-roadmap/README.md)
+  * [2025 Proposed Cardano Goals](committee-outcomes/2025-cardanos-roadmap/2025-proposed-cardano-goals.md)
+  * [2025 Proposed Cardano Roadmap](committee-outcomes/2025-cardanos-roadmap/2025-proposed-cardano-roadmap.md)
+* [2025 Proposed Research Budget](committee-outcomes/2025-proposed-research-budget.md)
+
 ## Committee meeting notes
 
 * [16th January 2025](committee-meeting-notes/16th-january-2025.md)
@@ -79,10 +86,6 @@
   * [DeFi/DApps](working-group/special-interest-groups/defi-dapps.md)
   * [Stake Pool Operators](working-group/special-interest-groups/stake-pool-operators.md)
 * [Research Working Group](working-group/research-working-group.md)
-
-## Committee outcomes
-
-* [2025 Cardano's roadmap](committee-outcomes/2025-cardanos-roadmap.md)
 
 ## Standards operational procedures
 

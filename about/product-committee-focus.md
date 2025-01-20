@@ -6,7 +6,7 @@ The committee's current focus is (in order):
 
 <details>
 
-<summary>Facilitate an open process to create a shared <a href="../committee-outcomes/2025-cardanos-roadmap.md">2025 Cardano roadmap</a> </summary>
+<summary>Facilitate an open process to create a shared <a href="../committee-outcomes/2025-cardanos-roadmap/">2025 Cardano roadmap</a> </summary>
 
 As Cardano enters into decentralized governance, completing at the same time the original roadmap with the Age of Voltaire, the committee aims to help the community transition from a pre-defined roadmap to a commonly agreed one. \
 \
