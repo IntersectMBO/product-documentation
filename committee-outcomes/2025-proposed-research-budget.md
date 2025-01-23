@@ -107,6 +107,8 @@ In addition to the technical reports and prototypes, Community Improvement Propo
 
 ### Proposed items
 
+More details can also be found in the research working group [page](https://committees.docs.intersectmbo.org/groups-overview/working-groups/research)
+
 #### Academic Research
 
 Full details and descriptions can be found [here](https://docs.google.com/spreadsheets/d/13k3Mps2HSy2G6ggMLyp6T8e75US7b6zgGDTZ9zfcs-U/edit?usp=sharing)
