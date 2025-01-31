@@ -1,6 +1,6 @@
-# 14th October 2024
+# 14th November 2024
 
-The session was run in the related [miro board](https://miro.com/app/board/uXjVKro\_lxs=/)
+The session was run in the related [miro board](https://miro.com/app/board/uXjVKro_lxs=/)
 
 ## Participants
 
@@ -19,4 +19,4 @@ The session was run in the related [miro board](https://miro.com/app/board/uXjVK
 
 ## Outcomes & Recommendations
 
-* The voting seat acknowledged and accepted the chair, Saman Far, stepping down from both the role of the chair and the voting seat. The secretary will organize elections for the new chair
+* The voting seats acknowledged and accepted the chair, Saman Far, stepping down from both the role of the chair and the voting seat. The secretary will organize elections for the new chair

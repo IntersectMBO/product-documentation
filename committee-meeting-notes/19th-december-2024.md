@@ -6,6 +6,10 @@ The session was run in the related [miro board](https://miro.com/app/board/uXjVK
 
 <table><thead><tr><th width="202">Position</th><th width="194">POC</th></tr></thead><tbody><tr><td>Secretary</td><td>Lorenzo Bruno</td></tr><tr><td>Chair</td><td>Samuel Leathers</td></tr><tr><td>Vice-chair</td><td>Kyle Solomon</td></tr><tr><td>Voting seat</td><td>Romain Pellerin</td></tr><tr><td>Voting seat</td><td>Naushad Fouze </td></tr><tr><td>SME</td><td>Zachary Soesbee</td></tr></tbody></table>
 
+## Absentees
+
+<table><thead><tr><th width="202">Position</th><th width="194">POC</th></tr></thead><tbody><tr><td>Voting seat</td><td>Naushad Fouze</td></tr><tr><td>Voting seat</td><td>Mike Ward</td></tr></tbody></table>
+
 ## Agenda
 
 * Review actions + decisions from the last session and general updates
