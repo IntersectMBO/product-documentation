@@ -16,6 +16,7 @@
 
 ## Committee meeting notes
 
+* [6th February 2025](committee-meeting-notes/6th-february-2025.md)
 * [30th January 2025](committee-meeting-notes/30th-january-2025.md)
 * [23rd January 2025](committee-meeting-notes/23rd-january-2025.md)
 * [16th January 2025](committee-meeting-notes/16th-january-2025.md)
