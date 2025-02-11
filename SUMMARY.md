@@ -44,7 +44,6 @@
 ## Working Group
 
 * [Core Infrastructure Roadmap working group](working-group/core-infrastructure-roadmap-working-group/README.md)
-  * [How to Participate in Shaping the Technical Roadmap](working-group/core-infrastructure-roadmap-working-group/how-to-participate-in-shaping-the-technical-roadmap.md)
   * [Core Infrastructure Definition](working-group/core-infrastructure-roadmap-working-group/core-infrastructure-definition.md)
   * [Process Flow](working-group/core-infrastructure-roadmap-working-group/process-flow.md)
   * [Current State](working-group/core-infrastructure-roadmap-working-group/current-state/README.md)
