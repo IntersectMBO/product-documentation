@@ -1,7 +1,7 @@
 # 2025 Proposed Cardano Roadmap
 
 {% hint style="info" %}
-you can check any live updates here
+You can submit suggestions to this roadmap via github [here](https://github.com/IntersectMBO/product-documentation/tree/main/committee-outcomes/2025-cardanos-roadmap/2025-proposed-cardano-roadmap) or via gitbook [here](./) (first you need to register as an editor via [this link](https://app.gitbook.com/invite/Prbm1mtkwSsGWSvG1Bfd/VZXCOvh07Wix9xguKd2P))
 {% endhint %}
 
 ## Vision[​](https://product.cardano.intersectmbo.org/vision-roadmap-2025/#vision) <a href="#vision" id="vision"></a>
