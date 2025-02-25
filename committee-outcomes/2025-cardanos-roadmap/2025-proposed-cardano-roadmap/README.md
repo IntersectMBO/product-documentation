@@ -132,5 +132,3 @@ The community has identified incentives can be improved for stake pool operators
 
 * Introduce min-margin parameter that can be voted on via governance to modify
 * Modify pledge-benefit curve for a0
-
-**Note:** This vision and roadmap represents a high-level overview and will be further refined and iterated upon based on ongoing research, community feedback, and technological advancements. It is based on the results of the TSC survey. The initial author of this roadmap is Sam Leathers, Chair for the Intersect Product Committee.
