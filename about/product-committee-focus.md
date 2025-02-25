@@ -1,6 +1,6 @@
 # Product committee focus
 
-The Cardano Product Committee of Intersect aims to help connect the community by facilitating processes to create a shared vision and shared roadmap.
+The Cardano Product Committee of Intersect aims to help connect the community by facilitating processes to create a shared vision and shared roadmap. [test]
 
 The committee's current focus is (in order):
 
