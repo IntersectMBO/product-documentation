@@ -4,7 +4,7 @@ description: >-
   committee and provides an overview of how to contribute
 ---
 
-# 2025 Proposed Cardano Roadmap
+# Roadmap consultation and contribution process
 
 ## Overview
 

@@ -18,5 +18,5 @@ The outcome of this process is [here](2025-proposed-cardano-goals.md). This was 
 
 To provide a more detailed roadmap to Cardano in 2025, the Product Committee, with feedback from other committees and the broader community, has created a draft proposal that is currently open for consultation and that aligns with the 2025 Cardano budget.
 
-More details [here](2025-proposed-cardano-roadmap.md)
+More details [here](2025-proposed-cardano-roadmap/)
 

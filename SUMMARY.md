@@ -11,7 +11,10 @@
 
 * [2025 Cardano's roadmap](committee-outcomes/2025-cardanos-roadmap/README.md)
   * [2025 Proposed Cardano Goals](committee-outcomes/2025-cardanos-roadmap/2025-proposed-cardano-goals.md)
-  * [2025 Proposed Cardano Roadmap](committee-outcomes/2025-cardanos-roadmap/2025-proposed-cardano-roadmap.md)
+  * [2025 Proposed Cardano Roadmap](committee-outcomes/2025-cardanos-roadmap/2025-proposed-cardano-roadmap/README.md)
+    * [2025 Proposed Cardano Roadmap - Japanese translation](committee-outcomes/2025-cardanos-roadmap/2025-proposed-cardano-roadmap/2025-proposed-cardano-roadmap-japanese-translation.md)
+    * [2025 Proposed Cardano Roadmap - Spanish translation](committee-outcomes/2025-cardanos-roadmap/2025-proposed-cardano-roadmap/2025-proposed-cardano-roadmap-spanish-translation.md)
+    * [Roadmap consultation and contribution process](committee-outcomes/2025-cardanos-roadmap/2025-proposed-cardano-roadmap/roadmap-consultation-and-contribution-process.md)
 * [2025 Proposed Research Budget](committee-outcomes/2025-proposed-research-budget.md)
 * [2030 Long-Term Cardano Vision](committee-outcomes/2030-long-term-cardano-vision/README.md)
   * [Step 1 - Collect broad input and insights](committee-outcomes/2030-long-term-cardano-vision/step-1-collect-broad-input-and-insights.md)
