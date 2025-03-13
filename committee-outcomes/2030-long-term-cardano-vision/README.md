@@ -35,7 +35,7 @@ Then, in 2026, we aim to start even sooner, having already a set Cardano vision,
 ## Timeline to a long-term Cardano vision and a 2026 roadmap
 
 * **By end of the first week of February**
-  * [ ] Socialise plan and start the process of insights and input collection
+  * [x] Socialise plan and start the process of insights and input collection
 * **By end of quarter 1 (31st March)**
   * [ ] Complete the first series of workshops to collect insights and broad input from the community
   * [ ] Analyse and document insights. Based on those generate a first Cardano 2030 vision draft to be submitted for feedback and critique

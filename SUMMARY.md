@@ -18,6 +18,7 @@
 * [2025 Proposed Research Budget](committee-outcomes/2025-proposed-research-budget.md)
 * [2030 Long-Term Cardano Vision](committee-outcomes/2030-long-term-cardano-vision/README.md)
   * [Step 1 - Collect broad input and insights](committee-outcomes/2030-long-term-cardano-vision/step-1-collect-broad-input-and-insights.md)
+  * [Run one of the Cardano Vision Creation workshops](committee-outcomes/2030-long-term-cardano-vision/step-1-collect-broad-input-and-insights-1.md)
 
 ## Committee meeting notes
 
