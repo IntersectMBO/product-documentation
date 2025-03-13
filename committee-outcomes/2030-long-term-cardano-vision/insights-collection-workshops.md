@@ -1,7 +1,7 @@
 # Insights collection workshops
 
 {% hint style="info" %}
-If you want to run a workshop please follow the guide [here](step-1-collect-broad-input-and-insights-1.md)
+If you want to run a workshop please follow the guide [here](run-a-workshop.md)
 {% endhint %}
 
 <details>
