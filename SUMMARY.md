@@ -19,13 +19,15 @@
 * [2030 Long-Term Cardano Vision](committee-outcomes/2030-long-term-cardano-vision/README.md)
   * [Step 1 - Collect broad input and insights](committee-outcomes/2030-long-term-cardano-vision/step-1-collect-broad-input-and-insights.md)
   * [Run one of the Cardano Vision Creation workshops](committee-outcomes/2030-long-term-cardano-vision/step-1-collect-broad-input-and-insights-1.md)
+  * [Insights collection workshops](committee-outcomes/2030-long-term-cardano-vision/insights-collection-workshops.md)
 
 ## Committee meeting notes
 
 * [2025](committee-meeting-notes/2025/README.md)
-  * [4th March 2025](<committee-meeting-notes/2025/20th-february-2025 (1).md>)
-  * [27th February 2025](committee-meeting-notes/2025/20th-february-2025.md)
-  * [20th February 2025](committee-meeting-notes/2025/20th-february-2025-1.md)
+  * [11th March 2025](committee-meeting-notes/2025/20th-february-2025.md)
+  * [4th March 2025](committee-meeting-notes/2025/20th-february-2025-1.md)
+  * [27th February 2025](committee-meeting-notes/2025/20th-february-2025-2.md)
+  * [20th February 2025](committee-meeting-notes/2025/20th-february-2025-3.md)
   * [13th February 2025](committee-meeting-notes/2025/13th-february-2025.md)
   * [6th February 2025](committee-meeting-notes/2025/6th-february-2025.md)
   * [30th January 2025](committee-meeting-notes/2025/30th-january-2025.md)
