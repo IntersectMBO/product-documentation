@@ -6,6 +6,14 @@ description: >-
 
 # 2030 Long-Term Cardano Vision
 
+{% hint style="info" %}
+The consultation to create a 2030 community Cardano vision is open!&#x20;
+
+👉🏻 Have your say by filling up [this survey](https://forms.gle/Zv1jcqdUCrKwFQxP6)&#x20;
+
+👉🏻 Help us run one of the the vision creation workshops (guide [here](run-a-workshop.md))
+{% endhint %}
+
 ## Why
 
 The original Cardano roadmap, set by Cardano’s founders, ended with the age of Voltaire. Now it’s time to define an open, shared, and transparent process for the Cardano community to define a long-term vision and a roadmap.&#x20;

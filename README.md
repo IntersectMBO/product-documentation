@@ -1,5 +1,13 @@
 # Product committee
 
+{% hint style="info" %}
+The consultation to create a 2030 community Cardano vision is open!&#x20;
+
+👉🏻 Have your say by filling up [this survey](https://forms.gle/Zv1jcqdUCrKwFQxP6)&#x20;
+
+👉🏻 Help us run one of the the vision creation workshops (guide [here](committee-outcomes/2030-long-term-cardano-vision/run-a-workshop.md))
+{% endhint %}
+
 ## What is the Product Committee?
 
 We originally designed a Vision committee for [Intersect](https://docs.intersectmbo.org/) as our 7th committee with the remit to manage visionary scope and roadmap for future development items.&#x20;
