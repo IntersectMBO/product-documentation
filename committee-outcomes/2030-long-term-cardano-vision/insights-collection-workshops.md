@@ -13,3 +13,12 @@ If you want to run a workshop please follow the guide [here](run-a-workshop.md)
 
 </details>
 
+<details>
+
+<summary>29th March 2025 - Florida International University -  Vision Creation workshop</summary>
+
+* Session recording (N/A)
+* [Miro board](https://miro.com/app/board/uXjVIKkfemo=/)
+
+</details>
+
