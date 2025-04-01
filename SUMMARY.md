@@ -2,7 +2,7 @@
 
 ## ABOUT
 
-* [Product committee](README.md)
+* [Cardano Product Committee (CPC)](README.md)
 * [Committee Members](about/committee-members.md)
 * [How to Join or Contact Us?](about/how-to-join-or-contact-us.md)
 * [Product committee focus](about/product-committee-focus.md)
