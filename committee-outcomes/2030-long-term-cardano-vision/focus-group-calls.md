@@ -10,3 +10,12 @@
 
 </details>
 
+<details>
+
+<summary>3rd April 2025 - Stake Pool Operators</summary>
+
+* [Session recording ](https://drive.google.com/file/d/1qvHpdhHPHBfDrPTAnS84t6Uq-ryYlV8y/view?usp=sharing)
+* [Transcript](https://docs.google.com/document/d/1Arwxv6ScErQrZ-s36D1kOcuj54FB8kY10fYeZnsJsR4/edit?tab=t.0#heading=h.3tppjgxuspn)
+* [Notes](https://docs.google.com/document/d/1WEtd5BgWvpkgiKWGP43ww6UpW8EoTquIBMYQwq3um3M/edit?tab=t.0#bookmark=id.ijivza89lqtt)
+
+</details>

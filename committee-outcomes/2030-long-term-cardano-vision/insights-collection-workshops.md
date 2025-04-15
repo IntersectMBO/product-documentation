@@ -22,3 +22,20 @@ If you want to run a workshop please follow the guide [here](run-a-workshop.md)
 
 </details>
 
+<details>
+
+<summary>11th April 2025 - Paris Vision Creation workshop</summary>
+
+* Audio recordings and transcripts \[[first](https://drive.google.com/file/d/1CtjchywORdX2aQ5FQmRJHRC3BbrPLhud/view?usp=drive_link)] \[[second](https://drive.google.com/file/d/1FH4yIIaoiGW-qZQHgO5KnJu-WDzu4ctm/view?usp=drive_link)] \[[third](https://drive.google.com/file/d/10scr2D_Es5fKSHPHt9p_oxFABUiIaPhg/view?usp=drive_link)]
+* [Notes](https://docs.google.com/document/d/1BGR2ITouj1LGQtshK5CD7zw553U17iMLQST8LzpfyVw/edit?usp=drive_link)
+
+</details>
+
+<details>
+
+<summary>15th April 2025 - Remote Vision Creation workshop</summary>
+
+* Session recording (coming soon)
+* [Miro board](https://miro.com/app/board/uXjVICT9GGY=/?share_link_id=163232192460)
+
+</details>
