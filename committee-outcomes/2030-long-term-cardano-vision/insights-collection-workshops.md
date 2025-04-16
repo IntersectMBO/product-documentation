@@ -15,6 +15,14 @@ If you want to run a workshop please follow the guide [here](run-a-workshop.md)
 
 <details>
 
+<summary>9th March 2025 - Japan Vision Creation workshop</summary>
+
+* Notes - (coming soon)
+
+</details>
+
+<details>
+
 <summary>29th March 2025 - Florida International University -  Vision Creation workshop</summary>
 
 * Session recording (N/A)
@@ -39,3 +47,4 @@ If you want to run a workshop please follow the guide [here](run-a-workshop.md)
 * [Miro board](https://miro.com/app/board/uXjVICT9GGY=/?share_link_id=163232192460)
 
 </details>
+

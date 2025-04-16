@@ -20,7 +20,7 @@
   * [Step 1 - Collect broad input and insights](committee-outcomes/2030-long-term-cardano-vision/step-1-collect-broad-input-and-insights.md)
   * [Run one of the Cardano Vision Creation workshops](committee-outcomes/2030-long-term-cardano-vision/run-a-workshop.md)
   * [Insights collection workshops](committee-outcomes/2030-long-term-cardano-vision/insights-collection-workshops.md)
-  * [Focus group calls](committee-outcomes/2030-long-term-cardano-vision/focus-group-calls.md)
+  * [Focus groups](committee-outcomes/2030-long-term-cardano-vision/focus-groups.md)
 
 ## Committee meeting notes
 

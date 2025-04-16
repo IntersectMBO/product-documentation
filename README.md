@@ -7,7 +7,7 @@ The consultation to create a 2030 community Cardano vision is open!&#x20;
 
 👉🏻 Help us run one of the vision creation workshops (guide [here](committee-outcomes/2030-long-term-cardano-vision/run-a-workshop.md))
 
-👉🏻 Check the recordings and notes [past workshops](committee-outcomes/2030-long-term-cardano-vision/insights-collection-workshops.md) and [focus groups](committee-outcomes/2030-long-term-cardano-vision/focus-group-calls.md)
+👉🏻 Check the recordings and notes [past workshops](committee-outcomes/2030-long-term-cardano-vision/insights-collection-workshops.md) and [focus groups](committee-outcomes/2030-long-term-cardano-vision/focus-groups.md)
 {% endhint %}
 
 ## What is the Product Committee?
