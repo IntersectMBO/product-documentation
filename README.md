@@ -1,11 +1,13 @@
-# Product committee
+# Cardano Product Committee (CPC)
 
 {% hint style="info" %}
 The consultation to create a 2030 community Cardano vision is open!&#x20;
 
 👉🏻 Have your say by filling up [this survey](https://forms.gle/Zv1jcqdUCrKwFQxP6)&#x20;
 
-👉🏻 Help us run one of the the vision creation workshops (guide [here](committee-outcomes/2030-long-term-cardano-vision/run-a-workshop.md))
+👉🏻 Help us run one of the vision creation workshops (guide [here](committee-outcomes/2030-long-term-cardano-vision/run-a-workshop.md))
+
+👉🏻 Check the recordings and notes [past workshops](committee-outcomes/2030-long-term-cardano-vision/insights-collection-workshops.md) and [focus groups](committee-outcomes/2030-long-term-cardano-vision/focus-group-calls.md)
 {% endhint %}
 
 ## What is the Product Committee?
