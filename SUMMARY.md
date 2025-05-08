@@ -21,6 +21,7 @@
   * [Run one of the Cardano Vision Creation workshops](committee-outcomes/2030-long-term-cardano-vision/run-a-workshop.md)
   * [Insights collection workshops](committee-outcomes/2030-long-term-cardano-vision/insights-collection-workshops.md)
   * [Focus groups](committee-outcomes/2030-long-term-cardano-vision/focus-groups.md)
+  * [Get sponsored to run a local gathering or a session with a business](committee-outcomes/2030-long-term-cardano-vision/get-sponsored-to-run-a-local-gathering-or-a-session-with-a-business.md)
 
 ## Committee meeting notes
 
