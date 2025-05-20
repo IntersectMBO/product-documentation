@@ -35,6 +35,12 @@ After the event takes place the host will provide insights which will be added t
 
 The Committee aims to reimburse $50 per attendee up to 10 attendees with a minimum of 5 attendees per event
 
+The product committee will approve workshops that meet the criteria below:
+
+* Send an email to [product-committee@intersectmbo.org](mailto:product-committee@intersectmbo.org) requesting to run a local gathering for 2030 Cardano vision
+
+If approved:
+
 * Create a Luma event and add it to the [Luma Product Committee calendar](https://lu.ma/intersectProductCommittee)
 * Ahead of the session:
   * Share to attendees the [form](https://forms.gle/zs7mmvCEMmXWtiuh8) with the questions that will be discussed in advance so they can start to answer them in the survey
