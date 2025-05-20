@@ -44,15 +44,15 @@ Then, in 2026, we aim to start even sooner, having already a set Cardano vision,
 
 * **By end of the first week of February**
   * [x] Socialise plan and start the process of insights and input collection
-* **By end of quarter 1 (31st March)**
-  * [ ] Complete the first series of workshops to collect insights and broad input from the community
+* **By end of May 2025**
+  * [x] Complete the first series of workshops to collect insights and broad input from the community
   * [ ] Analyse and document insights. Based on those generate a first Cardano 2030 vision draft to be submitted for feedback and critique
-* B**y end of the first week of April**
+* B**y mid of June**
   * [ ] Start the process of feedback and critique collection for the first Cardano 2030 vision draft
-* **By end of May**
+* **By end of July**
   * [ ] Cardano 2030 vision draft review and refinement process are completed
   * [ ] 2030 version community refined draft ready for community ratification
-* **By end of quarter 2 (31st June)**
+* **By mid of quarter 3**&#x20;
   * [ ] The first version of the long-term Cardano vision is ratified by the Cardano community and it can be used to inform the 2026 roadmap
 * B**y end of quarter 3 (31st September)**
   * [ ] 2026 Cardano roadmap ready
