@@ -37,7 +37,7 @@ The Committee aims to reimburse $50 per attendee up to 10 attendees with a minim
 
 The product committee will approve workshops that meet the criteria below:
 
-* Send an email to [product-committee@intersectmbo.org](mailto:product-committee@intersectmbo.org) requesting to run a local gathering for 2030 Cardano vision
+* Fill up this form to request approval → [APPLICATION FORM](https://docs.google.com/forms/d/e/1FAIpQLScN3CS8nQnFCtBaZMNMUEKU4pG8wc9xi5jnYaek4SbtEmd-nQ/viewform?usp=sharing\&ouid=108223542668093509487)
 
 If approved:
 
@@ -45,6 +45,7 @@ If approved:
 * Ahead of the session:
   * Share to attendees the [form](https://forms.gle/zs7mmvCEMmXWtiuh8) with the questions that will be discussed in advance so they can start to answer them in the survey
 * During the session:
+  * Print out the questions to allow participants to write their replies. You can use [this doc](https://docs.google.com/document/d/1naih0cS5GQaau-Xiqm0FbRyir9cvlxk889b2CBnRI5A/edit?tab=t.2l1k9ytjelzj) to print out  (you can also share the link to the [form](https://forms.gle/zs7mmvCEMmXWtiuh8))
   * The host needs to take notes about the discussion (It's suggested to have a second person to support with this)
 * At the end of the session:
   * Share to attendees the[ 2030 Vision consultation survey](https://forms.gle/8adDsqPA8eVRXBkZ9) (this is a more detailed version of the form they already filled)
@@ -53,7 +54,11 @@ If approved:
 * Minimum attendees 5&#x20;
 * Take at least one picture of the group, if possible also pictures of the event
 
-\*Hosts can be funded just for one event
+To request reimbursement:
+
+* Send to [product-committee@intersectmbo.org](mailto:product-committee@intersectmbo.org) with the outcomes documented above
+* Important: This funds have not been officially approved yet. If you decide to apply and run one the local gatherings or business sessions there is a chance you might not get reimbursed.
+* Important: Hosts can be funded just for one event
 
 ## Business sessions
 
