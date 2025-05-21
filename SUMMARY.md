@@ -22,6 +22,7 @@
   * [Insights collection workshops](committee-outcomes/2030-long-term-cardano-vision/insights-collection-workshops.md)
   * [Focus groups](committee-outcomes/2030-long-term-cardano-vision/focus-groups.md)
   * [Get sponsored to run a local gathering or a session with a business](committee-outcomes/2030-long-term-cardano-vision/get-sponsored-to-run-a-local-gathering-or-a-session-with-a-business.md)
+* [Product committee site](https://product.cardano.intersectmbo.org/)
 
 ## Committee meeting notes
 
