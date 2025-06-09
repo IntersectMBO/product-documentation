@@ -45,7 +45,7 @@ If you want to run a workshop please follow the guide [here](run-a-workshop.md)
 
 <summary>15th April 2025 - Remote Vision Creation workshop</summary>
 
-* Session recording (coming soon)
+* [Session recording](https://drive.google.com/file/d/1kzfn186KqPiXvRos1mDNhsETnI0fHFAy/view)
 * [Miro board](https://miro.com/app/board/uXjVICT9GGY=/?share_link_id=163232192460)
 
 </details>
