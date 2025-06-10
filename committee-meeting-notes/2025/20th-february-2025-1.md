@@ -26,7 +26,7 @@ N/A
   * share product committee purpose
   * advertise current effort and share survey
   * advertise opportunity for local gatherings
-* The committee reviewed the [material and guides for local gatherings](../../committee-outcomes/2030-long-term-cardano-vision/get-sponsored-to-run-a-local-gathering-or-a-session-with-a-business.md) and approved it with a few tweaks
+* The committee reviewed the [material and guides for local gatherings](../../committee-outcomes/2030-long-term-cardano-vision/help-us-collect-insights/get-sponsored-to-run-a-local-gathering-or-a-session-with-a-business.md) and approved it with a few tweaks
 * The committee reviewed the latest version of the [business call flow](https://product.cardano.intersectmbo.org/docs/business-interviews)&#x20;
 
 ## Outcomes & Recommendations
