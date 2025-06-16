@@ -21,6 +21,8 @@ In particular the committee requested:
 This funds have not been officially approved yet. If you decide to apply and run one the local gatherings or business sessions there is a chance you might not get reimbursed.
 {% endhint %}
 
+***
+
 ## Local gatherings
 
 Host guide can be found [here](https://docs.google.com/document/d/1naih0cS5GQaau-Xiqm0FbRyir9cvlxk889b2CBnRI5A/edit?usp=sharing)
@@ -60,7 +62,46 @@ To request reimbursement:
 * Important: This funds have not been officially approved yet. If you decide to apply and run one the local gatherings or business sessions there is a chance you might not get reimbursed.
 * Important: Hosts can be funded just for one event
 
+***
+
 ## Business sessions
 
-(coming soon)
+### Overview
+
+The purpose of the business calls is to collect insights from businesses building on Cardano, interested in Web3 or not in Web3. Using the questions and flow provided, the interviewers will be able to structure the discussion and tailor it to business.
+
+After the call takes place the interviewer will provide insights which will be added to the other documentation Product Committee is collecting.
+
+### Requirements to access funds
+
+The Committee aims to reimburse $500 per call to speak with at least 3 businesses OR 1 large one
+
+#### Allowed calls&#x20;
+
+* Only speak with revenue generating businesses
+* Only speak with the decision makers of the company (ex. C-level for small companies OR equivalent from large corporation, ex. middle managers)
+* At least one of
+  1. Has made a meaningful use of blockchain in the past (and can speak to why)
+  2. It's in the same industry as someone who has made a meaningful use of blockchain in the past
+  3. It's in an industry we believe Cardano is well-suited for
+
+The product committee will approve that meet the criteria above:
+
+* Fill up this form to request approval (submit separate forms for each business call)  → [APPLICATION FORM](https://docs.google.com/forms/d/e/1FAIpQLScQTAQ9r-fOk-5kww3VZn-BUD6Qx2gu5-bdUm2ASc6UiTA6EQ/viewform?usp=sharing\&ouid=108223542668093509487)
+
+If approved:
+
+* Ahead of the session:
+  * Book the call and add [product-committee@intersectmbo.org](mailto:product-committee@intersectmbo.org)  in the invite
+  * Use [this guide ](https://product.cardano.intersectmbo.org/docs/business-interviews)to prepare for the call
+* During the session:
+  * If possible book a digital call and record the session (with AI notes)
+  * Take notes during the call
+* After the session:
+  * Share the recording, the notes collected and your report following the guiding questions ([here](https://product.cardano.intersectmbo.org/docs/business-interviews)) focusing on key opportunities and major barriers&#x20;
+
+To request reimbursement:
+
+* Send to [product-committee@intersectmbo.org](mailto:product-committee@intersectmbo.org) with the outcomes documented above
+* Important: This funds have not been officially approved yet. If you decide to apply and run one the local gatherings or business sessions there is a chance you might not get reimbursed.
 
