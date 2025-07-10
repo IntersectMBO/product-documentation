@@ -74,7 +74,7 @@ After the call takes place the interviewer will provide insights which will be a
 
 ### Requirements to access funds
 
-The Committee aims to reimburse $500 per call to speak with at least 3 businesses OR 1 large one
+The Committee aims to reimburse $500 per applicant to speak with at least 3 businesses OR 1 large one
 
 #### Allowed calls&#x20;
 
