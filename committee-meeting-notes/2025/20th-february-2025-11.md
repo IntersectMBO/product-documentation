@@ -1,8 +1,8 @@
-# 15th April 2025
+# 22nd April 2025
 
 The session was run in the related [miro board](https://miro.com/app/board/uXjVKro_lxs=/).&#x20;
 
-📽️ The meeting recording can be found [here](https://drive.google.com/file/d/1TQ2WwXC1ljMMnaSwUNlpCQhWK5Q0Y592/view?usp=sharing).
+📽️ The meeting recording can be found [here](https://drive.google.com/file/d/1JsMi9SRlik6SH3ben2N10J_pTlL_VpER/view?usp=sharing).
 
 ## Participants
 
@@ -14,19 +14,15 @@ N/A
 
 ## Agenda
 
-* Review actions
-  * Update from Paris
-* Review product research proposal, agree on edits and approve for submission
-* Review vision creation proposal, agree on edits and approve for submission
-* 17th April sessions with DReps for Research [https://lu.ma/cardanobudgetprocess](https://lu.ma/cardanobudgetprocess)
-* Proposed items from Academic research for innovation
-* Review other proposals in research bucket (endorse OR provide feedback)
+* Review comments on Product committee proposal and define official reply
+* Prepare business sessions framework
+* Comment on IoR proposal and other research proposals
 
 ## Updates
 
-* The committee reviewed outcomes of the in-person Paris workshop from chair Samuel Leathers and  secretary Lorenzo Bruno
-* The committee reviewed draft vision creation and research proposals and discussed edits. The committee met after the official session and merged the two proposals
-* The committee discussed whether and how to endorse the IoR budget proposal
+* The committee discussed comments on the Product committee proposal and existing replies
+* The committee brainstormed questions for the business calls
+* The committee discussed if and how to support other proposals in the research bucket
 
 ## Outcomes & Recommendations
 

@@ -1,8 +1,8 @@
-# 3rd June 2025
+# 10th June 2025
 
 The session was run in the related[ miro board.](https://miro.com/app/board/uXjVKro_lxs=/)&#x20;
 
-📽️ The meeting recording can be found [here](https://drive.google.com/file/d/1chEIxmhYYaI8u2JFOGVg_Kbsns6wG1tN/view).
+📽️ The meeting recording can be found [here](https://drive.google.com/file/d/1wMHMWlGapHLg5xfgBV55-iWc0EsmrXgK/view?usp=sharing).
 
 ## Participants
 
@@ -11,21 +11,19 @@ The session was run in the related[ miro board.](https://miro.com/app/board/uXjV
 ## Agenda
 
 * Review actions from last session
+  * Insights documented
 * Business calls
   * check status
 * Interviews node teams
   * make a list of questions
-  * define who to book a call with
 * Interviews founding entities
   * make a list of questions
-  * define who to book a call with
-* Discuss vision process progress
 
 ## Updates
 
 * Discussed status of business calls
-* Discussed actions realted to node teams and funding entitities interviews
-* Reviewed and discussed vision document template
+* Drafted questions for Node teams
+* Drafted questions for Founding entities
 
 ## Outcomes & Recommendations
 
