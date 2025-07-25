@@ -1,30 +1,38 @@
-# 11th March 2025
+# 25th March 2025
 
 The session was run in the related [miro board](https://miro.com/app/board/uXjVKro_lxs=/).&#x20;
 
-📽️ The meeting recording can be found [here](https://drive.google.com/file/d/1xuaHPmc6n0xdWHMmyj6gfO_0OOHwcfkS/view).
+📽️ The meeting recording can be found [here](https://drive.google.com/file/d/1iGn1BJfa-4VbH604LPqdLpFQVf-92xeE/view?usp=sharing).
 
 ## Participants
 
-<table><thead><tr><th width="202">Position</th><th width="194">POC</th></tr></thead><tbody><tr><td>Secretary</td><td>Lorenzo Bruno</td></tr><tr><td>Voting seat</td><td>Juan Sierra</td></tr><tr><td>Voting seat</td><td>James Meidinger</td></tr><tr><td>Voting seats</td><td>Zachary Soesbee</td></tr><tr><td>Voting seats</td><td>Alexandre Maaza</td></tr><tr><td>SME</td><td>Nicolas Biri</td></tr><tr><td>Observer</td><td>Kenric Nelson</td></tr><tr><td>Observer</td><td>Mercy F</td></tr></tbody></table>
+<table><thead><tr><th width="202">Position</th><th width="194">POC</th></tr></thead><tbody><tr><td>Secretary</td><td>Lorenzo Bruno</td></tr><tr><td>Chair</td><td>Samuel Leathers</td></tr><tr><td>Vice-chair</td><td>Kyle Solomon</td></tr><tr><td>Voting seat</td><td>Juan Sierra</td></tr><tr><td>Voting seat</td><td>James Meidinger</td></tr><tr><td>Voting seats</td><td>Zachary Soesbee</td></tr><tr><td>Voting seats</td><td>Kyle Solomon</td></tr><tr><td>Voting seats</td><td>Naushad Fouze </td></tr><tr><td>Voting seats</td><td>Alexandre Maaza</td></tr><tr><td>SME</td><td>Nicolas Biri</td></tr><tr><td>Observer</td><td>Kenric Nelson</td></tr></tbody></table>
 
 ## Absentees
 
-<table><thead><tr><th width="202">Position</th><th width="194">POC</th></tr></thead><tbody><tr><td>Chair</td><td>Samuel Leathers</td></tr><tr><td>Vice-chair</td><td>Kyle Solomon</td></tr><tr><td>Voting seats</td><td>Naushad Fouze </td></tr></tbody></table>
+N/A
 
 ## Agenda
 
 * Review actions from the previous session
-  * Update on the research budget from the last session
-  * Vision creation workshop booked
+  * X space open call
 * 2030 vision process
-  * Refine focus group questions + decide which one to book first
-  * Test workshop framework
+  * SPO calls actions
+  * Florida Workshop
+  * Paris Workshop
+  * SpacePlace Workshop
+  * CardanoOverCoffee Workshop
+* Committee elections
+  * Applications are now open
+  * Define chair rotation
+  * Committee election X Space on Thursday 9am UTC
 
 ## Updates
 
-* The committee reviewed the questions for the focus group calls related to the Cardano Vision Creation process and proposed to start with meeting with SPOs first and then follow with businesses, builders, ADA holders and exchanges)
+* Agreed a plan for the first Cardano product committee X Space
+* Agreed a plan for the Florida workshop on saturday
+* Agreed Chair rotation rules \[documented [here](../../standards-operational-procedures/chair-rotation-rules.md)]
 
 ## Outcomes & Recommendations
 
-N/A
+* [Chair rotation rules](../../standards-operational-procedures/chair-rotation-rules.md)
