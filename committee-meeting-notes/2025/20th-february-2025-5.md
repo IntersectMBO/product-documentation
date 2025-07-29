@@ -1,8 +1,8 @@
-# 17th June 2025
+# 24th June 2025
 
 The session was run in the related[ miro board.](https://miro.com/app/board/uXjVKro_lxs=/)&#x20;
 
-📽️ The meeting recording can be found [here](https://drive.google.com/file/d/1zcltQHmr8kRSPvtngBxCbJ9x5390pyTR/view).
+📽️ The meeting recording can be found [here](https://drive.google.com/file/d/1LfezPgUevhXV4pOSpv5DVixNCHmECobJ/view).
 
 ## Participants
 
@@ -11,22 +11,25 @@ The session was run in the related[ miro board.](https://miro.com/app/board/uXjV
 ## Agenda
 
 * Review actions from last session
-* Confirm calls with funding entities
-* Business calls and Node team calls - check status
-* Review requests for workshops / local gatherings
-* Value Proposition map
-  * Review [value prop map](https://miro.com/app/board/uXjVIuLIKxE=/)
-  * Book session with TSC and GMC
+* Rareevo workshops
+* Quebec - July 11th workshop&#x20;
+* Node teams calls - check status
+* Founding entities calls - check status
+* 2030 vision timeline
 
 ## Updates
 
-* The secretary provided an update:
-  * Business calls guide documented and socialised ([here](https://x.com/IntersectCPC/status/1934684152395153667))
-  * [Insights collected ](https://productcommittee.docs.intersectmbo.org/committee-outcomes/2030-long-term-cardano-vision/insights-collected)so far
-* The committee agreed on the timing for call with Fred from CF, and discussed booking time with Charles H. (IOG) and Philip (EMURGO). The committee also refined and shared the questions.
-* The committee reviewed the status of the business and node team calls
-* The committee review the existing applications to run local gatherings and workshops, approving all of them
-* The secretary provided an overview of the value proposition map exercise and collected feedback&#x20;
+* The secretary provided an update:&#x20;
+  * Replies sent to thos who applied to run local gatherings
+  * Update on Treasury action for product committee budget
+  * Japan survey created for the 2030 vision consultation
+* Rareevo
+  * GMC is preparing a workshop alongside Product committee
+  * Product committee intends to run a workshop to review the 2030 Vision draft proposal workshop as well as collecting more insights. The material will be shared ahead of time.
+  * The chair gave an overview about the workshop he will run on July 11th in Quebec
+  * The committee discussed updates and status of Node teams and Founding entities calls
+  * The secretary provided a status update on overall timeline for the 2030 vision and Darby Bodden allowed the committee members to comment on  the Value Proposition Map ahead of the session with GMC and TSC\
+
 
 ## Outcomes & Recommendations
 
