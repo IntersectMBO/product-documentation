@@ -19,7 +19,9 @@
 * [2030 Long-Term Cardano Vision](committee-outcomes/2030-long-term-cardano-vision/README.md)
   * [Help us collect insights](committee-outcomes/2030-long-term-cardano-vision/help-us-collect-insights/README.md)
     * [Run one of the Cardano Vision Creation workshops](committee-outcomes/2030-long-term-cardano-vision/help-us-collect-insights/run-a-workshop.md)
-    * [Get sponsored to run a local gathering or a session with a business](committee-outcomes/2030-long-term-cardano-vision/help-us-collect-insights/get-sponsored-to-run-a-local-gathering-or-a-session-with-a-business.md)
+    * [Get sponsored to run a local gathering or a session with a business](committee-outcomes/2030-long-term-cardano-vision/help-us-collect-insights/get-sponsored-to-run-a-local-gathering-or-a-session-with-a-business/README.md)
+      * [Business Calls](committee-outcomes/2030-long-term-cardano-vision/help-us-collect-insights/get-sponsored-to-run-a-local-gathering-or-a-session-with-a-business/business-calls.md)
+      * [Local gatherings](committee-outcomes/2030-long-term-cardano-vision/help-us-collect-insights/get-sponsored-to-run-a-local-gathering-or-a-session-with-a-business/local-gatherings.md)
   * [Insights collected](committee-outcomes/2030-long-term-cardano-vision/insights-collected/README.md)
     * [Insights collection workshops](committee-outcomes/2030-long-term-cardano-vision/insights-collected/insights-collection-workshops/README.md)
       * [Workshop - 9th March 2025 - Japan](committee-outcomes/2030-long-term-cardano-vision/insights-collected/insights-collection-workshops/workshop-9th-march-2025-japan.md)
@@ -33,6 +35,9 @@
         * [Focus Group - SPOs - 26th March 2025](committee-outcomes/2030-long-term-cardano-vision/insights-collected/focus-groups/spos-focus-groups/focus-group-spos-26th-march-2025.md)
         * [Focus Group - SPOs - 3rd April 2025](committee-outcomes/2030-long-term-cardano-vision/insights-collected/focus-groups/spos-focus-groups/focus-group-spos-3rd-april-2025.md)
     * [Survey](committee-outcomes/2030-long-term-cardano-vision/insights-collected/survey.md)
+  * [Draft review workshops](committee-outcomes/2030-long-term-cardano-vision/draft-review-workshops/README.md)
+    * [7th August 2025 - RareEvo](committee-outcomes/2030-long-term-cardano-vision/draft-review-workshops/7th-august-2025-rareevo.md)
+    * [21st August 2025 - Remote](committee-outcomes/2030-long-term-cardano-vision/draft-review-workshops/21st-august-2025-remote.md)
 * [Product committee site](https://product.cardano.intersectmbo.org/)
 
 ## Committee meeting notes
