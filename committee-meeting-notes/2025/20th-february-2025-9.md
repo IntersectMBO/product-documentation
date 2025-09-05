@@ -1,29 +1,34 @@
-# 27th May 2025
+# 1st July 2025
 
-The session was run in the related[ miro board.](https://miro.com/app/board/uXjVKro_lxs=/)&#x20;
+The session was run in the related [miro board](https://miro.com/app/board/uXjVKro_lxs=/).&#x20;
 
-📽️ The meeting recording can be found [here](https://drive.google.com/file/d/1sTCfFgN1P0kmXyVugznbJ7WwodSsZiVi/view?usp=sharing).
+📽️ The meeting recording can be found [here](https://drive.google.com/file/d/1Q2X_Bi0DGY8P7_dUnaNU4xt1KwjJEB3y/view?usp=sharing).
 
 ## Participants
 
-<table><thead><tr><th width="202">Position</th><th width="194">POC</th></tr></thead><tbody><tr><td>Secretary</td><td>Lorenzo Bruno</td></tr><tr><td>Chair</td><td>Samuel Leathers</td></tr><tr><td>Voting seat</td><td>Juan Sierra</td></tr><tr><td>Voting seat</td><td>James Meidinger</td></tr><tr><td>Voting seats</td><td>Naushad Fouze </td></tr><tr><td>Voting seat</td><td>Tegegne Tefera</td></tr><tr><td>Voting seat</td><td>Carlos Lopez De Lara</td></tr><tr><td>SME</td><td>Fergie Miller</td></tr><tr><td>SME</td><td>Zachary Soesbee</td></tr><tr><td>SME</td><td>Simo Simovic</td></tr></tbody></table>
-
-## Absentees
-
-* Kyle Solomon
+<table><thead><tr><th width="213.19140625">Name</th><th width="212.27734375">Role</th><th width="185.14453125">Attendance</th></tr></thead><tbody><tr><td>Lorenzo Bruno</td><td>Secretary</td><td>Yes</td></tr><tr><td>Samuel Leathers</td><td>Chair</td><td>Yes</td></tr><tr><td>Kyle Solomon</td><td>Vice-Chair</td><td>Yes</td></tr><tr><td>Juan Sierra</td><td>Voting seat</td><td>Yes</td></tr><tr><td>James Meidinger</td><td>Voting seat</td><td>Yes</td></tr><tr><td>Naushad Fouze </td><td>Voting seats</td><td>Yes</td></tr><tr><td>Tegegne Tefera</td><td>Voting seat</td><td>Yes</td></tr><tr><td>Carlos Lopez De Lara</td><td>Voting seat</td><td>Yes</td></tr><tr><td>Fergie Miller</td><td>SME</td><td>No</td></tr><tr><td>Zachary Soesbee</td><td>SME</td><td>Yes</td></tr><tr><td>Darby Bodden</td><td>SME</td><td>Yes</td></tr><tr><td>Rafael Cardoso</td><td>SME</td><td>Yes</td></tr></tbody></table>
 
 ## Agenda
 
-* Review actions
-  * Cardano over coffee and workshop debrief
-  * Update from research working group
-* Review Vision process next step
-* Discuss Product research next steps
+* Review actions from last session
+* 2030 vision draft
+* Founding entities calls - status update
+* Node teams calls - status update
+* Business calls - status update
+* Define insights calls with Midnight partner-chain
+* Plan other workshops in defined in budget proposal
 
 ## Updates
 
-* Research working group representative shared a new approach to run the working group session to make them more open
-* The committee agreed for product research effort to be a lower priority for now while the budget is not approved yet. The committee also agreed, when it comes the time, to focus first on defining the scope of work and milestone for the first $5k which are intended to define the streams of research
+* The secretary provided an update about:
+  * Rareevo workshop
+  * Value proposition map session with TSC and GMC
+  * Product Committee treasury action
+  * Call with Alba node
+  * Local gatherings applications
+* The committee discussed next steps for 2030 vision proposal drafting
+* The committee discussed status of calls with Founding entities, Node teams and businesses
+* The committee brainstormed questions to ask to Midnight team at Rareevo
 
 ## Outcomes & Recommendations
 
