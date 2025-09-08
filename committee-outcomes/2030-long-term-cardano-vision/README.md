@@ -40,25 +40,6 @@ Then, in 2026, we aim to start even sooner, having already a set Cardano vision,
 
 ***
 
-## Timeline to a long-term Cardano vision and a 2026 roadmap
-
-* **By end of the first week of February**
-  * [x] Socialise plan and start the process of insights and input collection
-* **By end of May 2025**
-  * [x] Complete the first series of workshops to collect insights and broad input from the community
-  * [ ] Analyse and document insights. Based on those generate a first Cardano 2030 vision draft to be submitted for feedback and critique
-* B**y mid of June**
-  * [ ] Start the process of feedback and critique collection for the first Cardano 2030 vision draft
-* **By end of July**
-  * [ ] Cardano 2030 vision draft review and refinement process are completed
-  * [ ] 2030 version community refined draft ready for community ratification
-* **By mid of quarter 3**&#x20;
-  * [ ] The first version of the long-term Cardano vision is ratified by the Cardano community and it can be used to inform the 2026 roadmap
-* B**y end of quarter 3 (31st September)**
-  * [ ] 2026 Cardano roadmap ready
-
-***
-
 ## Process
 
 ### Key steps
@@ -132,5 +113,46 @@ Depending on the community sentiment and direction define the most appropriate w
 {% endstep %}
 {% endstepper %}
 
+***
 
+## Timeline to a ratified Cardano 2030 vision and a 2026 roadmap
 
+{% stepper %}
+{% step %}
+### By End February 2025
+
+* [x] Socialise plan and start the process of insights and input collection
+{% endstep %}
+
+{% step %}
+### By end May 2025
+
+* [x] Complete the first series of workshops to collect insights and broad input from the community
+* [x] Analyse and document insights. Based on those generate a first Cardano 2030 vision draft to be submitted for feedback and critique
+{% endstep %}
+
+{% step %}
+### By mid June 2025
+
+* [x] Start the process of feedback and critique collection for the first Cardano 2030 vision draft
+{% endstep %}
+
+{% step %}
+### By end October 2025
+
+* [ ] Cardano 2030 vision draft review and refinement process are completed > check next workshops [here](https://luma.com/intersectProductCommittee)
+* [ ] Community refined draft ready for community ratification and submitted on-chain as an info action
+{% endstep %}
+
+{% step %}
+### By end November 2025
+
+* [ ] The first version of the long-term Cardano vision is ratified by the Cardano community and it can be used to inform the 2026 roadmap
+{% endstep %}
+
+{% step %}
+### By end December 2025
+
+* [ ] Cardano 2026 roadmap proposal on-chain (drafting steps to be defined
+{% endstep %}
+{% endstepper %}
