@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # Run one of the Cardano Vision Creation workshops
 
 {% hint style="info" %}
@@ -5,7 +9,7 @@ The consultation to create a 2030 community Cardano vision is open!&#x20;
 
 👉🏻 Have your say by filling up [this survey](https://forms.gle/Zv1jcqdUCrKwFQxP6)&#x20;
 
-👉🏻 Help us run one of the the vision creation workshops (guide [here](run-a-workshop.md))
+👉🏻 Help us run one of the the vision creation workshops (guide [here](run-a-workshop/))
 {% endhint %}
 
 

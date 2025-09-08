@@ -5,7 +5,7 @@ The consultation to create a 2030 community Cardano vision is open!&#x20;
 
 👉🏻 Have your say by filling up [this survey](https://forms.gle/Zv1jcqdUCrKwFQxP6)&#x20;
 
-👉🏻 Help us run one of the vision creation workshops (guide [here](committee-outcomes/2030-long-term-cardano-vision/help-us-collect-insights/run-a-workshop.md))
+👉🏻 Help us run one of the vision creation workshops (guide [here](committee-outcomes/2030-long-term-cardano-vision/help-us-collect-insights/run-a-workshop/))
 
 👉🏻 Check the recordings and notes [past workshops](committee-outcomes/2030-long-term-cardano-vision/insights-collected/insights-collection-workshops/) and [focus groups](committee-outcomes/2030-long-term-cardano-vision/insights-collected/focus-groups/)
 {% endhint %}

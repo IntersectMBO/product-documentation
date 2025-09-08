@@ -1,7 +1,7 @@
 # Insights collection workshops
 
 {% hint style="info" %}
-If you want to run a workshop please follow the guide [here](../../help-us-collect-insights/run-a-workshop.md)
+If you want to run a workshop please follow the guide [here](../../help-us-collect-insights/run-a-workshop/)
 {% endhint %}
 
 <details>
