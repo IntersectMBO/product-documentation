@@ -141,7 +141,7 @@ Depending on the community sentiment and direction define the most appropriate w
 ### By end October 2025
 
 * [ ] Cardano 2030 vision draft review and refinement process are completed > check next workshops [here](https://luma.com/intersectProductCommittee)
-* [ ] Community refined draft ready for community ratification and submitted on-chain as an info action
+* [ ] **Submit Governance Info Action**: Community refined draft ready for community ratification and submitted on-chain as an info action
 {% endstep %}
 
 {% step %}
