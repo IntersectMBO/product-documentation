@@ -41,7 +41,7 @@ The product committee will approve workshops that meet the criteria below:
 
 * Fill up this form to request approval → [APPLICATION FORM](https://docs.google.com/forms/d/e/1FAIpQLScN3CS8nQnFCtBaZMNMUEKU4pG8wc9xi5jnYaek4SbtEmd-nQ/viewform?usp=sharing\&ouid=108223542668093509487)
 
-If approved:
+#### If approved:
 
 * Create a Luma event and add it to the [Luma Product Committee calendar](https://lu.ma/intersectProductCommittee)
 * Ahead of the session:
@@ -89,7 +89,7 @@ The product committee will approve that meet the criteria above:
 
 * Fill up this form to request approval (submit separate forms for each business call)  → [APPLICATION FORM](https://docs.google.com/forms/d/e/1FAIpQLScQTAQ9r-fOk-5kww3VZn-BUD6Qx2gu5-bdUm2ASc6UiTA6EQ/viewform?usp=sharing\&ouid=108223542668093509487)
 
-If approved:
+#### If approved:
 
 * Ahead of the session:
   * Book the call and add [product-committee@intersectmbo.org](mailto:product-committee@intersectmbo.org)  in the invite
