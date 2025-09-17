@@ -150,7 +150,8 @@
   * [Stake Pool Operators](working-group/special-interest-groups/stake-pool-operators.md)
 * [Research Working Group](working-group/research-working-group.md)
 
-## Standards operational procedures
+## Policies
 
-* [Chair Election Process](standards-operational-procedures/chair-election-process.md)
-* [Chair Rotation rules](standards-operational-procedures/chair-rotation-rules.md)
+* [Chair Election Process](policies/chair-election-process.md)
+* [Chair Rotation rules](policies/chair-rotation-rules.md)
+* [Cardano vision workshops reimbursement limits](policies/cardano-vision-workshops-reimbursement-limits.md)
