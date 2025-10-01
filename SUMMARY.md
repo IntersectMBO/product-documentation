@@ -41,6 +41,7 @@
   * [Draft review workshops](committee-outcomes/2030-long-term-cardano-vision/draft-review-workshops/README.md)
     * [7th August 2025 - RareEvo](committee-outcomes/2030-long-term-cardano-vision/draft-review-workshops/7th-august-2025-rareevo.md)
     * [21st August 2025 - Remote](committee-outcomes/2030-long-term-cardano-vision/draft-review-workshops/21st-august-2025-remote.md)
+    * [18th September 2025 - Remote](committee-outcomes/2030-long-term-cardano-vision/draft-review-workshops/18th-september-2025-remote.md)
 * [Product committee site](https://product.cardano.intersectmbo.org/)
 
 ## Committee meeting notes
