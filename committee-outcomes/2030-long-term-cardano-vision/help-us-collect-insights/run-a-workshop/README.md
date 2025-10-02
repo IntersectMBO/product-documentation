@@ -34,4 +34,8 @@ If you got approved, after the event, you'll need to provide documented feedback
 {% endstep %}
 {% endstepper %}
 
-For workshop guidance you can also refer to [this guide](https://docs.google.com/document/d/1g9v0rrQ9FZAvkFF_Nplw4DqNr7Z-0zKaVtXKi0485Eo/edit?usp=sharing)
+For workshop guidance you can also refer to [this guide](https://docs.google.com/document/d/1g9v0rrQ9FZAvkFF_Nplw4DqNr7Z-0zKaVtXKi0485Eo/edit?usp=sharing).
+
+
+
+By sending an application to run one of this workshops you agree to the related [terms and conditions](https://docs.google.com/document/d/1JUMMa_nMl3Y66Ax_GPrFa2rRKNqPH081/edit?usp=sharing\&ouid=108223542668093509487\&rtpof=true\&sd=true).
