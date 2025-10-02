@@ -62,6 +62,8 @@ To request reimbursement:
 * Important: This funds have not been officially approved yet. If you decide to apply and run one the local gatherings or business sessions there is a chance you might not get reimbursed.
 * Important: Hosts can be funded just for one event
 
+By applying you also agree to the related[ terms and conditions](https://docs.google.com/document/d/1zH4jy2uOlm1tmWadyg5F1kXJKa96EqG_/edit?usp=sharing\&ouid=108223542668093509487\&rtpof=true\&sd=true).
+
 ***
 
 ## Business sessions
