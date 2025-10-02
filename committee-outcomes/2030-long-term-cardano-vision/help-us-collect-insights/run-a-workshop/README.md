@@ -26,5 +26,12 @@ If you would like to run one:
 * Where would you like to run it
 * What has been your involvement with the process to meet facilitator criteria
 {% endstep %}
+
+{% step %}
+### After the event
+
+If you got approved, after the event, you'll need to provide documented feedback of the draft version reviewed and if possible transcripts. If you also got approved for reimbursement of event costs, travel and accommodation, you will also be asked to send related receipts.&#x20;
+{% endstep %}
 {% endstepper %}
 
+For workshop guidance you can also refer to [this guide](https://docs.google.com/document/d/1g9v0rrQ9FZAvkFF_Nplw4DqNr7Z-0zKaVtXKi0485Eo/edit?usp=sharing)
