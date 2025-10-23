@@ -1,34 +1,29 @@
-# 2nd September 2025
+# 21st October 2025
 
 The session was run in the related [miro board](https://miro.com/app/board/uXjVKro_lxs=/).&#x20;
 
-📽️ The meeting recording can be found [here](https://drive.google.com/file/d/1cZuaw7Fqcg_uI6HT-vMBRYpGOl_nNfYc/view).
+📽️ The meeting recording can be found [here](https://drive.google.com/file/d/1jyGswgGQAg_WDXgrYJo0Qcg2ayvkvFVe/view).
 
 ## Participants
 
-<table><thead><tr><th width="213.19140625">Name</th><th width="212.27734375">Role</th><th width="185.14453125">Attendance</th></tr></thead><tbody><tr><td>Lorenzo Bruno</td><td>Secretary</td><td>Yes</td></tr><tr><td>Samuel Leathers</td><td>Chair</td><td>Yes</td></tr><tr><td>Kyle Solomon</td><td>Vice-Chair</td><td>Yes</td></tr><tr><td>Juan Sierra</td><td>Voting seat</td><td>Yes</td></tr><tr><td>James Meidinger</td><td>Voting seat</td><td>Yes</td></tr><tr><td>Naushad Fouze </td><td>Voting seats</td><td>No</td></tr><tr><td>Tegegne Tefera</td><td>Voting seat</td><td>Yes</td></tr><tr><td>Carlos Lopez De Lara</td><td>Voting seat</td><td>Yes</td></tr><tr><td>Fergie Miller</td><td>SME</td><td>Yes</td></tr><tr><td>Zachary Soesbee</td><td>SME</td><td>No</td></tr><tr><td>Darby Bodden</td><td>SME</td><td>Yes</td></tr><tr><td>Rafael Cardoso</td><td>SME</td><td>No</td></tr><tr><td>Tomas Garro</td><td>SME</td><td>Yes</td></tr></tbody></table>
+<table><thead><tr><th width="213.19140625">Name</th><th width="212.27734375">Role</th><th width="185.14453125">Attendance</th></tr></thead><tbody><tr><td>Lorenzo Bruno</td><td>Secretary</td><td>Yes</td></tr><tr><td>Samuel Leathers</td><td>Chair</td><td>Yes</td></tr><tr><td>Kyle Solomon</td><td>Vice-Chair</td><td>Yes</td></tr><tr><td>Juan Sierra</td><td>Voting seat</td><td>Yes</td></tr><tr><td>James Meidinger</td><td>Voting seat</td><td>Yes</td></tr><tr><td>Naushad Fouze </td><td>Voting seats</td><td>No</td></tr><tr><td>Tegegne Tefera</td><td>Voting seat</td><td>Yes</td></tr><tr><td>Carlos Lopez De Lara</td><td>Voting seat</td><td>Yes</td></tr><tr><td>Fergie Miller</td><td>SME</td><td>Yes</td></tr><tr><td>Simo Simovic</td><td>Budget Committee - Program Manager</td><td>Yes</td></tr><tr><td>Darby Bodden</td><td>SME</td><td>Yes</td></tr><tr><td>Lloyd Duhon</td><td>Budget Committee Secretary</td><td>Yes</td></tr><tr><td>Tomas Garro</td><td>SME</td><td>Yes</td></tr></tbody></table>
 
 ## Agenda
 
 * Review actions / updates
-  * Update on local gatherings
-* Review budget related actions
-  * Plan other workshops
-  * Define who can facilitate
-  * Allocate budget based on contract
-  * Review product expert allocation criteria
-* Reports for Fundamental Research and  Technology Validation
-* Presentation and review of [document](https://docs.google.com/document/d/1Ilf66KP0CgC0fPcqewi_h3kZbj9FPkN6Wi7faTtHURw/edit?usp=sharing) from Gintama
-* Discuss booking sync with midnight
+* Discuss feedback from last workshop in Barcelona
+* Info actions define epoch
+* Committee elections > apply and nominate
+  * Review applicants
+* Budget committee
 
 ## Updates
 
-* The secretary provided an update on latest local gathering
-* The committee reviewed the approved workshops, discussed other locations and date, and approved time for remote workshops
-* The committee reviewed the proposed policy to allocate product experts for workshops and approved it
-* Fergie provided a presentation about Fundamental Research and  Technology Validation report
-* Gintama provided a presentation about proposed additions to Cardano vision
-* The committee discussed how to book time with midnight foundation
+* The Budget committee representatives shared an overview of the budget process and how product committee effort fits into that
+* The secretary provided an update on Barcelona workshop
+* The committee reviewed and discussed the feedback from Barcelona workshop [here](https://miro.com/app/board/uXjVJ4DpJpc=/?share_link_id=821428579390)
+* Committee decided to aim to submit info action with Vision, Strategy and 2026 Tactical strategy/roadmap in epoch 598 or 599
+* Committee reviewed future in-person workshops
 
 ## Outcomes & Recommendations
 
