@@ -22,4 +22,6 @@ Note: for fair use the funds allocated to the Product Committee, costs previousl
 
 Note: Any Cardano Community members (including any committee member) meeting above criteria can facilitate a workshop AND get reimbursed accordingly.
 
+Note: to get reimbursed applicants will be asked to successfully complete a KYC/KYB process
+
 \

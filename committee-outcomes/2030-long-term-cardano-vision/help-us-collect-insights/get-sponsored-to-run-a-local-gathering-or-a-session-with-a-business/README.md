@@ -17,10 +17,6 @@ In particular the committee requested:
 * $50k towards retroactive reimbursement of anyone who wants to run an in-person local ad-hoc gathering or structured vision creation workshops
 * $25k towards retroactive reimbursement of structured discovery business/development sessions to gather insights
 
-{% hint style="danger" %}
-This funds have not been officially approved yet. If you decide to apply and run one the local gatherings or business sessions there is a chance you might not get reimbursed.
-{% endhint %}
-
 ***
 
 ## Local gatherings
@@ -61,6 +57,7 @@ To request reimbursement:
 * Send to [product-committee@intersectmbo.org](mailto:product-committee@intersectmbo.org) with the outcomes documented above
 * Important: This funds have not been officially approved yet. If you decide to apply and run one the local gatherings or business sessions there is a chance you might not get reimbursed.
 * Important: Hosts can be funded just for one event
+* To get reimbursed applicants will be asked to successfully complete a KYC/KYB process
 
 By applying you also agree to the related[ terms and conditions](https://docs.google.com/document/d/1zH4jy2uOlm1tmWadyg5F1kXJKa96EqG_/edit?usp=sharing\&ouid=108223542668093509487\&rtpof=true\&sd=true).
 
@@ -106,4 +103,5 @@ To request reimbursement:
 
 * Send to [product-committee@intersectmbo.org](mailto:product-committee@intersectmbo.org) with the outcomes documented above
 * Important: This funds have not been officially approved yet. If you decide to apply and run one the local gatherings or business sessions there is a chance you might not get reimbursed.
+* To get reimbursed applicants will be asked to successfully complete a KYC/KYB process
 
