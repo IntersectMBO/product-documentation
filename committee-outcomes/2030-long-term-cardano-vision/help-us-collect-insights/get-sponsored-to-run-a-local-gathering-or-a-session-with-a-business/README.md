@@ -92,7 +92,7 @@ The product committee will approve that meet the criteria above:
 
 * Ahead of the session:
   * Book the call and add [product-committee@intersectmbo.org](mailto:product-committee@intersectmbo.org)  in the invite
-  * Use [this guide ](https://product.cardano.intersectmbo.org/docs/business-interviews)to prepare for the call
+  * Use [this guide](https://product.cardano.intersectmbo.org/business-interviews/) to prepare for the call
 * During the session:
   * If possible book a digital call and record the session (with AI notes)
   * Take notes during the call
