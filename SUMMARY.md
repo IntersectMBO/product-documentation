@@ -47,6 +47,7 @@
     * [Workshop - 18th September 2025 - Remote](committee-outcomes/2030-long-term-cardano-vision/draft-review-workshops/workshop-18th-september-2025-remote.md)
     * [Workshop - April 2025 - Quebec City ](https://product.cardano.intersectmbo.org/workshops/quebec-jul-2025)
     * [Workshop - September 2025 - Nairobi](https://product.cardano.intersectmbo.org/workshops/nairobi-sept-2025)
+    * [Workshop - September 2025 - Colombo](https://product.cardano.intersectmbo.org/workshops/colombo-sep-2025)
     * [Workshop - October 2025 - Barcelona](https://product.cardano.intersectmbo.org/workshops/bar-oct-2025)
     * [Workshop - October 2025 - Cameroon](https://product.cardano.intersectmbo.org/workshops/cam-oct-2025)
     * [Workshop - November 2025 - Buenos Aires ](https://product.cardano.intersectmbo.org/workshops/buenos-aires-nov-2025)
