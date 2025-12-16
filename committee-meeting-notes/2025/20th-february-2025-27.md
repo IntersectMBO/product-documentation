@@ -4,8 +4,7 @@ The session was run in the related [miro board](https://miro.com/app/board/uXjVK
 
 📽️ The meeting recording can be found [here](https://drive.google.com/file/d/14P-su91J7K6BJi77JBHu4hOI57CV0IKE/view).\
 📄 The meeting transcript can be found [here](https://docs.google.com/document/d/1EVCbUT-0BwEcKMd8oIeHPj7FhpZE5F5Xgw_JWtGC4dA/edit?tab=t.0#heading=h.686pv6k7lunu).\
-📽️ The recording of the open session can be found [here](https://drive.google.com/file/d/1M_7zJKQdA_OxHw-flrWrOTybUYtTt7Os/view).\
-
+📽️ The recording of the open session can be found [here](https://drive.google.com/file/d/1M_7zJKQdA_OxHw-flrWrOTybUYtTt7Os/view).<br>
 
 ## Participants
 

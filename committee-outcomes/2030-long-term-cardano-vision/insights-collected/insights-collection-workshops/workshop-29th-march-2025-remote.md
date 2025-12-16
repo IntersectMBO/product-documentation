@@ -48,8 +48,7 @@
 * Bring Bitcoin expressiveness into Cardano via interoperability.
 * Explore a state-owned stablecoin.
 * Compete with Visa/Mastercard on transactions per second and cost.\
-  \
-
+  <br>
 
 ***
 

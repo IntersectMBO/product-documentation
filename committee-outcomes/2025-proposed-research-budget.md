@@ -357,8 +357,7 @@ For year 1, 2025, the research conducted in this sub-bucket aims to provide insi
   Problem to solve: How might we ensure Cardano remains trustworthy, reliable, and competitive?\
   \
   &#xNAN;_&#x51;uestions_:
-  * What are Cardano's core qualities? Which of these are unique? Which one is also our USP and makes us competitive?\
-
+  * What are Cardano's core qualities? Which of these are unique? Which one is also our USP and makes us competitive?<br>
 * **To inform the broad topic: Vision**\
   &#xNAN;_&#x47;oal_: Process for a shared community-driven vision\
   Problem to solve: How might we create the next path to move Cardano forward as a community?\

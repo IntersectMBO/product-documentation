@@ -27,4 +27,4 @@ The following items will be tested for eligibility, and it should be noted that 
 
 A separate [glossary ](https://github.com/IntersectMBO/glossary-intersect-all)will be provided to house all the necessary attributes expected in this document. Once the glossary is set up, it will be linked to the relevant terms.
 
-\
+<br>

@@ -24,4 +24,4 @@ Note: Any Cardano Community members (including any committee member) meeting abo
 
 Note: to get reimbursed applicants will be asked to successfully complete a KYC/KYB process
 
-\
+<br>

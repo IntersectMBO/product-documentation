@@ -10,8 +10,7 @@ The session was run in the related [miro board](https://miro.com/app/board/uXjVK
 
 * Review actions + decisions from last session and general updates
 * Chair election
-* Review budget - vision creation > Discuss activities and how to budget\
-
+* Review budget - vision creation > Discuss activities and how to budget<br>
 
 ## Updates
 

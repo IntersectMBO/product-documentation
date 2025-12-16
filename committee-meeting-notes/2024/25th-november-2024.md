@@ -11,8 +11,7 @@ This session was moved to Monday 25th from Thursday 28th to accommodate the US b
 ## Agenda
 
 * Review actions + decisions from last session and general updates
-* Review budget - vision creation > Discuss activities and how to budget\
-
+* Review budget - vision creation > Discuss activities and how to budget<br>
 
 ## Updates
 

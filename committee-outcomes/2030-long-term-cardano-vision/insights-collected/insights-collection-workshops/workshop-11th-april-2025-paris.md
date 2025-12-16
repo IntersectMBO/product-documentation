@@ -20,8 +20,7 @@
   * Opportunity for “governance as a service” — enabling governments and enterprises to run governance on Cardano.
 * Time horizons matter:
   * Next 2 years → ensure scaling and throughput to remain competitive.
-  * Next 5–10 years → positioning for long-term adoption across enterprises and governments.\
-
+  * Next 5–10 years → positioning for long-term adoption across enterprises and governments.<br>
 
 ***
 

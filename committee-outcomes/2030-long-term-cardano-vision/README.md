@@ -85,8 +85,7 @@ Consolidate and document all the insights collected to draft a first Cardano 203
 
 #### Where to store the proposal
 
-The proposal's official version will be stored in GitHub\
-
+The proposal's official version will be stored in GitHub<br>
 {% endstep %}
 
 {% step %}

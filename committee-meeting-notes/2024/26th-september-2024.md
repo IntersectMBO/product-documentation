@@ -10,8 +10,7 @@ The session was run in the related [miro board](https://miro.com/app/board/uXjVK
 
 * Review actions + decisions from last session and general updates
 * Review the status of 2024 committee deliverables + key activities/meetings (next 6 weeks)
-* Review budget - product research review doc and comment\
-
+* Review budget - product research review doc and comment<br>
 
 ## Updates
 

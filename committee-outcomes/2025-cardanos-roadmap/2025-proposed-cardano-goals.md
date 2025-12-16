@@ -19,8 +19,7 @@ These goals will be submitted as a proposal for review and further feedback on G
 Cardano, like any other ecosystem, blockchain, or more broadly product, must be useful and used to survive and thrive. As such the first and widest topic proposed is related to ‘getting more usage’.&#x20;
 
 The broader goal is to get more adoption of Cardano as a viable option for many use cases, get more developers to be able to build on Cardano, and then get more users using Cardano (perhaps even without knowing their apps use Cardano), so finding product market fit.\
-As a result, this should drive more transactions, increasing our treasury's size and value.\
-
+As a result, this should drive more transactions, increasing our treasury's size and value.<br>
 
 ### Goal: Attract DApps and users - product market fit
 
@@ -165,8 +164,7 @@ So this goal aims to support all the activities that will get us closer to a fir
 * sub-goal: Support catalyst but change the voting system  &#x20;
 * sub-goal: Support projects building on and for Cardano in talent retention during down markets and while there isn't a clear product-market fit yet&#x20;
 * sub-goal: Build out open-source infrastructure for funding &#x20;
-* sub-goal: Facilitate the creation of business opportunities on Cardano.\
-
+* sub-goal: Facilitate the creation of business opportunities on Cardano.<br>
 
 ### Goal: Make Cardano more recognizable
 

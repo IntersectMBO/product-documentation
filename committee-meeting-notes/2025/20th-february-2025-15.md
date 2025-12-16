@@ -28,8 +28,7 @@ The session was run in the related[ miro board.](https://miro.com/app/board/uXjV
   * Product committee intends to run a workshop to review the 2030 Vision draft proposal workshop as well as collecting more insights. The material will be shared ahead of time.
   * The chair gave an overview about the workshop he will run on July 11th in Quebec
   * The committee discussed updates and status of Node teams and Founding entities calls
-  * The secretary provided a status update on overall timeline for the 2030 vision and Darby Bodden allowed the committee members to comment on  the Value Proposition Map ahead of the session with GMC and TSC\
-
+  * The secretary provided a status update on overall timeline for the 2030 vision and Darby Bodden allowed the committee members to comment on  the Value Proposition Map ahead of the session with GMC and TSC<br>
 
 ## Outcomes & Recommendations
 
