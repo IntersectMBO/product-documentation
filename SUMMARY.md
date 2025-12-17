@@ -55,6 +55,7 @@
   * [Cardano 2030 - Info action](committee-outcomes/2030-long-term-cardano-vision/cardano-2030-info-action/README.md)
     * [Cardano 2030 info action -Translations](committee-outcomes/2030-long-term-cardano-vision/cardano-2030-info-action/cardano-2030-info-action-translations/README.md)
       * [Cardano 2030: Visión, Misión, Marco Estratégico y KPIs](committee-outcomes/2030-long-term-cardano-vision/cardano-2030-info-action/cardano-2030-info-action-translations/cardano-2030-vision-mision-marco-estrategico-y-kpis.md)
+      * [ビジョン、ミッション、戦略フレームワークおよびKPI](committee-outcomes/2030-long-term-cardano-vision/cardano-2030-info-action/cardano-2030-info-action-translations/bijonmisshonfurmuwkuoyobikpi.md)
 * [Product committee site](https://product.cardano.intersectmbo.org/)
 
 ## Committee meeting notes
