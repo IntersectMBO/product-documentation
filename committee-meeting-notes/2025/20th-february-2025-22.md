@@ -1,32 +1,34 @@
-# 6th May 2025
+# 24th June 2025
 
 The session was run in the related[ miro board.](https://miro.com/app/board/uXjVKro_lxs=/)&#x20;
 
-📽️ The meeting recording can be found [here](https://drive.google.com/file/d/11toZBqY3PJh8K4TXL6Xx9wcM8hHtm1FF/view) and the open session recording can be found here.
+📽️ The meeting recording can be found [here](https://drive.google.com/file/d/1LfezPgUevhXV4pOSpv5DVixNCHmECobJ/view).
 
 ## Participants
 
-<table><thead><tr><th width="202">Position</th><th width="194">POC</th></tr></thead><tbody><tr><td>Secretary</td><td>Lorenzo Bruno</td></tr><tr><td>Chair</td><td>Samuel Leathers</td></tr><tr><td>Vice-chair</td><td>Kyle Solomon</td></tr><tr><td>Voting seat</td><td>Juan Sierra</td></tr><tr><td>Voting seat</td><td>James Meidinger</td></tr><tr><td>Voting seats</td><td>Zachary Soesbee</td></tr><tr><td>Voting seats</td><td>Kyle Solomon</td></tr><tr><td>Voting seats</td><td>Naushad Fouze </td></tr><tr><td>Voting seats</td><td>Alexandre Maaza</td></tr><tr><td>SME</td><td>Fergie Miller</td></tr><tr><td>Observer</td><td>Mercy F</td></tr></tbody></table>
-
-## Absentees
-
-N/A
+<table><thead><tr><th width="213.19140625">Name</th><th width="212.27734375">Role</th><th width="185.14453125">Attendance</th></tr></thead><tbody><tr><td>Lorenzo Bruno</td><td>Secretary</td><td>Yes</td></tr><tr><td>Samuel Leathers</td><td>Chair</td><td>Yes</td></tr><tr><td>Kyle Solomon</td><td>Vice-Chair</td><td>Yes</td></tr><tr><td>Juan Sierra</td><td>Voting seat</td><td>Yes</td></tr><tr><td>James Meidinger</td><td>Voting seat</td><td>Yes</td></tr><tr><td>Naushad Fouze </td><td>Voting seats</td><td>Yes</td></tr><tr><td>Tegegne Tefera</td><td>Voting seat</td><td>Yes</td></tr><tr><td>Carlos Lopez De Lara</td><td>Voting seat</td><td>Yes</td></tr><tr><td>Fergie Miller</td><td>SME</td><td>No</td></tr><tr><td>Zachary Soesbee</td><td>SME</td><td>No</td></tr><tr><td>Darby Bodden</td><td>SME</td><td>Yes</td></tr><tr><td>Rafael Cardoso</td><td>SME</td><td>Yes</td></tr></tbody></table>
 
 ## Agenda
 
-* Review actions
-* Action the TO-DO related to the budget proposal
-* Book remaining insights collection sessions
-  * Book workshop with committees
-  * Book call with businesses in Cardano&#x20;
-  * Book session with utility working group
-  * Book a cardano over coffee chat and advertise survey
+* Review actions from last session
+* Rareevo workshops
+* Quebec - July 11th workshop&#x20;
+* Node teams calls - check status
+* Founding entities calls - check status
+* 2030 vision timeline
 
 ## Updates
 
-* The committee discuss how to handle the remaining session related to insights gathering
-* The committee discussed the requirements related to 'gatherings' in relation to the budget proposal submitted
-* In the open session the committee was presented a demo of the Andamio platform evaluating if it could support the process to distribute the funds requested in the 2025 cardano budget process
+* The secretary provided an update:&#x20;
+  * Replies sent to thos who applied to run local gatherings
+  * Update on Treasury action for product committee budget
+  * Japan survey created for the 2030 vision consultation
+* Rareevo
+  * GMC is preparing a workshop alongside Product committee
+  * Product committee intends to run a workshop to review the 2030 Vision draft proposal workshop as well as collecting more insights. The material will be shared ahead of time.
+  * The chair gave an overview about the workshop he will run on July 11th in Quebec
+  * The committee discussed updates and status of Node teams and Founding entities calls
+  * The secretary provided a status update on overall timeline for the 2030 vision and Darby Bodden allowed the committee members to comment on  the Value Proposition Map ahead of the session with GMC and TSC<br>
 
 ## Outcomes & Recommendations
 

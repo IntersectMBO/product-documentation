@@ -1,28 +1,29 @@
-# 22nd April 2025
+# 10th June 2025
 
-The session was run in the related [miro board](https://miro.com/app/board/uXjVKro_lxs=/).&#x20;
+The session was run in the related[ miro board.](https://miro.com/app/board/uXjVKro_lxs=/)&#x20;
 
-📽️ The meeting recording can be found [here](https://drive.google.com/file/d/1JsMi9SRlik6SH3ben2N10J_pTlL_VpER/view?usp=sharing).
+📽️ The meeting recording can be found [here](https://drive.google.com/file/d/1wMHMWlGapHLg5xfgBV55-iWc0EsmrXgK/view?usp=sharing).
 
 ## Participants
 
-<table><thead><tr><th width="202">Position</th><th width="194">POC</th></tr></thead><tbody><tr><td>Secretary</td><td>Lorenzo Bruno</td></tr><tr><td>Chair</td><td>Samuel Leathers</td></tr><tr><td>Vice-chair</td><td>Kyle Solomon</td></tr><tr><td>Voting seat</td><td>Juan Sierra</td></tr><tr><td>Voting seat</td><td>James Meidinger</td></tr><tr><td>Voting seats</td><td>Zachary Soesbee</td></tr><tr><td>Voting seats</td><td>Kyle Solomon</td></tr><tr><td>Voting seats</td><td>Naushad Fouze </td></tr><tr><td>Voting seats</td><td>Alexandre Maaza</td></tr><tr><td>SME</td><td>Fergie Miller</td></tr><tr><td>Observer</td><td>Kenric Nelson</td></tr></tbody></table>
-
-## Absentees
-
-N/A
+<table><thead><tr><th width="213.19140625">Name</th><th width="212.27734375">Role</th><th width="185.14453125">Attendance</th></tr></thead><tbody><tr><td>Lorenzo Bruno</td><td>Secretary</td><td>Yes</td></tr><tr><td>Samuel Leathers</td><td>Chair</td><td>Yes</td></tr><tr><td>Kyle Solomon</td><td>Vice-Chair</td><td>Yes</td></tr><tr><td>Juan Sierra</td><td>Voting seat</td><td>Yes</td></tr><tr><td>James Meidinger</td><td>Voting seat</td><td>Yes</td></tr><tr><td>Naushad Fouze </td><td>Voting seats</td><td>Yes</td></tr><tr><td>Tegegne Tefera</td><td>Voting seat</td><td>Yes</td></tr><tr><td>Carlos Lopez De Lara</td><td>Voting seat</td><td>Yes</td></tr><tr><td>Fergie Miller</td><td>SME</td><td>No</td></tr><tr><td>Zachary Soesbee</td><td>SME</td><td>Yes</td></tr><tr><td>Darby Bodden</td><td>SME</td><td>Yes</td></tr></tbody></table>
 
 ## Agenda
 
-* Review comments on Product committee proposal and define official reply
-* Prepare business sessions framework
-* Comment on IoR proposal and other research proposals
+* Review actions from last session
+  * Insights documented
+* Business calls
+  * check status
+* Interviews node teams
+  * make a list of questions
+* Interviews founding entities
+  * make a list of questions
 
 ## Updates
 
-* The committee discussed comments on the Product committee proposal and existing replies
-* The committee brainstormed questions for the business calls
-* The committee discussed if and how to support other proposals in the research bucket
+* Discussed status of business calls
+* Drafted questions for Node teams
+* Drafted questions for Founding entities
 
 ## Outcomes & Recommendations
 
