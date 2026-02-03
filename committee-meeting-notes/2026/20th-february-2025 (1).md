@@ -2,7 +2,7 @@
 
 The session was run in the related [miro board](https://miro.com/app/board/uXjVKro_lxs=/).&#x20;
 
-📽️ The meeting recording can be found here (coming soon).
+📽️ The meeting recording can be found [here](https://drive.google.com/file/d/1pY-HO0sLRHzr_8IprwdLmFeeaIhiHXR8/view?usp=sharing).
 
 ## Participants
 
