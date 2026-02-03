@@ -61,9 +61,10 @@
 ## Committee meeting notes
 
 * [2026](committee-meeting-notes/2026/README.md)
-  * [27th January 2025](committee-meeting-notes/2026/20th-february-2025.md)
-  * [20th January 2025](committee-meeting-notes/2026/20th-february-2025-1.md)
-  * [13th January 2025](committee-meeting-notes/2026/20th-february-2025-2.md)
+  * [Copy of 27th January 2025](committee-meeting-notes/2026/20th-february-2025.md)
+  * [27th January 2025](committee-meeting-notes/2026/20th-february-2025-1.md)
+  * [20th January 2025](committee-meeting-notes/2026/20th-february-2025-2.md)
+  * [13th January 2025](committee-meeting-notes/2026/20th-february-2025-3.md)
 * [2025](committee-meeting-notes/2025/README.md)
   * [16th December 2025](committee-meeting-notes/2025/20th-february-2025.md)
   * [9th December 2025](committee-meeting-notes/2025/20th-february-2025-1.md)
