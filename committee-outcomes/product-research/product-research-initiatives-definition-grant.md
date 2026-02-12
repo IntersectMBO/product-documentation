@@ -7,11 +7,11 @@ description: >-
 # Product research Initiatives definition - grant
 
 {% hint style="info" %}
-Submission Opens on **Monday, 16th February 2026**
+Submission Opens on **Monday, 10th February 2026**
 
-Submission Closes on **Friday, 27th February 2026**
+Submission Closes on **Friday, 24th February 2026**
 
-Results will be shared on **Friday 13th March 2026**
+Results will be shared on **Friday 10th March 2026**
 {% endhint %}
 
 {% hint style="info" %}
