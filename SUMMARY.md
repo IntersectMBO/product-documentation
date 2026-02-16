@@ -52,6 +52,8 @@
     * [Workshop - October 2025 - Cameroon](https://product.cardano.intersectmbo.org/workshops/cam-oct-2025)
     * [Workshop - November 2025 - Buenos Aires ](https://product.cardano.intersectmbo.org/workshops/buenos-aires-nov-2025)
     * [Workshop - November 2025 - London](https://product.cardano.intersectmbo.org/workshops/lon-nov-2025)
+    * [Workshops - October 2025 - Asia](https://product.cardano.intersectmbo.org/workshops/asia-oct-2025)
+    * [Workshop - November 2025 - Berlin](https://product.cardano.intersectmbo.org/workshops/berlin-nov-2025)
   * [Cardano 2030 - Info action](committee-outcomes/2030-long-term-cardano-vision/cardano-2030-info-action/README.md)
     * [Cardano 2030 info action -Translations](committee-outcomes/2030-long-term-cardano-vision/cardano-2030-info-action/cardano-2030-info-action-translations/README.md)
       * [Cardano 2030: Visión, Misión, Marco Estratégico y KPIs](committee-outcomes/2030-long-term-cardano-vision/cardano-2030-info-action/cardano-2030-info-action-translations/cardano-2030-vision-mision-marco-estrategico-y-kpis.md)
