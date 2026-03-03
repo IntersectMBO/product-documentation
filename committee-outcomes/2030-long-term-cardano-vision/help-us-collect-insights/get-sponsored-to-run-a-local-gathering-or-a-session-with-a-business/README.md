@@ -102,6 +102,5 @@ The product committee will approve that meet the criteria above:
 To request reimbursement:
 
 * Send to [product-committee@intersectmbo.org](mailto:product-committee@intersectmbo.org) with the outcomes documented above
-* Important: This funds have not been officially approved yet. If you decide to apply and run one the local gatherings or business sessions there is a chance you might not get reimbursed.
 * To get reimbursed applicants will be asked to successfully complete a KYC/KYB process
 
