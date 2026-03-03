@@ -60,6 +60,7 @@
       * [ビジョン、ミッション、戦略フレームワークおよびKPI](committee-outcomes/2030-long-term-cardano-vision/cardano-2030-info-action/cardano-2030-info-action-translations/bijonmisshonfurmuwkuoyobikpi.md)
 * [Product Research](committee-outcomes/product-research/README.md)
   * [Product research Initiatives definition - grant](committee-outcomes/product-research/product-research-initiatives-definition-grant.md)
+  * [Research grants - Evaluation framework and process](committee-outcomes/product-research/research-grants-evaluation-framework-and-process.md)
 * [Product committee site](https://product.cardano.intersectmbo.org/)
 
 ## Committee meeting notes

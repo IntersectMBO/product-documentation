@@ -19,7 +19,7 @@ The budget for this grant is **17,000 ADA**
 {% endhint %}
 
 {% hint style="warning" %}
-If you are interested, then please apply [here](https://forms.gle/wUoAp5vADTHjkDAU6).
+The application phase for this grant has closed
 {% endhint %}
 
 ## Context
