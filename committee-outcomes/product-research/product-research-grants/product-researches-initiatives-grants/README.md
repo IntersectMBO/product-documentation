@@ -3,9 +3,9 @@
 {% hint style="info" %}
 ## Grants Key Dates
 
-1. _Submission and clarification window_ opens on **Wednesday, 20th May 2026**
+1. _Submission and clarification window_ opens on **Wednesday, 20th May 2026, 12PM UTC**
 2. _Clarification window_ closes on **Wednesday, 27th May 2026**
-3. _Submission window_ closes on **Wednesday, 3rd June 2026**
+3. _Submission window_ closes on **Wednesday, 3rd June 2026, 12PM UTC**
 4. Results will be shared on **Wednesday, 10th June 2026**
 
 ***
