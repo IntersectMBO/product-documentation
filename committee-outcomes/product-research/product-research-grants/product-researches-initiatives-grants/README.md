@@ -31,6 +31,14 @@ _Depending on the amount and quality of applications following submission window
   * PDF attachment containing all the information required in Point 22 - Appendix A of the RFP details
 {% endhint %}
 
+{% hint style="info" %}
+## Overall budget
+
+These 9 RFPs have an overall budget of **ADA 373,000**.
+
+There is no specific budget assigned to each of the 9 RFPs, so proposers, based on the scope, can define an adequate budget, considering also that "Cost Efficiency" it's a key criteria of evaluation.
+{% endhint %}
+
 ## Introduction
 
 The Cardano Product Committee (CPC) is the Intersect committee responsible for shaping Cardano's product direction and informing its long-term strategy. As part of the 2025 budget approved by Cardano DReps, the CPC has been allocated approximately 380,000 ADA to commission a portfolio of product research initiatives that will help answer the most important open questions about Cardano's adoption, positioning, and ecosystem development.
