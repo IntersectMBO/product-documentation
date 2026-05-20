@@ -1,7 +1,34 @@
 # Product Researches Initiatives - Grants
 
 {% hint style="info" %}
-these grants will be soon open for application
+## Grants Key Dates
+
+1. _Submission and clarification window_ opens on **Wednesday, 20th May 2026**
+2. _Clarification window_ closes on **Wednesday, 27th May 2026**
+3. _Submission window_ closes on **Wednesday, 3rd June 2026**
+4. Results will be shared on **Wednesday, 10th June 2026**
+
+***
+
+_Depending on the amount and quality of applications following submission windows might be opened after this one_
+{% endhint %}
+
+{% hint style="info" %}
+## Application info & **How to apply**
+
+* Proposers can apply to any of the open research initiatives&#x20;
+  * If they believe it appropriate they can also propose to combine multiple research initiatives in one (however if a proposer simply wants to apply to multiple research initiatives applications should be sent separately)
+* To apply the proposer should send an email to [product-committee@intersectmbo.org](mailto:product-committee@intersectmbo.org) with:
+  * Subject: Product Research Grants - \[related RFP number] _(e.g. Product Research Grants - RFP8)_
+  * Please include the following information in the body of your submission email:
+    * Proposer / organization name
+    * Primary contact name and email address
+    * RFP number(s) being applied for
+    * Proposal title
+    * Confirmation of whether the proposal is for a single research initiative or combines multiple research initiatives
+    * Confirmation that the attached PDF includes all required information listed in Appendix A of the RFP details
+    * Declaration of any actual, potential, or perceived conflicts of interest, or confirmation that there are none
+  * PDF attachment containing all the information required in Point 22 - Appendix A of the RFP details
 {% endhint %}
 
 ## Introduction
@@ -12,11 +39,13 @@ The first phase of this work focused on identifying and prioritising those quest
 
 Each of the nine areas will shortly be published as an open Request for Proposals (RFP), inviting qualified researchers, consultants, and teams from across the Cardano community and beyond to submit bids. Proposals will be evaluated and awarded by the CPC through a transparent process. This page provides a preview of the nine initiatives and what each is designed to deliver.
 
-## Proposed Research Initiatives
+## Research Initiatives
 
 <details>
 
-<summary><strong>Customer Segmentation &#x26; Profiling</strong></summary>
+<summary>RFP 01: <strong>Customer Segmentation &#x26; Profiling</strong></summary>
+
+[rfp-01-customer-segmentation-and-profiling.md](rfp-01-customer-segmentation-and-profiling.md "mention")
 
 This initiative seeks to establish who Cardano's target customers are, what each segment values, and what it takes for each to choose Cardano over a competing L1. It should also look beyond the current crypto-native audience: the work should include hypothesis-driven demand discovery in adjacent sectors and verticals where blockchain solves a genuine problem, not just among existing Cardano users.
 
@@ -39,7 +68,9 @@ Decision outputs:
 
 <details>
 
-<summary><strong>Use-Case Landscape &#x26; Competitive Positioning</strong></summary>
+<summary>RFP 02: <strong>Use-Case Landscape &#x26; Competitive Positioning</strong></summary>
+
+[rfp-02-use-case-landscape-and-competitive-positioning.md](rfp-02-use-case-landscape-and-competitive-positioning.md "mention")
 
 This initiative maps where Cardano's use cases actually stand today and where Cardano wins and loses against peer blockchains at the product and operator level. Both questions are answered together because combining them allows the same operator interviews to produce both the use-case audit and the competitive benchmark. The goal is to identify where Cardano has a genuine and defensible advantage, where it is wasting effort, and where it should invest more aggressively. The output is a defensible basis for vertical investment decisions over the next 24 months.
 
@@ -62,7 +93,9 @@ Decision outputs:
 
 <details>
 
-<summary><strong>Stablecoin Liquidity Incentive &#x26; Activation Strategy</strong></summary>
+<summary>RFP 03: <strong>Stablecoin Liquidity Incentive &#x26; Activation Strategy</strong></summary>
+
+[rfp-03-stablecoin-liquidity-incentive-and-activation-strategy.md](rfp-03-stablecoin-liquidity-incentive-and-activation-strategy.md "mention")
 
 Cardano has a growing stablecoin stack, including USDC, USDM, USDA, DJED, and iUSD. Across all of them, liquidity depth is thin and slippage at meaningful trade sizes remains a barrier for DeFi users, enterprise settlement, and payments in emerging markets. The question is not whether Cardano needs more liquidity; that is already clear. The question is what the ecosystem should actually pay for, in which venues (DeFi pools, centralised exchange order books, market-maker arrangements), and how to ensure that any incentive produces durable depth rather than short-term capital that exits as soon as rewards stop.
 
@@ -88,7 +121,9 @@ Decision outputs:
 
 <details>
 
-<summary><strong>Brand Awareness &#x26; Perception</strong></summary>
+<summary>RFP 04: <strong>Brand Awareness &#x26; Perception</strong></summary>
+
+[rfp-04-brand-awareness-and-perception.md](rfp-04-brand-awareness-and-perception.md "mention")
 
 Cardano lacks a clear baseline on how different external audiences evaluate it as a place to build, invest, partner, or deploy capital. Enterprise buyers, developers, analysts, investors, institutions, and retail users do not evaluate a blockchain the same way, and generic sentiment measurement will not produce useful positioning decisions. This initiative goes beyond awareness and sentiment to identify the specific evaluation mechanisms each audience uses: what claims they find credible, what evidence they require before taking Cardano seriously, and what objections are blocking engagement. The output is a positioning playbook grounded in how each audience actually makes decisions, not in how Cardano describes itself.
 
@@ -110,7 +145,9 @@ Decision outputs:
 
 <details>
 
-<summary><strong>Government &#x26; Emerging Markets Entry Strategy</strong></summary>
+<summary>RFP 05: <strong>Government &#x26; Emerging Markets Entry Strategy</strong></summary>
+
+[rfp-05-government-and-emerging-markets-entry-strategy.md](rfp-05-government-and-emerging-markets-entry-strategy.md "mention")
 
 LATAM, Africa, and East Asia each require different entry conditions: different use cases, different partner types, different regulatory dependencies, and in several markets a functional stablecoin layer as a prerequisite for any payment or settlement application. The strategic question is how to sequence these markets and what each regional playbook actually requires. Rather than treating emerging markets as generic geographies, this initiative should identify vertical-specific entry plays where Cardano can coordinate multiple ecosystem actors around a concrete use case, such as agriculture, microfinance, payments, identity, or supply-chain verification.
 
@@ -132,7 +169,9 @@ Decision outputs:
 
 <details>
 
-<summary><strong>Enterprise &#x26; RWA Readiness Assessment</strong></summary>
+<summary>RFP 06: <strong>Enterprise &#x26; RWA Readiness Assessment</strong></summary>
+
+[rfp-06-enterprise-and-rwa-readiness-assessment.md](rfp-06-enterprise-and-rwa-readiness-assessment.md "mention")
 
 Cardano now has infrastructure relevant to enterprise and regulated industries, including privacy and compliance capabilities and live tokenisation deployments. The strategic question is whether the surrounding conditions for production-scale deployment are in place: maintenance SLAs, per-jurisdiction compliance documentation, and a delivery partner channel capable of executing. This initiative produces a structured readiness assessment, identifies the gaps that need to close for early-stage deals to reach production, and evaluates which enterprise verticals have the ROI and scalable demand to justify that path.
 
@@ -154,7 +193,9 @@ Decision outputs:
 
 <details>
 
-<summary><strong>L2 Adoption &#x26; Interoperability Demand Study</strong></summary>
+<summary>RFP 07: <strong>L2 Adoption &#x26; Interoperability Demand Study</strong></summary>
+
+[rfp-07-l2-adoption-and-interoperability-demand-study.md](rfp-07-l2-adoption-and-interoperability-demand-study.md "mention")
 
 Several applications are being held back pending the availability of Layer 2 infrastructure on Cardano, which confirms that demand exists. What has not been studied is what specifically is blocking deployment and what interoperability features operators and builders actually need, as opposed to what the technical roadmap assumes. This initiative also addresses a subtler question: interoperability can create value, but it can also enable value to flow out of the ecosystem rather than into it. The research should distinguish between pathways that bring net-new users and activity to Cardano and those that primarily create dependency on larger or more liquid ecosystems.
 
@@ -177,7 +218,9 @@ Decision outputs:
 
 <details>
 
-<summary><strong>Enterprise Delivery Partner Network</strong></summary>
+<summary>RFP 08: <strong>Enterprise Delivery Partner Network</strong></summary>
+
+[rfp-08-enterprise-delivery-partner-network.md](rfp-08-enterprise-delivery-partner-network.md "mention")
 
 One of the most consistently cited barriers to enterprise adoption of Cardano is the absence of a certified channel of system integrators capable of delivering solutions for external clients. A small number of firms globally have the depth to do this work, most are concentrated in Europe, and coverage in North America, Asia-Pacific, and the Middle East is limited. This initiative defines what a certified partner network should look like and benchmarks delivery-partner models from peer ecosystems, including co-funded implementation structures where the cost is shared between the target enterprise and the network, to adapt proven approaches rather than build from scratch.
 
@@ -201,7 +244,9 @@ Decision outputs:
 
 <details>
 
-<summary><strong>AI Commercial Positioning</strong></summary>
+<summary>RFP 09: <strong>AI Commercial Positioning</strong></summary>
+
+[rfp-09-ai-commercial-positioning.md](rfp-09-ai-commercial-positioning.md "mention")
 
 AI is an active commercial area on Cardano, with enterprise deployments already running. Cardano's technical properties, including formal methods, deterministic transaction processing, and privacy infrastructure, have theoretical fit for AI-agent integrity and auditability. Whether that fit translates into a credible and competitive market position relative to specialised AI blockchains is the question this initiative is designed to answer. The test is not whether Cardano can tell an AI story, but whether AI can become a real adoption vertical with identifiable buyers, delivery partners, revenue pathways, and on-chain activity.
 
