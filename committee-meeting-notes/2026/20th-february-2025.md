@@ -1,88 +1,93 @@
-# 31st March 2025
+# 3rd June 2025
 
 The session was run in the related [miro board](https://miro.com/app/board/uXjVKro_lxs=/).&#x20;
 
-📽️ The meeting recording can be found [here](https://drive.google.com/file/d/18JBvy-kYxbprh-OPgdCfP6oQB5UU2qos/view?usp=sharing).
+📽️ The meeting recording can be found [here](https://drive.google.com/file/d/1xCqfL5TdjCfsuOK7uLgt5cQPIvjLQ1Fo/view?usp=sharing).
 
 ## Participants
 
-<table><thead><tr><th width="213.19140625">Name</th><th width="212.27734375">Role</th><th width="185.14453125">Attendance</th></tr></thead><tbody><tr><td>Lorenzo Bruno</td><td>Secretary</td><td>Yes</td></tr><tr><td>Samuel Leathers</td><td>Chair</td><td>Yes</td></tr><tr><td>Kyle Solomon</td><td>Vice-Chair</td><td>Yes</td></tr><tr><td>Carlos Lopez De Lara</td><td>Voting seat</td><td>No</td></tr><tr><td>Alexandre Maaza</td><td>Voting seat</td><td>Yes</td></tr><tr><td>James Meidinger</td><td>Voting seat</td><td>Yes</td></tr><tr><td>Christian Schmitz</td><td>Voting seats</td><td>No</td></tr><tr><td>Tegegne Tefera</td><td>Voting seat</td><td>Yes</td></tr><tr><td>Giorgio Zinetti</td><td>Voting seat</td><td>Yes</td></tr><tr><td>Tomas Garro</td><td>SME</td><td>Yes</td></tr><tr><td>Jess Fields</td><td>SME</td><td>Yes</td></tr><tr><td>Juan Sierra</td><td>SME</td><td>Yes</td></tr></tbody></table>
+| Name                    | Role                               | Attendance |
+| ----------------------- | ---------------------------------- | ---------- |
+| Samuel Leathers         | Chair                              | Yes        |
+| Lorenzo Bruno           | Secretary                          | Yes        |
+| Alexandre Maaza         | Voting Seat (Vice-Chair Appointee) | No         |
+| Juan Sierra             | Voting Seat                        | Yes        |
+| Yoram Ben-Zvi           | Voting Seat                        | Yes        |
+| Alexa C. (Thyme Studio) | Voting Seat                        | Yes        |
+| James Meidinger         | Voting Seat                        | Yes        |
+| Christian Schmitz       | Voting Seat                        | No         |
+| Giorgio Zinetti         | Voting Seat                        | No         |
+| Samir Idris             | Voting Seat                        | No\*       |
+| Tomas Garro             | SME                                | Yes        |
+| Thiago Nunes            | SME                                | Yes        |
+| Wilco van de Burgwal    | Observer                           | Yes        |
+| Simo Simovic            | Observer                           | Yes        |
+| Benjamin Ben Zvi        | Observer                           | Yes        |
 
 ## Agenda
 
 * Review actions and updates
-  * review adjustments to regular Committee meeting scheduling&#x20;
-  * share product research status update
-  * provide update on committee elections launch
-  * share insights from Builderfest
-* Business development working group
-  * confirm working group schedule and structure
-  * align participation with GMC
-  * confirm launch timeline and next steps
-* Review budget proposal document
-  * finalise structure of work packages
-  * clarify separation of business development activities
-* Continue work for product research
-  * define initial research scope and priorities
-  * review open questions and existing inputs
-  * align on draft timeline and next deliverables
-* Update KPI actions
-  * gather input from TSC and GMC
-  * plan stakeholder engagement sessions
-  * incorporate partner chains and ecosystem perspectives
-* Paris Blockchain Week
-  * coordinate Committee presence at Paris Blockchain Week
-  * confirm participants and timing
+* check whether the current meeting time remains suitable for members
+* Chair election – review election process and confirm voting is open
+* Review M3 milestone submission – review completed workshop milestone&#x20;
+* Product research
+  * review current applications
+  * discuss next review process
+  * discuss conflict-of-interest handling
+  * discuss reopening application window
+* Budget proposal voting communications
+  * review comments from SIPO
+  * agree response to Yuta
+* Local gatherings applications
+  * review recent applications
+  * discuss future handling of unused budget
+* Review KPI document from TSC – review proposed changes against current status – provide feedback to TSC
 
 ## Updates
 
 * **Review actions and updates**
-  * **Meeting schedule adjustment**
-    * The Secretary proposed adjusting the regular meeting schedule and the Committee aligned on moving sessions to Wednesday pending confirmation.
-  * **Product research update**
-    * The Secretary confirmed the research initiative is progressing and entering its initial phase.
-  * **Committee elections launch**
-    * The Secretary shared that committee elections have opened and encouraged applications and referrals.
-  * **Builderfest update**
-    * The Committee received an update on Builderfest highlighting strong engagement and the need for better coordination to support adoption.
-* **Business development working group**
-  * **Confirm working group schedule**
-    * The Committee aligned on running the working group on Wednesdays.
-  * **Invite members from GMC**
-    * The Committee confirmed the need to include GMC participants to ensure cross-committee coordination.
-  * **Confirm start date**
-    * The Committee agreed to begin the working group in the following week.
-* **Review budget proposal document**
-  * **Clarify work packages**
-    * The Committee agreed to separate work packages to improve clarity around business-related activities.
-  * **Discuss connection to business development**
-    * The Committee aligned on connecting the budget structure to business development efforts.
-  * **Finalisation status**
-    * The Secretary confirmed the budget proposal received no major feedback by the Board and is moving toward finalisation.
-* **Continue work for product research**
-  * **Draft timeline**
-    * The Committee discussed an initial timeline with a first proposal expected in the next session.
-  * **Review open questions**
-    * The Committee agreed to start by reviewing and clustering open questions.
-  * **Align on research inputs**
-    * The Committee discussed incorporating additional inputs including market context, product readiness, and user insights.
-* **Update KPI actions**
-  * **Gather input from TSC & GMC**
-    * The Committee agreed to collect input from TSC and GMC to support KPI refinement.
-  * **Schedule stakeholder sessions**
-    * The Committee agreed to begin scheduling discussions with stakeholders.
-  * **Include partner chains**
-    * The Committee confirmed that partner chains and ecosystem contributors will be included in the process.
-* **Paris Blockchain Week**
-  * **Confirm attendees**
-    * The Committee discussed potential participants attending Paris Blockchain Week.
-  * **Align on dates**
-    * The Committee discussed timing options and the need to coordinate with existing events.
-  * **Use local gathering budget**
-    * The Vice-Chair proposed using the local gatherings budget to support activities.
-  * **Explore Cardano booth coordination**
-    * The Committee discussed aligning with existing Cardano presence and activities.
+  * **Check whether the current meeting time remains suitable for members**
+    * The Secretary reviewed attendance patterns and the Committee agreed to explore alternative scheduling options with committee leadership and other committee secretaries.
+* **Chair election**
+  * **Review election process and confirm voting is open**
+    * The Secretary and Simo Simovic confirmed that voting for Chair and Vice-Chair was open in the Members Area and encouraged all eligible members to vote before the deadline.
+* **Review M3 milestone submission**
+  * **Review completed workshop milestone**
+    * The Secretary presented the milestone report covering the Barcelona, Buenos Aires, London and Nairobi workshops and reviewed the supporting documentation.
+  * **Approve submission for signing**
+    * Voting members present supported submitting the milestone package through the procurement process for final approval and signing.
+* **Product research**
+  * **Review current applications**
+    * The Secretary reported that approximately twenty-five research proposals had been received across the published RFPs.
+  * **Discuss next review process**
+    * The Committee agreed to establish a reviewer group to assess the proposals and prepare recommendations.
+  * **Discuss conflict-of-interest handling**
+    * The Committee agreed that members with submitted proposals should not participate in reviewing their own applications.
+  * **Discuss reopening application window**
+    * The Committee agreed to defer any decision on reopening application windows until the current proposals have been reviewed.
+* **Budget proposal voting communications**
+  * **Review comments from SIPO**
+    * The Committee reviewed comments relating to governance, committee composition and pilot funding contained within the budget proposal discussion.
+  * **Agree response to Yuta**
+    * The Committee agreed that any response should clarify the current committee composition, election timetable and the relationship between product research outcomes and future pilot funding decisions.
+* **Local gatherings applications**
+  * **Review recent applications**
+    * The Committee reviewed the status of recent local gathering applications and noted limited utilisation of the available funding.
+  * **Discuss future handling of unused budget**
+    * Voting members agreed to return the remaining local gatherings budget to the Treasury and to notify applicants accordingly.
+* **Review KPI document from TSC**
+  * **Review proposed changes against current status**
+    * No discussion for this topic was held. The item remained on the agenda due to time constraints.
+  * **Provide feedback to TSC**
+    * No discussion for this topic was held.
 
 ## Outcomes & Recommendations
 
 N/A
+
+## Decisions Recorded
+
+* The Committee approved submitting the M3 milestone.
+* The Committee agreed to establish a reviewer group for Product Research proposal evaluation.
+* The Committee agreed to return the remaining Local Gatherings budget to the Treasury.
+* The Committee agreed to return the remaining Business Calls budget to the Treasury.

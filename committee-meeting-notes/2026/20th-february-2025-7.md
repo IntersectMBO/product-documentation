@@ -1,32 +1,73 @@
-# 10th February 2025
+# 15th April 2025
 
 The session was run in the related [miro board](https://miro.com/app/board/uXjVKro_lxs=/).&#x20;
 
-📽️ The meeting recording can be found [here](https://drive.google.com/file/d/1U1cGNhmU9HIS283M2_AXm2Qxr2MRn9gy/view?usp=sharing).
+📽️ The meeting recording can be found [here](https://drive.google.com/file/d/1YTYBK7HvJuQSxPbUIzbqTluecn2q1E9i/view?usp=sharing).
 
 ## Participants
 
-<table><thead><tr><th width="213.19140625">Name</th><th width="212.27734375">Role</th><th width="185.14453125">Attendance</th></tr></thead><tbody><tr><td>Lorenzo Bruno</td><td>Secretary</td><td>Yes</td></tr><tr><td>Samuel Leathers</td><td>Chair</td><td>Yes</td></tr><tr><td>Kyle Solomon</td><td>Vice-Chair</td><td>Yes</td></tr><tr><td>Alexandre Maaza</td><td>Voting seat</td><td>No</td></tr><tr><td>James Meidinger</td><td>Voting seat</td><td>Yes</td></tr><tr><td>Carlos Lopez De Lara</td><td>Voting seat</td><td>Yes</td></tr><tr><td>Christian Schmitz</td><td>Voting seat</td><td>No</td></tr><tr><td>Tegegne Tefera</td><td>Voting seat</td><td>Yes</td></tr><tr><td>Giorgio Zinetti</td><td>Voting seat</td><td>No</td></tr><tr><td>Tomas Garro</td><td>SME</td><td>Yes</td></tr><tr><td>Jess Fields</td><td>SME</td><td>No</td></tr><tr><td>Juan Sierra</td><td>SME</td><td>Yes</td></tr></tbody></table>
+| Name                 | Role           | Attendance |
+| -------------------- | -------------- | ---------- |
+| Lorenzo Bruno        | Secretary      | Yes        |
+| Samuel Leathers      | Chair          | Yes        |
+| Kyle Solomon         | Vice-Chair     | No         |
+| Carlos Lopez De Lara | Voting Seat    | Yes        |
+| Alexandre Maaza      | Voting Seat    | No         |
+| James Meidinger      | Voting Seat    | Yes        |
+| Christian Schmitz    | Voting Seat    | No         |
+| Tegegne Tefera       | Voting Seat    | Yes        |
+| Giorgio Zinetti      | Voting Seat    | No         |
+| Tomas Garro          | SME            | No         |
+| Jess Fields          | SME            | Yes        |
+| Juan Sierra          | SME            | Yes        |
+| DJ Bodden            | Observer       | Yes        |
+| Justin Schreiner     | Observer       | Yes        |
+| Kevin Hammond        | Observer (TSC) | Yes        |
+| Kriss Baird          | Observer       | Yes        |
+| Leandros BSP         | Observer (TSC) | Yes        |
+| Simo Simovic         | Observer       | Yes        |
+| Yoram Ben-Zvi        | Observer (GMC) | Yes        |
 
 ## Agenda
 
-* Review actions / updates
-  * Async votes outcomes
-* Review Committee budget guide
-* Product committee budget
-  * Review what’s currently left
-  * Brainstorm what to ask budget for
+* Review previous actions and updates
+  * Ecosystem Funding Working Group update
+  * CPC budget update
+  * Committee elections update
+* BuilderDAO update and alignment
+* Business Development Working Group
+* Paris Blockchain Week – discuss community engagement activities and coordination
+* Review KPI feedback from the Technical Steering Committee
 
 ## Updates
 
-* **Review actions / updates**
-  * **Async votes outcomes**\
-    The Committee reviewed progress on async votes related to product research and workshop budget approval.
-* **Review committee budget guide**
-  * The Committee reviewed version 1 of the budget guidance document, including constraints around funding structures.
-* **Product committee budget**
-  * The Committee reviewed current budget status and remaining funds.
-  * The Committee discussed initial ideas for future budget requests.
+* **Review previous actions and updates**
+  * **Ecosystem Funding Working Group update**
+    * The Committee received an update that the Ecosystem Funding Working Group had recently hosted presentations and continues to focus on improving ecosystem coordination.
+  * **CPC budget update**
+    * The Secretary informed the Committee that board approval had been received for the budget proposal process and that preparation for submission would begin through the budgeting tooling.
+  * **Committee elections update**
+    * The Secretary reminded members that election applications would close on 17 April and encouraged members to recommend qualified candidates for open committee seats.
+* **BuilderDAO update and alignment**
+  * **Review BuilderDAO progress**
+    * The Committee received a presentation from Justin Schreiner on BuilderDAO, including lessons learned from treasury-funded initiatives and the proposed Initiative DAO framework.
+  * **Discuss governance framework and alignment with Product Committee objectives**
+    * The Committee discussed DAO governance, accountability, membership requirements, KPI reporting, DRep oversight, legal structures, and alignment with Cardano Strategy 2030 KPIs.
+* **Business Development Working Group**
+  * **Review current status and coordination considerations**
+    * The Secretary noted that there may be overlap between the Business Development Working Group and existing committee activities and that further discussion would take place in a future session.
+* **Paris Blockchain Week**
+  * **Discuss community engagement activities and coordination**
+    * The Committee noted that several members were attending Paris Blockchain Week and that follow-up would be needed regarding any related community engagement activities.
+* **Review KPI feedback from the Technical Steering Committee**
+  * **Review proposed core KPIs and adjustments**
+    * No discussion for this topic was held.
+  * **Review proposed additional and alternative KPIs**
+    * No discussion for this topic was held.
+  * **Review proposed changes against current KPI status**
+    * The Secretary reminded members of the dedicated Product Committee–TSC KPI review session scheduled later that day and referenced the ongoing review document.
+  * **Agree feedback for TSC**
+    * The Committee agreed to continue KPI discussions during the dedicated joint session with TSC rather than during the current meeting.
 
 ## Outcomes & Recommendations
 

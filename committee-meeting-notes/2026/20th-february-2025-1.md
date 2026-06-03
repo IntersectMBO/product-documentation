@@ -1,42 +1,63 @@
-# 24th March 2025
+# 27th May 2025
 
 The session was run in the related [miro board](https://miro.com/app/board/uXjVKro_lxs=/).&#x20;
 
-📽️ The meeting recording can be found [here](https://drive.google.com/file/d/165b-7f4H8R7yVpzBJ1zdvBDN3tFakm72/view?usp=sharing).
+📽️ The meeting recording can be found [here](https://drive.google.com/file/d/1SzUd-grG3JbWbqTwd42fZeKGsAe8xSGF/view?usp=sharing).
 
 ## Participants
 
-<table><thead><tr><th width="213.19140625">Name</th><th width="212.27734375">Role</th><th width="185.14453125">Attendance</th></tr></thead><tbody><tr><td>Lorenzo Bruno</td><td>Secretary</td><td>Yes</td></tr><tr><td>Samuel Leathers</td><td>Chair</td><td>Yes</td></tr><tr><td>Kyle Solomon</td><td>Vice-Chair</td><td>Yes</td></tr><tr><td>Carlos Lopez De Lara</td><td>Voting seat</td><td>No</td></tr><tr><td>Alexandre Maaza</td><td>Voting seat</td><td>No</td></tr><tr><td>James Meidinger</td><td>Voting seat</td><td>No</td></tr><tr><td>Christian Schmitz</td><td>Voting seats</td><td>No</td></tr><tr><td>Tegegne Tefera</td><td>Voting seat</td><td>Yes</td></tr><tr><td>Giorgio Zinetti</td><td>Voting seat</td><td>No</td></tr><tr><td>Tomas Garro</td><td>SME</td><td>Yes</td></tr><tr><td>Jess Fields</td><td>SME</td><td>Yes</td></tr><tr><td>Juan Sierra</td><td>SME</td><td>Yes</td></tr></tbody></table>
+| Name                    | Role                               | Attendance |
+| ----------------------- | ---------------------------------- | ---------- |
+| Lorenzo Bruno           | Secretary                          | No         |
+| Samuel Leathers         | Chair                              | Yes        |
+| Alexandre Maaza         | Voting Seat (Vice-Chair Appointee) | Yes        |
+| Juan Sierra             | Voting Seat                        | Yes        |
+| Yoram Ben-Zvi           | Voting Seat                        | Yes        |
+| Alexa C. (Thyme Studio) | Voting Seat                        | No         |
+| James Meidinger         | Voting Seat                        | Yes        |
+| Christian Schmitz       | Voting Seat                        | No         |
+| Giorgio Zinetti         | Voting Seat                        | No         |
+| Samir Idris             | Voting Seat                        | Yes        |
+| Tomas Garro             | SME                                | No         |
+| Jess Fields             | SME                                | No         |
+| Simo Simovic            | Observer                           | Yes        |
 
 ## Agenda
 
-* Review actions / updates
-  * Review ISC budget feedback
-  * Confirm committee elections X Space (14th April)
-  * Review product research next steps
-* Discuss KPIs actions update
-* Review preparation for product research
-* Review budget proposal document
-  * Review work package 2
-* Discuss Consensus and university initiatives
+* Review previous actions and updates
+  * product research update
+* Chair election – review election process and timeline
+* Review KPI feedback from the Technical Steering Committee – review proposed changes against current status – agree feedback for TSC
+* Budget proposal voting communications – review comments from SIPO
+* Product research – discuss application pipeline – discuss whether to reopen application windows in future
+* Any Other Business
 
 ## Updates
 
-* **Review actions / updates**
-  * **ISC budget feedback**\
-    The Committee reviewed positive initial feedback on the budget proposal.
-  * **Committee elections X Space (14th April)**\
-    The Committee confirmed scheduling.
-  * **Product research next steps**\
-    The Committee reviewed transition to contract stage.
-* **Discuss KPIs actions update**
-  * The Committee discussed feedback received and need for refinement.
-* **Review preparation for product research**
-  * The Committee discussed onboarding next steps.
-* **Review budget proposal document – review work package 2**
-  * The Committee reviewed alignment with BizDev activities.
-* **Discuss Consensus and university initiatives**
-  * The Committee discussed external engagement and KPI alignment.
+* **Review previous actions and updates**
+  * **Product research update**
+    * The Chair provided an update on the product research RFP process and noted that applications were being received and discussions were underway with potential applicants.
+* **Chair election**
+  * **Review election process and timeline**
+    * The Chair and Simo Simovic reviewed the upcoming Chair and Vice-Chair election process, application requirements and voting timeline through the Intersect members platform.
+* **Review KPI feedback from the Technical Steering Committee**
+  * **Review proposed changes against current status**
+    * No discussion for this topic was held because no Technical Steering Committee representatives were present.
+  * **Agree feedback for TSC**
+    * No discussion for this topic was held.
+* **Budget proposal voting communications**
+  * **Review comments from SIPO**
+    * The Committee reviewed questions submitted by SIPO regarding governance authority, conflicts of interest, pilot selection, funding controls and assurance processes within the Product Committee budget proposal.
+* **Product research**
+  * **Discuss application pipeline**
+    * The Chair encouraged members to share the research RFPs with potential applicants and confirmed that the Committee would review submissions after the application period closes.
+  * **Discuss whether to reopen application windows in future**
+    * The Chair noted that the Committee retained discretion over how funding would be allocated and that future application rounds could be considered depending on the volume and quality of submissions received.
+* **Any Other Business**
+  * **Welcome new committee member**
+    * The Chair welcomed Samir Idris to the Committee and provided guidance on participation in the product research process and Chair election process.
+  * **University engagement opportunities**
+    * The Committee discussed a potential engagement with Florida International University to raise awareness of the Product Research RFPs and explore future collaboration opportunities.
 
 ## Outcomes & Recommendations
 
