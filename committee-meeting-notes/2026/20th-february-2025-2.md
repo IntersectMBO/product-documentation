@@ -1,56 +1,63 @@
-# 20th May 2025
+# 27th May 2025
 
 The session was run in the related [miro board](https://miro.com/app/board/uXjVKro_lxs=/).&#x20;
 
-📽️ The meeting recording can be found [here](https://drive.google.com/file/d/1PENqP7YlaxR5JBkqG0XWSaDYnlSlBW1r/view?usp=sharing).
+📽️ The meeting recording can be found [here](https://drive.google.com/file/d/1SzUd-grG3JbWbqTwd42fZeKGsAe8xSGF/view?usp=sharing).
 
 ## Participants
 
 | Name                    | Role                               | Attendance |
 | ----------------------- | ---------------------------------- | ---------- |
-| Lorenzo Bruno           | Secretary                          | Yes        |
-| Samuel Leathers         | Chair                              | No         |
+| Lorenzo Bruno           | Secretary                          | No         |
+| Samuel Leathers         | Chair                              | Yes        |
 | Alexandre Maaza         | Voting Seat (Vice-Chair Appointee) | Yes        |
 | Juan Sierra             | Voting Seat                        | Yes        |
-| Yoram Ben-Zvi           | Voting Seat                        | No         |
-| Alexa C. (Thyme Studio) | Voting Seat                        | Yes        |
+| Yoram Ben-Zvi           | Voting Seat                        | Yes        |
+| Alexa C. (Thyme Studio) | Voting Seat                        | No         |
 | James Meidinger         | Voting Seat                        | Yes        |
 | Christian Schmitz       | Voting Seat                        | No         |
 | Giorgio Zinetti         | Voting Seat                        | No         |
-| Tomas Garro             | SME                                | Yes        |
+| Samir Idris             | Voting Seat                        | Yes        |
+| Tomas Garro             | SME                                | No         |
 | Jess Fields             | SME                                | No         |
-| Daniel Ribar            | Observer                           | Yes        |
-| DJ Bodden               | Observer                           | Yes        |
-| Samir Idris             | Observer                           | Yes        |
-| Seun Gbiri              | Observer                           | Yes        |
-| Thiago Nunes            | Observer                           | Yes        |
+| Simo Simovic            | Observer                           | Yes        |
 
 ## Agenda
 
 * Review previous actions and updates
-  * product research initiative publication update
+  * product research update
+* Chair election – review election process and timeline
 * Review KPI feedback from the Technical Steering Committee – review proposed changes against current status – agree feedback for TSC
+* Budget proposal voting communications – review comments from SIPO
+* Product research – discuss application pipeline – discuss whether to reopen application windows in future
 * Any Other Business
 
 ## Updates
 
 * **Review previous actions and updates**
-  * **Product research initiative publication update**
-    * The Secretary confirmed that the nine approved product research RFPs had been published, applications were open, and the clarification and submission process had commenced.
+  * **Product research update**
+    * The Chair provided an update on the product research RFP process and noted that applications were being received and discussions were underway with potential applicants.
+* **Chair election**
+  * **Review election process and timeline**
+    * The Chair and Simo Simovic reviewed the upcoming Chair and Vice-Chair election process, application requirements and voting timeline through the Intersect members platform.
 * **Review KPI feedback from the Technical Steering Committee**
   * **Review proposed changes against current status**
-    * The Secretary provided a high-level update on the KPI review process and noted that a detailed review would be more effective once Technical Steering Committee representatives could participate in a future session.
+    * No discussion for this topic was held because no Technical Steering Committee representatives were present.
   * **Agree feedback for TSC**
     * No discussion for this topic was held.
+* **Budget proposal voting communications**
+  * **Review comments from SIPO**
+    * The Committee reviewed questions submitted by SIPO regarding governance authority, conflicts of interest, pilot selection, funding controls and assurance processes within the Product Committee budget proposal.
+* **Product research**
+  * **Discuss application pipeline**
+    * The Chair encouraged members to share the research RFPs with potential applicants and confirmed that the Committee would review submissions after the application period closes.
+  * **Discuss whether to reopen application windows in future**
+    * The Chair noted that the Committee retained discretion over how funding would be allocated and that future application rounds could be considered depending on the volume and quality of submissions received.
 * **Any Other Business**
-  * **Budget proposal feedback**
-    * The Committee discussed the limited volume of feedback received on budget proposals and broader challenges relating to proposal review, prioritisation and use of AI-assisted analysis by DReps.
-  * **Committee onboarding process**
-    * The Committee discussed the value of recent onboarding sessions and suggested creating additional opportunities for cross-committee collaboration and relationship building.
-  * **Open Source event reflections**
-    * The Committee discussed recent outreach activities at Open Source events and highlighted opportunities to engage developers who were interested in blockchain technology but not yet active within the Cardano ecosystem.
-  * **KPI considerations and transaction fees**
-    * The Committee briefly discussed concerns raised regarding KPI design, transaction fee assumptions and the relationship between ecosystem growth metrics and ADA value. Further discussion was deferred to a future KPI review session.
+  * **Welcome new committee member**
+    * The Chair welcomed Samir Idris to the Committee and provided guidance on participation in the product research process and Chair election process.
+  * **University engagement opportunities**
+    * The Committee discussed a potential engagement with Florida International University to raise awareness of the Product Research RFPs and explore future collaboration opportunities.
 
 ## Outcomes & Recommendations
 

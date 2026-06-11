@@ -1,85 +1,60 @@
-# 3rd June 2025
+# 10th June 2025
 
 The session was run in the related [miro board](https://miro.com/app/board/uXjVKro_lxs=/).&#x20;
 
-📽️ The meeting recording can be found [here](https://drive.google.com/file/d/1xCqfL5TdjCfsuOK7uLgt5cQPIvjLQ1Fo/view?usp=sharing).
+📽️ The meeting recording can be found [here](https://drive.google.com/file/d/1647vo7odiQf-iY45YNKUeUiu_jDAmefl/view?usp=sharing).
 
 ## Participants
 
-| Name                    | Role                               | Attendance |
-| ----------------------- | ---------------------------------- | ---------- |
-| Samuel Leathers         | Chair                              | Yes        |
-| Lorenzo Bruno           | Secretary                          | Yes        |
-| Alexandre Maaza         | Voting Seat (Vice-Chair Appointee) | No         |
-| Juan Sierra             | Voting Seat                        | Yes        |
-| Yoram Ben-Zvi           | Voting Seat                        | Yes        |
-| Alexa C. (Thyme Studio) | Voting Seat                        | Yes        |
-| James Meidinger         | Voting Seat                        | Yes        |
-| Christian Schmitz       | Voting Seat                        | No         |
-| Giorgio Zinetti         | Voting Seat                        | No         |
-| Samir Idris             | Voting Seat                        | No\*       |
-| Tomas Garro             | SME                                | Yes        |
-| Thiago Nunes            | SME                                | Yes        |
-| Wilco van de Burgwal    | Observer                           | Yes        |
-| Simo Simovic            | Observer                           | Yes        |
-| Benjamin Ben Zvi        | Observer                           | Yes        |
+| Name                    | Role                                            | Attendance |
+| ----------------------- | ----------------------------------------------- | ---------- |
+| Samuel Leathers         | Chair                                           | Yes        |
+| Lorenzo Bruno           | Secretary                                       | Yes        |
+| Alexandre Maaza         | Voting Seat (Vice-Chair Appointee) / Vice-Chair | Yes        |
+| Juan Sierra             | Voting Seat                                     | Yes        |
+| Yoram Ben-Zvi           | Voting Seat                                     | Yes        |
+| Alexa C. (Thyme Studio) | Voting Seat                                     | Yes        |
+| James Meidinger         | Voting Seat                                     | Yes        |
+| Christian Schmitz       | Voting Seat                                     | No         |
+| Giorgio Zinetti         | Voting Seat                                     | No         |
+| Samir Idris             | Voting Seat                                     | No         |
 
 ## Agenda
 
 * Review actions and updates
-* check whether the current meeting time remains suitable for members
-* Chair election – review election process and confirm voting is open
-* Review M3 milestone submission – review completed workshop milestone&#x20;
-* Product research
-  * review current applications
-  * discuss next review process
-  * discuss conflict-of-interest handling
-  * discuss reopening application window
-* Budget proposal voting communications
-  * review comments from SIPO
-  * agree response to Yuta
-* Local gatherings applications
-  * review recent applications
-  * discuss future handling of unused budget
-* Review KPI document from TSC – review proposed changes against current status – provide feedback to TSC
+  * latest update on the Budget Proposal
+* Review Q2 event planning
+  * confirm whether the focus week starting 29 June should replace the regular committee session
+* Review product research activity
+  * review progress of proposal assessments
+* Review Budget Proposal voting status
+  * review voting activity from larger DReps and outstanding votes
+* Confirm future meeting schedule
+  * confirm whether moving the meeting 30 minutes later works for all members
+* Review TSC KPI document – review proposed KPI changes and current status – agree feedback to be returned to TSC
 
 ## Updates
 
 * **Review actions and updates**
-  * **Check whether the current meeting time remains suitable for members**
-    * The Secretary reviewed attendance patterns and the Committee agreed to explore alternative scheduling options with committee leadership and other committee secretaries.
-* **Chair election**
-  * **Review election process and confirm voting is open**
-    * The Secretary and Simo Simovic confirmed that voting for Chair and Vice-Chair was open in the Members Area and encouraged all eligible members to vote before the deadline.
-* **Review M3 milestone submission**
-  * **Review completed workshop milestone**
-    * The Secretary presented the milestone report covering the Barcelona, Buenos Aires, London and Nairobi workshops and reviewed the supporting documentation.
-  * **Approve submission for signing**
-    * Voting members present supported submitting the milestone package through the procurement process for final approval and signing.
-* **Product research**
-  * **Review current applications**
-    * The Secretary reported that approximately twenty-five research proposals had been received across the published RFPs.
-  * **Discuss next review process**
-    * The Committee agreed to establish a reviewer group to assess the proposals and prepare recommendations.
-  * **Discuss conflict-of-interest handling**
-    * The Committee agreed that members with submitted proposals should not participate in reviewing their own applications.
-  * **Discuss reopening application window**
-    * The Committee agreed to defer any decision on reopening application windows until the current proposals have been reviewed.
-* **Budget proposal voting communications**
-  * **Review comments from SIPO**
-    * The Committee reviewed comments relating to governance, committee composition and pilot funding contained within the budget proposal discussion.
-  * **Agree response to Yuta**
-    * The Committee agreed that any response should clarify the current committee composition, election timetable and the relationship between product research outcomes and future pilot funding decisions.
-* **Local gatherings applications**
-  * **Review recent applications**
-    * The Committee reviewed the status of recent local gathering applications and noted limited utilisation of the available funding.
-  * **Discuss future handling of unused budget**
-    * Voting members agreed to return the remaining local gatherings budget to the Treasury and to notify applicants accordingly.
-* **Review KPI document from TSC**
-  * **Review proposed changes against current status**
-    * No discussion for this topic was held. The item remained on the agenda due to time constraints.
-  * **Provide feedback to TSC**
+  * **Latest update on the Budget Proposal**
+    * The Secretary reported that the committee budget proposal remained below the approval threshold despite receiving additional support following responses to DRep feedback.
+* **Review Q2 event planning**
+  * **Confirm whether the focus week starting 29 June should replace the regular committee session**
+    * The Secretary outlined the quarterly Intersect planning and reporting activities scheduled for the week starting 29 June, and the Committee agreed not to hold a regular committee session during that week.
+* **Review product research activity**
+  * **Review progress of proposal assessments**
+    * The Secretary reported that proposal content had been extracted into the repository for review and that reviewer feedback would be consolidated and returned to the Committee in anonymised form for decision-making.
+* **Review Budget Proposal voting status**
+  * **Review voting activity from larger DReps and outstanding votes**
+    * The Committee reviewed the latest voting data, identified DReps that had abstained, voted against, or not yet voted, and encouraged members to provide additional context through their existing contacts where appropriate.
+* **Confirm future meeting schedule**
+  * **Confirm whether moving the meeting 30 minutes later works for all members**
+    * The Committee confirmed support for moving the meeting start time 30 minutes later on the same day.
+* **Review TSC KPI document**
+  * **Review proposed KPI changes and current status**
     * No discussion for this topic was held.
+  * **Agree feedback to be returned to TSC**
+    * The Secretary proposed scheduling KPI review work for the next session and will invite the relevant TSC representatives to attend.
 
 ## Outcomes & Recommendations
 
@@ -87,7 +62,4 @@ N/A
 
 ## Decisions Recorded
 
-* The Committee approved submitting the M3 milestone.
-* The Committee agreed to establish a reviewer group for Product Research proposal evaluation.
-* The Committee agreed to return the remaining Local Gatherings budget to the Treasury.
-* The Committee agreed to return the remaining Business Calls budget to the Treasury.
+N/A

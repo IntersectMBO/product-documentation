@@ -1,87 +1,66 @@
-# 31st March 2025
+# 8th April 2025
 
 The session was run in the related [miro board](https://miro.com/app/board/uXjVKro_lxs=/).&#x20;
 
-📽️ The meeting recording can be found [here](https://drive.google.com/file/d/18JBvy-kYxbprh-OPgdCfP6oQB5UU2qos/view?usp=sharing).
+📽️ The meeting recording can be found [here](https://drive.google.com/file/d/18ti7IA-yNYcGmoXy6yv2C7SFuGhE5-JH/view?usp=sharing).
 
 ## Participants
 
-<table><thead><tr><th width="213.19140625">Name</th><th width="212.27734375">Role</th><th width="185.14453125">Attendance</th></tr></thead><tbody><tr><td>Lorenzo Bruno</td><td>Secretary</td><td>Yes</td></tr><tr><td>Samuel Leathers</td><td>Chair</td><td>Yes</td></tr><tr><td>Kyle Solomon</td><td>Vice-Chair</td><td>Yes</td></tr><tr><td>Carlos Lopez De Lara</td><td>Voting seat</td><td>No</td></tr><tr><td>Alexandre Maaza</td><td>Voting seat</td><td>Yes</td></tr><tr><td>James Meidinger</td><td>Voting seat</td><td>Yes</td></tr><tr><td>Christian Schmitz</td><td>Voting seats</td><td>No</td></tr><tr><td>Tegegne Tefera</td><td>Voting seat</td><td>Yes</td></tr><tr><td>Giorgio Zinetti</td><td>Voting seat</td><td>Yes</td></tr><tr><td>Tomas Garro</td><td>SME</td><td>Yes</td></tr><tr><td>Jess Fields</td><td>SME</td><td>Yes</td></tr><tr><td>Juan Sierra</td><td>SME</td><td>Yes</td></tr></tbody></table>
+| Name                 | Role           | Attendance |
+| -------------------- | -------------- | ---------- |
+| Lorenzo Bruno        | Secretary      | Yes        |
+| Samuel Leathers      | Chair          | No         |
+| Kyle Solomon         | Vice-Chair     | Yes        |
+| Carlos Lopez De Lara | Voting Seat    | Yes        |
+| Alexandre Maaza      | Voting Seat    | No         |
+| James Meidinger      | Voting Seat    | Yes        |
+| Christian Schmitz    | Voting Seat    | No         |
+| Tegegne Tefera       | Voting Seat    | Yes        |
+| Giorgio Zinetti      | Voting Seat    | No         |
+| Tomas Garro          | SME            | Yes        |
+| Jess Fields          | SME            | No         |
+| Juan Sierra          | SME            | Yes        |
+| Federico Weill       | Observer       | Yes        |
+| Justin Schreiner     | Observer       | Yes        |
+| Kevin Hammond        | Observer (TSC) | Yes        |
+| Leandros BSP         | Observer (TSC) | Yes        |
+| Thyme Studio         | Observer       | Yes        |
+| Yoram Ben-Zvi        | Observer (GMC) | Yes        |
 
 ## Agenda
 
-* Review actions and updates
-  * review adjustments to regular Committee meeting scheduling&#x20;
-  * share product research status update
-  * provide update on committee elections launch
-  * share insights from Builderfest
-* Business development working group
-  * confirm working group schedule and structure
-  * align participation with GMC
-  * confirm launch timeline and next steps
-* Review budget proposal document
-  * finalise structure of work packages
-  * clarify separation of business development activities
-* Continue work for product research
-  * define initial research scope and priorities
-  * review open questions and existing inputs
-  * align on draft timeline and next deliverables
-* Update KPI actions
-  * gather input from TSC and GMC
-  * plan stakeholder engagement sessions
-  * incorporate partner chains and ecosystem perspectives
-* Paris Blockchain Week
-  * coordinate Committee presence at Paris Blockchain Week
-  * confirm participants and timing
+* Review previous actions and updates
+* Committee elections&#x20;
+* Review KPI feedback from the Technical Steering Committee&#x20;
+* Review product research initiative
+* BuilderDAO alignment
 
 ## Updates
 
-* **Review actions and updates**
-  * **Meeting schedule adjustment**
-    * The Secretary proposed adjusting the regular meeting schedule and the Committee aligned on moving sessions to Wednesday pending confirmation.
-  * **Product research update**
-    * The Secretary confirmed the research initiative is progressing and entering its initial phase.
-  * **Committee elections launch**
-    * The Secretary shared that committee elections have opened and encouraged applications and referrals.
-  * **Builderfest update**
-    * The Committee received an update on Builderfest highlighting strong engagement and the need for better coordination to support adoption.
-* **Business development working group**
-  * **Confirm working group schedule**
-    * The Committee aligned on running the working group on Wednesdays.
-  * **Invite members from GMC**
-    * The Committee confirmed the need to include GMC participants to ensure cross-committee coordination.
-  * **Confirm start date**
-    * The Committee agreed to begin the working group in the following week.
-* **Review budget proposal document**
-  * **Clarify work packages**
-    * The Committee agreed to separate work packages to improve clarity around business-related activities.
-  * **Discuss connection to business development**
-    * The Committee aligned on connecting the budget structure to business development efforts.
-  * **Finalisation status**
-    * The Secretary confirmed the budget proposal received no major feedback by the Board and is moving toward finalisation.
-* **Continue work for product research**
-  * **Draft timeline**
-    * The Committee discussed an initial timeline with a first proposal expected in the next session.
-  * **Review open questions**
-    * The Committee agreed to start by reviewing and clustering open questions.
-  * **Align on research inputs**
-    * The Committee discussed incorporating additional inputs including market context, product readiness, and user insights.
-* **Update KPI actions**
-  * **Gather input from TSC & GMC**
-    * The Committee agreed to collect input from TSC and GMC to support KPI refinement.
-  * **Schedule stakeholder sessions**
-    * The Committee agreed to begin scheduling discussions with stakeholders.
-  * **Include partner chains**
-    * The Committee confirmed that partner chains and ecosystem contributors will be included in the process.
-* **Paris Blockchain Week**
-  * **Confirm attendees**
-    * The Committee discussed potential participants attending Paris Blockchain Week.
-  * **Align on dates**
-    * The Committee discussed timing options and the need to coordinate with existing events.
-  * **Use local gathering budget**
-    * The Vice-Chair proposed using the local gatherings budget to support activities.
-  * **Explore Cardano booth coordination**
-    * The Committee discussed aligning with existing Cardano presence and activities.
+* **Review previous actions and updates**
+  * No discussion for this topic was held.
+* **Committee elections**
+  * **Election application deadline update**
+    * The Secretary reminded the Committee that election applications close on 17 April and that voting is scheduled to begin on 20 April.
+  * **Product Committee community session and X Space updates**
+    * The Secretary provided an update on upcoming community engagement activities, including a Product Committee session and an X Space for prospective candidates.
+  * **Candidate recommendations**
+    * The Secretary encouraged members to recommend suitable candidates and noted that three candidates had applied at the time of the meeting.
+* **Review KPI feedback from the Technical Steering Committee**
+  * **Review proposed core KPIs and adjustments**
+    * The Committee reviewed TSC recommendations including protocol revenue, Plutus fees created, chain density and total value locked as proposed core KPIs and discussed their rationale and targets.
+  * **Review proposed additional and alternative KPIs**
+    * The Committee discussed additional KPI proposals, including measures of business activity, chain reliability, adoption and user-focused metrics, and considered how these could complement existing indicators.
+  * **Agree feedback for TSC**
+    * The Committee agreed to continue the KPI review within the dedicated Product Committee–TSC working session and provide further comments on the document before final feedback is submitted.
+* **Review product research initiative**
+  * **Progress update on research knowledge base and question analysis**
+    * The Committee reviewed progress on the product research initiative, including creation of a knowledge base, mapping research questions against Strategy 2030, identifying overlaps, and developing a prioritisation framework for future initiatives.
+* **BuilderDAO alignment**
+  * **Share BuilderDAO progress and approach**
+    * The Committee received an overview of BuilderDAO processes, including member onboarding, treasury withdrawal proposals and KPI tracking for funded projects.
+  * **Discuss alignment with Product Committee objectives and KPIs**
+    * The Committee discussed alignment between BuilderDAO project KPIs and the Product Committee’s ecosystem objectives and agreed that a dedicated future session would be valuable.
 
 ## Outcomes & Recommendations
 

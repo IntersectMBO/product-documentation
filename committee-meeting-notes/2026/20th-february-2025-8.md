@@ -1,66 +1,73 @@
-# 8th April 2025
+# 15th April 2025
 
 The session was run in the related [miro board](https://miro.com/app/board/uXjVKro_lxs=/).&#x20;
 
-📽️ The meeting recording can be found [here](https://drive.google.com/file/d/18ti7IA-yNYcGmoXy6yv2C7SFuGhE5-JH/view?usp=sharing).
+📽️ The meeting recording can be found [here](https://drive.google.com/file/d/1YTYBK7HvJuQSxPbUIzbqTluecn2q1E9i/view?usp=sharing).
 
 ## Participants
 
 | Name                 | Role           | Attendance |
 | -------------------- | -------------- | ---------- |
 | Lorenzo Bruno        | Secretary      | Yes        |
-| Samuel Leathers      | Chair          | No         |
-| Kyle Solomon         | Vice-Chair     | Yes        |
+| Samuel Leathers      | Chair          | Yes        |
+| Kyle Solomon         | Vice-Chair     | No         |
 | Carlos Lopez De Lara | Voting Seat    | Yes        |
 | Alexandre Maaza      | Voting Seat    | No         |
 | James Meidinger      | Voting Seat    | Yes        |
 | Christian Schmitz    | Voting Seat    | No         |
 | Tegegne Tefera       | Voting Seat    | Yes        |
 | Giorgio Zinetti      | Voting Seat    | No         |
-| Tomas Garro          | SME            | Yes        |
-| Jess Fields          | SME            | No         |
+| Tomas Garro          | SME            | No         |
+| Jess Fields          | SME            | Yes        |
 | Juan Sierra          | SME            | Yes        |
-| Federico Weill       | Observer       | Yes        |
+| DJ Bodden            | Observer       | Yes        |
 | Justin Schreiner     | Observer       | Yes        |
 | Kevin Hammond        | Observer (TSC) | Yes        |
+| Kriss Baird          | Observer       | Yes        |
 | Leandros BSP         | Observer (TSC) | Yes        |
-| Thyme Studio         | Observer       | Yes        |
+| Simo Simovic         | Observer       | Yes        |
 | Yoram Ben-Zvi        | Observer (GMC) | Yes        |
 
 ## Agenda
 
 * Review previous actions and updates
-* Committee elections&#x20;
-* Review KPI feedback from the Technical Steering Committee&#x20;
-* Review product research initiative
-* BuilderDAO alignment
+  * Ecosystem Funding Working Group update
+  * CPC budget update
+  * Committee elections update
+* BuilderDAO update and alignment
+* Business Development Working Group
+* Paris Blockchain Week – discuss community engagement activities and coordination
+* Review KPI feedback from the Technical Steering Committee
 
 ## Updates
 
 * **Review previous actions and updates**
-  * No discussion for this topic was held.
-* **Committee elections**
-  * **Election application deadline update**
-    * The Secretary reminded the Committee that election applications close on 17 April and that voting is scheduled to begin on 20 April.
-  * **Product Committee community session and X Space updates**
-    * The Secretary provided an update on upcoming community engagement activities, including a Product Committee session and an X Space for prospective candidates.
-  * **Candidate recommendations**
-    * The Secretary encouraged members to recommend suitable candidates and noted that three candidates had applied at the time of the meeting.
+  * **Ecosystem Funding Working Group update**
+    * The Committee received an update that the Ecosystem Funding Working Group had recently hosted presentations and continues to focus on improving ecosystem coordination.
+  * **CPC budget update**
+    * The Secretary informed the Committee that board approval had been received for the budget proposal process and that preparation for submission would begin through the budgeting tooling.
+  * **Committee elections update**
+    * The Secretary reminded members that election applications would close on 17 April and encouraged members to recommend qualified candidates for open committee seats.
+* **BuilderDAO update and alignment**
+  * **Review BuilderDAO progress**
+    * The Committee received a presentation from Justin Schreiner on BuilderDAO, including lessons learned from treasury-funded initiatives and the proposed Initiative DAO framework.
+  * **Discuss governance framework and alignment with Product Committee objectives**
+    * The Committee discussed DAO governance, accountability, membership requirements, KPI reporting, DRep oversight, legal structures, and alignment with Cardano Strategy 2030 KPIs.
+* **Business Development Working Group**
+  * **Review current status and coordination considerations**
+    * The Secretary noted that there may be overlap between the Business Development Working Group and existing committee activities and that further discussion would take place in a future session.
+* **Paris Blockchain Week**
+  * **Discuss community engagement activities and coordination**
+    * The Committee noted that several members were attending Paris Blockchain Week and that follow-up would be needed regarding any related community engagement activities.
 * **Review KPI feedback from the Technical Steering Committee**
   * **Review proposed core KPIs and adjustments**
-    * The Committee reviewed TSC recommendations including protocol revenue, Plutus fees created, chain density and total value locked as proposed core KPIs and discussed their rationale and targets.
+    * No discussion for this topic was held.
   * **Review proposed additional and alternative KPIs**
-    * The Committee discussed additional KPI proposals, including measures of business activity, chain reliability, adoption and user-focused metrics, and considered how these could complement existing indicators.
+    * No discussion for this topic was held.
+  * **Review proposed changes against current KPI status**
+    * The Secretary reminded members of the dedicated Product Committee–TSC KPI review session scheduled later that day and referenced the ongoing review document.
   * **Agree feedback for TSC**
-    * The Committee agreed to continue the KPI review within the dedicated Product Committee–TSC working session and provide further comments on the document before final feedback is submitted.
-* **Review product research initiative**
-  * **Progress update on research knowledge base and question analysis**
-    * The Committee reviewed progress on the product research initiative, including creation of a knowledge base, mapping research questions against Strategy 2030, identifying overlaps, and developing a prioritisation framework for future initiatives.
-* **BuilderDAO alignment**
-  * **Share BuilderDAO progress and approach**
-    * The Committee received an overview of BuilderDAO processes, including member onboarding, treasury withdrawal proposals and KPI tracking for funded projects.
-  * **Discuss alignment with Product Committee objectives and KPIs**
-    * The Committee discussed alignment between BuilderDAO project KPIs and the Product Committee’s ecosystem objectives and agreed that a dedicated future session would be valuable.
+    * The Committee agreed to continue KPI discussions during the dedicated joint session with TSC rather than during the current meeting.
 
 ## Outcomes & Recommendations
 
