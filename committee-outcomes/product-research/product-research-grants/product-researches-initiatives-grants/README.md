@@ -1,5 +1,25 @@
 # Product Researches Initiatives - Grants
 
+{% hint style="success" %}
+## Which Proposals got funded?
+
+* RFP09 - Tokenfrastructure - ADA 76,000
+* RFP02/05 - ELK Consortium - ADA 110,000
+* RFP05 - UNDP AltFinLab - ADA 41,400
+* RFP04 - Wada Global - ADA 22,500
+* RFP05 - PRISMA - ADA 58,000
+* RFP05 - ASISA - ADA 32,500
+* RFP07 - NexTrium - ADA 25,000
+
+See full report [here](https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FK7cBOo8O1BpQ2uwlq0BE%2Fuploads%2F6fjnd9iEmjlGfShZX2iA%2FCPC-prod-research-public-report.md?alt=media\&token=212d2190-3e9a-4af2-b634-2479eb1e9352)
+
+
+{% endhint %}
+
+{% file src="../../../../.gitbook/assets/CPC-prod-research-public-report.md" %}
+
+***
+
 {% hint style="info" %}
 ## Grants Key Dates
 
