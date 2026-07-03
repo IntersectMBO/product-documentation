@@ -31,8 +31,8 @@ N/A
 
 * Agreed a plan for the first Cardano product committee X Space
 * Agreed a plan for the Florida workshop on saturday
-* Agreed Chair rotation rules \[documented [here](../../policies/chair-rotation-rules.md)]
+* Agreed Chair rotation rules \[documented [here](/broken/pages/Z059VFtJAnoo4KXrXIzf)]
 
 ## Outcomes & Recommendations
 
-* [Chair rotation rules](../../policies/chair-rotation-rules.md)
+* [Chair rotation rules](/broken/pages/Z059VFtJAnoo4KXrXIzf)

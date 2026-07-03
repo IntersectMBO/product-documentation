@@ -22,7 +22,7 @@ The session was run in the related [miro board](https://miro.com/app/board/uXjVK
 
 ### Committee Chair Election
 
-The voting seats present ([here](21st-november-2024.md#participants)) participated in the chair election process (described [here](../../policies/chair-election-process.md)).&#x20;
+The voting seats present ([here](21st-november-2024.md#participants)) participated in the chair election process (described [here](/broken/pages/yMDPYMqKE0W67IbdSBHk)).&#x20;
 
 #### Candidates:
 

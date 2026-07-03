@@ -219,6 +219,4 @@
 
 ## Policies
 
-* [Chair Election Process](policies/chair-election-process.md)
-* [Chair Rotation rules](policies/chair-rotation-rules.md)
 * [Cardano vision workshops reimbursement limits](policies/cardano-vision-workshops-reimbursement-limits.md)
