@@ -1,58 +1,64 @@
-# 6th May 2025
+# 27th May 2025
 
 The session was run in the related [miro board](https://miro.com/app/board/uXjVKro_lxs=/).&#x20;
 
-📽️ The meeting recording can be found [here](https://drive.google.com/file/d/1gAe5J_A6wbWcBgdgxb3LrUGe5V__S3Yp/view?usp=sharing).
+📽️ The meeting recording can be found [here](https://drive.google.com/file/d/1SzUd-grG3JbWbqTwd42fZeKGsAe8xSGF/view?usp=sharing).
 
 ## Participants
 
-| Name                 | Role        | Attendance |
-| -------------------- | ----------- | ---------- |
-| Lorenzo Bruno        | Secretary   | Yes        |
-| Samuel Leathers      | Chair       | Yes        |
-| Kyle Solomon         | Vice-Chair  | Yes        |
-| Carlos Lopez De Lara | Voting Seat | No         |
-| Alexandre Maaza      | Voting Seat | Yes        |
-| James Meidinger      | Voting Seat | Yes        |
-| Christian Schmitz    | Voting Seat | No         |
-| Tegegne Tefera       | Voting Seat | No         |
-| Giorgio Zinetti      | Voting Seat | No         |
-| Tomas Garro          | SME         | Yes        |
-| Jess Fields          | SME         | Yes        |
-| Juan Sierra          | SME         | No         |
-| Seun Gbiri           | Observer    | Yes        |
-| Simo Simovic         | Observer    | Yes        |
-| Thiago Nunes         | Observer    | Yes        |
+| Name                    | Role                               | Attendance |
+| ----------------------- | ---------------------------------- | ---------- |
+| Lorenzo Bruno           | Secretary                          | No         |
+| Samuel Leathers         | Chair                              | Yes        |
+| Alexandre Maaza         | Voting Seat (Vice-Chair Appointee) | Yes        |
+| Juan Sierra             | Voting Seat                        | Yes        |
+| Yoram Ben-Zvi           | Voting Seat                        | Yes        |
+| Alexa C. (Thyme Studio) | Voting Seat                        | No         |
+| James Meidinger         | Voting Seat                        | Yes        |
+| Christian Schmitz       | Voting Seat                        | No         |
+| Giorgio Zinetti         | Voting Seat                        | No         |
+| Samir Idris             | Voting Seat                        | Yes        |
+| Tomas Garro             | SME                                | No         |
+| Jess Fields             | SME                                | No         |
+| Simo Simovic            | Observer                           | Yes        |
 
 ## Agenda
 
 * Review previous actions and updates
-  * newly elected committee members update
-* Budget request review
-  * review community comments and Hydra feedback
-* Product research initiative – review and approve nine research initiatives
-* Discuss creation of a Business Development coordination body with X characteristic to function
+  * product research update
+* Chair election – review election process and timeline
 * Review KPI feedback from the Technical Steering Committee – review proposed changes against current status – agree feedback for TSC
+* Budget proposal voting communications – review comments from SIPO
+* Product research – discuss application pipeline – discuss whether to reopen application windows in future
+* Any Other Business
 
 ## Updates
 
 * **Review previous actions and updates**
-  * **Newly elected committee members update**
-    * The Secretary provided an update on the Product Committee election results and outlined onboarding plans for newly elected members.
-* **Budget request review**
-  * **Review community comments and Hydra feedback**
-    * The Committee reviewed community comments received on the Product Committee budget proposal and discussed plans for proposal promotion and community engagement during the feedback period.
-* **Product research initiative**
-  * **Review and approve nine research initiatives**
-    * Tomas Garro presented the draft RFP framework for the nine approved research initiative areas and the Committee discussed scope, evaluation criteria, budgeting considerations and proposal submission requirements.
-* **Discuss creation of a Business Development coordination body with X characteristic to function**
-  * No discussion for this topic was held. The item remained on the agenda as a reminder for a future session.
+  * **Product research update**
+    * The Chair provided an update on the product research RFP process and noted that applications were being received and discussions were underway with potential applicants.
+* **Chair election**
+  * **Review election process and timeline**
+    * The Chair and Simo Simovic reviewed the upcoming Chair and Vice-Chair election process, application requirements and voting timeline through the Intersect members platform.
 * **Review KPI feedback from the Technical Steering Committee**
   * **Review proposed changes against current status**
-    * No discussion for this topic was held. The item remained on the agenda for a future session.
+    * No discussion for this topic was held because no Technical Steering Committee representatives were present.
   * **Agree feedback for TSC**
     * No discussion for this topic was held.
+* **Budget proposal voting communications**
+  * **Review comments from SIPO**
+    * The Committee reviewed questions submitted by SIPO regarding governance authority, conflicts of interest, pilot selection, funding controls and assurance processes within the Product Committee budget proposal.
+* **Product research**
+  * **Discuss application pipeline**
+    * The Chair encouraged members to share the research RFPs with potential applicants and confirmed that the Committee would review submissions after the application period closes.
+  * **Discuss whether to reopen application windows in future**
+    * The Chair noted that the Committee retained discretion over how funding would be allocated and that future application rounds could be considered depending on the volume and quality of submissions received.
+* **Any Other Business**
+  * **Welcome new committee member**
+    * The Chair welcomed Samir Idris to the Committee and provided guidance on participation in the product research process and Chair election process.
+  * **University engagement opportunities**
+    * The Committee discussed a potential engagement with Florida International University to raise awareness of the Product Research RFPs and explore future collaboration opportunities.
 
 ## Outcomes & Recommendations
 
-The Committee agreed to move review and approval of the research initiative RFPs to an asynchronous process so that all current and newly elected members could provide feedback before publication.
+N/A

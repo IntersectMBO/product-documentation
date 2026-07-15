@@ -1,63 +1,57 @@
-# 29th April 2025
+# 20th May 2025
 
 The session was run in the related [miro board](https://miro.com/app/board/uXjVKro_lxs=/).&#x20;
 
-📽️ The meeting recording can be found [here](https://drive.google.com/file/d/125DZ4k_-miKi07eV2mNJFRHN5xKaNK9C/view?usp=sharing).
+📽️ The meeting recording can be found [here](https://drive.google.com/file/d/1PENqP7YlaxR5JBkqG0XWSaDYnlSlBW1r/view?usp=sharing).
 
 ## Participants
 
-| Name                 | Role           | Attendance |
-| -------------------- | -------------- | ---------- |
-| Lorenzo Bruno        | Secretary      | Yes        |
-| Samuel Leathers      | Chair          | Yes        |
-| Kyle Solomon         | Vice-Chair     | Yes        |
-| Carlos Lopez De Lara | Voting Seat    | No         |
-| Alexandre Maaza      | Voting Seat    | No         |
-| James Meidinger      | Voting Seat    | Yes        |
-| Christian Schmitz    | Voting Seat    | No         |
-| Tegegne Tefera       | Voting Seat    | No         |
-| Giorgio Zinetti      | Voting Seat    | Yes        |
-| Tomas Garro          | SME            | Yes        |
-| Jess Fields          | SME            | No         |
-| Juan Sierra          | SME            | Yes        |
-| DJ Bodden            | Observer       | Yes        |
-| Seun Gbiri           | Observer       | Yes        |
-| Thyme Studio         | Observer       | Yes        |
-| Yoram Ben-Zvi        | Observer (GMC) | Yes        |
+| Name                    | Role                               | Attendance |
+| ----------------------- | ---------------------------------- | ---------- |
+| Lorenzo Bruno           | Secretary                          | Yes        |
+| Samuel Leathers         | Chair                              | No         |
+| Alexandre Maaza         | Voting Seat (Vice-Chair Appointee) | Yes        |
+| Juan Sierra             | Voting Seat                        | Yes        |
+| Yoram Ben-Zvi           | Voting Seat                        | No         |
+| Alexa C. (Thyme Studio) | Voting Seat                        | Yes        |
+| James Meidinger         | Voting Seat                        | Yes        |
+| Christian Schmitz       | Voting Seat                        | No         |
+| Giorgio Zinetti         | Voting Seat                        | No         |
+| Tomas Garro             | SME                                | Yes        |
+| Jess Fields             | SME                                | No         |
+| Daniel Ribar            | Observer                           | Yes        |
+| DJ Bodden               | Observer                           | Yes        |
+| Samir Idris             | Observer                           | Yes        |
+| Seun Gbiri              | Observer                           | Yes        |
+| Thiago Nunes            | Observer                           | Yes        |
 
 ## Agenda
 
 * Review previous actions and updates
-  * budget proposal published update
-  * option to join Intersect Town Hall discussion
-* Discuss potential X Space for budget proposal overview
-* Product research initiative
-* Discuss creation of a Business Development coordination body with X characteristic to function
-* Review KPI feedback from the Technical Steering Committee
+  * product research initiative publication update
+* Review KPI feedback from the Technical Steering Committee – review proposed changes against current status – agree feedback for TSC
+* Any Other Business
 
 ## Updates
 
 * **Review previous actions and updates**
-  * **Budget proposal published update**
-    * The Secretary confirmed that the Product Committee budget proposal had been published and encouraged members to review the proposal and share it with ecosystem stakeholders for feedback.
-  * **Option to join Intersect Town Hall discussion**
-    * The Secretary advised that there was an opportunity for Committee representatives to participate in the upcoming Intersect Town Hall to discuss the proposal and answer questions.
-* **Discuss potential X Space for budget proposal overview**
-  * **Review communications approach and timeline**
-    * The Committee discussed hosting an X Space during the feedback period to explain the proposal, answer questions and encourage community participation before voting begins.
-* **Product research initiative**
-  * **Review proposed research initiative portfolio**
-    * Tomas Garro presented the product research framework, including the consolidation of research questions, prioritisation methodology and candidate research initiatives aligned with Strategy 2030 objectives.
-  * **Agree priority research streams for proposal development**
-    * The Committee reviewed the proposed initiatives, agreed to remove several items considered operational or outside scope, and narrowed the portfolio to nine priority research streams for further development.
-* **Discuss creation of a Business Development coordination body with X characteristic to function**
-  * No discussion for this topic was held. The Secretary noted that additional preparation and supporting material would be required before a future discussion.
+  * **Product research initiative publication update**
+    * The Secretary confirmed that the nine approved product research RFPs had been published, applications were open, and the clarification and submission process had commenced.
 * **Review KPI feedback from the Technical Steering Committee**
   * **Review proposed changes against current status**
-    * No discussion for this topic was held.
+    * The Secretary provided a high-level update on the KPI review process and noted that a detailed review would be more effective once Technical Steering Committee representatives could participate in a future session.
   * **Agree feedback for TSC**
     * No discussion for this topic was held.
+* **Any Other Business**
+  * **Budget proposal feedback**
+    * The Committee discussed the limited volume of feedback received on budget proposals and broader challenges relating to proposal review, prioritisation and use of AI-assisted analysis by DReps.
+  * **Committee onboarding process**
+    * The Committee discussed the value of recent onboarding sessions and suggested creating additional opportunities for cross-committee collaboration and relationship building.
+  * **Open Source event reflections**
+    * The Committee discussed recent outreach activities at Open Source events and highlighted opportunities to engage developers who were interested in blockchain technology but not yet active within the Cardano ecosystem.
+  * **KPI considerations and transaction fees**
+    * The Committee briefly discussed concerns raised regarding KPI design, transaction fee assumptions and the relationship between ecosystem growth metrics and ADA value. Further discussion was deferred to a future KPI review session.
 
 ## Outcomes & Recommendations
 
-The Committee agreed to proceed with development of nine priority product research initiative streams and prepare the associated grant documentation for review and publication.
+N/A

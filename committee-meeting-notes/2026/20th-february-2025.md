@@ -1,60 +1,51 @@
-# 10th June 2025
+# 8th July 2025
 
 The session was run in the related [miro board](https://miro.com/app/board/uXjVKro_lxs=/).&#x20;
 
-📽️ The meeting recording can be found [here](https://drive.google.com/file/d/1647vo7odiQf-iY45YNKUeUiu_jDAmefl/view?usp=sharing).
+📽️ The meeting recording can be found [here](https://drive.google.com/file/d/1_yovCjX7JGCmhcwXT6IeAyGfWkOzhjQn/view?usp=sharing).
 
 ## Participants
 
-| Name                    | Role                                            | Attendance |
-| ----------------------- | ----------------------------------------------- | ---------- |
-| Samuel Leathers         | Chair                                           | Yes        |
-| Lorenzo Bruno           | Secretary                                       | Yes        |
-| Alexandre Maaza         | Voting Seat (Vice-Chair Appointee) / Vice-Chair | Yes        |
-| Juan Sierra             | Voting Seat                                     | Yes        |
-| Yoram Ben-Zvi           | Voting Seat                                     | Yes        |
-| Alexa C. (Thyme Studio) | Voting Seat                                     | Yes        |
-| James Meidinger         | Voting Seat                                     | Yes        |
-| Christian Schmitz       | Voting Seat                                     | No         |
-| Giorgio Zinetti         | Voting Seat                                     | No         |
-| Samir Idris             | Voting Seat                                     | No         |
+| Name                    | Role                               | Attendance |
+| ----------------------- | ---------------------------------- | ---------- |
+| Samuel Leathers         | Chair                              | Yes        |
+| Lorenzo Bruno           | Secretary                          | Yes        |
+| Alexandre Maaza         | Voting Seat (Vice-Chair Appointee) | Yes        |
+| Juan Sierra             | Voting Seat                        | Yes        |
+| Yoram Ben-Zvi           | Voting Seat                        | Yes        |
+| Alexa C. (Thyme Studio) | Voting Seat (Vice-Chair)           | Yes        |
+| James Meidinger         | Voting Seat                        | No         |
+| Christian Schmitz       | Voting Seat                        | No         |
+| Giorgio Zinetti         | Voting Seat                        | No         |
+| Samir Idris             | Voting Seat                        | Yes        |
 
 ## Agenda
 
 * Review actions and updates
-  * latest update on the Budget Proposal
-* Review Q2 event planning
-  * confirm whether the focus week starting 29 June should replace the regular committee session
-* Review product research activity
-  * review progress of proposal assessments
-* Review Budget Proposal voting status
-  * review voting activity from larger DReps and outstanding votes
-* Confirm future meeting schedule
-  * confirm whether moving the meeting 30 minutes later works for all members
-* Review TSC KPI document – review proposed KPI changes and current status – agree feedback to be returned to TSC
+  * Updates on product research
+* Product research
+  * Prepare X post contingent on contract execution
+  * Secretary to prepare draft post
+* Review KPI document from TSC
+  * Review proposed KPI changes and current status (in Miro)
+  * Agree feedback for TSC
 
 ## Updates
 
 * **Review actions and updates**
-  * **Latest update on the Budget Proposal**
-    * The Secretary reported that the committee budget proposal remained below the approval threshold despite receiving additional support following responses to DRep feedback.
-* **Review Q2 event planning**
-  * **Confirm whether the focus week starting 29 June should replace the regular committee session**
-    * The Secretary outlined the quarterly Intersect planning and reporting activities scheduled for the week starting 29 June, and the Committee agreed not to hold a regular committee session during that week.
-* **Review product research activity**
-  * **Review progress of proposal assessments**
-    * The Secretary reported that proposal content had been extracted into the repository for review and that reviewer feedback would be consolidated and returned to the Committee in anonymised form for decision-making.
-* **Review Budget Proposal voting status**
-  * **Review voting activity from larger DReps and outstanding votes**
-    * The Committee reviewed the latest voting data, identified DReps that had abstained, voted against, or not yet voted, and encouraged members to provide additional context through their existing contacts where appropriate.
-* **Confirm future meeting schedule**
-  * **Confirm whether moving the meeting 30 minutes later works for all members**
-    * The Committee confirmed support for moving the meeting start time 30 minutes later on the same day.
-* **Review TSC KPI document**
-  * **Review proposed KPI changes and current status**
-    * No discussion for this topic was held.
-  * **Agree feedback to be returned to TSC**
-    * The Secretary proposed scheduling KPI review work for the next session and will invite the relevant TSC representatives to attend.
+  * **Updates on product research**
+    * The Secretary confirmed that the Committee had approved the research funding recommendations, notified all applicants of the outcome, published the evaluation report and successful proposals, and commenced procurement, KYC/KYB and contract preparation activities.
+    * The Committee also welcomed Alexa C. (Thyme Studio) as the newly appointed Vice-Chair following the completed committee vote.
+* **Product research**
+  * **Prepare X post contingent on contract execution**
+    * The Secretary proposed publishing an announcement summarising the successful research proposals once contract execution is complete, and the Committee agreed that the communication should explain the funded research themes and acknowledge the return of unused treasury funds.
+  * **Secretary to prepare draft post**
+    * The Secretary agreed to prepare a draft X post for Committee review before publication.
+* **Review KPI document from TSC**
+  * **Review proposed KPI changes and current status (in Miro)**
+    * The Committee reviewed the proposed KPI amendments from the Technical Steering Committee, discussed replacing transaction-based metrics with protocol revenue metrics, questioned the assumptions supporting the proposed growth targets, and agreed that further clarification from TSC was required before finalising feedback.
+  * **Agree feedback for TSC**
+    * The Committee agreed to consolidate its questions and discuss them with the Technical Steering Committee before providing final feedback on the proposed KPI changes.
 
 ## Outcomes & Recommendations
 
@@ -62,4 +53,4 @@ N/A
 
 ## Decisions Recorded
 
-N/A
+Product Research funded proposals approved on Member Area Vote [https://members.intersectmbo.org/dashboard/voting/50/event-results](https://members.intersectmbo.org/dashboard/voting/50/event-results)
