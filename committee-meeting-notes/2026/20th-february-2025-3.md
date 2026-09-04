@@ -1,60 +1,43 @@
-# 10th June 2025
+# 12th August 2025
 
 The session was run in the related [miro board](https://miro.com/app/board/uXjVKro_lxs=/).&#x20;
 
-📽️ The meeting recording can be found [here](https://drive.google.com/file/d/1647vo7odiQf-iY45YNKUeUiu_jDAmefl/view?usp=sharing).
+📽️ The meeting recording can be found [here](https://drive.google.com/file/d/16obeywAQbyUGl2o4tkZzpj37NpDB4V4G/view?usp=sharing).
 
 ## Participants
 
-| Name                    | Role                                            | Attendance |
-| ----------------------- | ----------------------------------------------- | ---------- |
-| Samuel Leathers         | Chair                                           | Yes        |
-| Lorenzo Bruno           | Secretary                                       | Yes        |
-| Alexandre Maaza         | Voting Seat (Vice-Chair Appointee) / Vice-Chair | Yes        |
-| Juan Sierra             | Voting Seat                                     | Yes        |
-| Yoram Ben-Zvi           | Voting Seat                                     | Yes        |
-| Alexa C. (Thyme Studio) | Voting Seat                                     | Yes        |
-| James Meidinger         | Voting Seat                                     | Yes        |
-| Christian Schmitz       | Voting Seat                                     | No         |
-| Giorgio Zinetti         | Voting Seat                                     | No         |
-| Samir Idris             | Voting Seat                                     | No         |
+| Name                    | Role                               | Attendance |
+| ----------------------- | ---------------------------------- | ---------- |
+| Samuel Leathers         | Chair                              | Yes        |
+| Lorenzo Bruno           | Secretary                          | No         |
+| Alexandre Maaza         | Voting Seat (Vice-Chair Appointee) | Yes        |
+| Juan Sierra             | Voting Seat                        | Yes        |
+| Yoram Ben-Zvi           | Voting Seat                        | No         |
+| Alexa C. (Thyme Studio) | Voting Seat                        | Yes        |
+| James Meidinger         | Voting Seat                        | Yes        |
+| Christian Schmitz       | Voting Seat                        | No         |
+| Giorgio Zinetti         | Voting Seat                        | No         |
+| Samir Idris             | Voting Seat                        | Yes        |
 
 ## Agenda
 
 * Review actions and updates
-  * latest update on the Budget Proposal
-* Review Q2 event planning
-  * confirm whether the focus week starting 29 June should replace the regular committee session
-* Review product research activity
-  * review progress of proposal assessments
-* Review Budget Proposal voting status
-  * review voting activity from larger DReps and outstanding votes
-* Confirm future meeting schedule
-  * confirm whether moving the meeting 30 minutes later works for all members
-* Review TSC KPI document – review proposed KPI changes and current status – agree feedback to be returned to TSC
+  * Product Research milestone updates from Wada, Tymfa and NexTrium
+* Product Research presentation from Ben
+* Discuss the Ecosystem Funding Working Group based on Alex’s document
+* Review the KPI survey as the Product Committee
 
 ## Updates
 
 * **Review actions and updates**
-  * **Latest update on the Budget Proposal**
-    * The Secretary reported that the committee budget proposal remained below the approval threshold despite receiving additional support following responses to DRep feedback.
-* **Review Q2 event planning**
-  * **Confirm whether the focus week starting 29 June should replace the regular committee session**
-    * The Secretary outlined the quarterly Intersect planning and reporting activities scheduled for the week starting 29 June, and the Committee agreed not to hold a regular committee session during that week.
-* **Review product research activity**
-  * **Review progress of proposal assessments**
-    * The Secretary reported that proposal content had been extracted into the repository for review and that reviewer feedback would be consolidated and returned to the Committee in anonymised form for decision-making.
-* **Review Budget Proposal voting status**
-  * **Review voting activity from larger DReps and outstanding votes**
-    * The Committee reviewed the latest voting data, identified DReps that had abstained, voted against, or not yet voted, and encouraged members to provide additional context through their existing contacts where appropriate.
-* **Confirm future meeting schedule**
-  * **Confirm whether moving the meeting 30 minutes later works for all members**
-    * The Committee confirmed support for moving the meeting start time 30 minutes later on the same day.
-* **Review TSC KPI document**
-  * **Review proposed KPI changes and current status**
-    * No discussion for this topic was held.
-  * **Agree feedback to be returned to TSC**
-    * The Secretary proposed scheduling KPI review work for the next session and will invite the relevant TSC representatives to attend.
+  * **Product Research milestone updates from Wada, Tymfa and NexTrium**
+    * The Chair reported that three Product Research projects had completed their first milestones for Committee review, while six of the seven research contracts had been signed.
+* **Product Research presentation from Ben**
+  * The Committee received an update on the vertical approach research, including work to define and assess potential verticals, develop a framework for their progression, and test it against Bitcoin DeFi, agricultural supply chains and government use cases.
+* **Discuss the Ecosystem Funding Working Group based on Alex’s document**
+  * The Committee reviewed the ecosystem funding architecture work, including the completed ecosystem diagnostic, development of the draft architecture, stakeholder consultation and plans to hand the work over for broader community engagement through Intersect.
+* **Review the KPI survey as the Product Committee**
+  * The Committee reviewed the KPI survey, identified adoption and utility as its primary relevant pillar, discussed limitations in measuring existing KPIs including monthly active wallets, and considered additional measures including economic value settled on-chain and agentic activity.
 
 ## Outcomes & Recommendations
 

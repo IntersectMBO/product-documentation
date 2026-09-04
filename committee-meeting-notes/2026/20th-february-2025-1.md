@@ -1,8 +1,8 @@
-# 24th June 2025
+# 26th August 2025
 
 The session was run in the related [miro board](https://miro.com/app/board/uXjVKro_lxs=/).&#x20;
 
-📽️ The meeting recording can be found [here](https://drive.google.com/file/d/17G0zW6fR6H-Lri8PnOIQms-D4R0IVyZi/view?usp=sharing).
+📽️ The meeting recording can be found [here](https://drive.google.com/file/d/1k1lHexqLnER_GsjjvuRJDQiZof6hI8y1/view?usp=sharing).
 
 ## Participants
 
@@ -14,7 +14,7 @@ The session was run in the related [miro board](https://miro.com/app/board/uXjVK
 | Juan Sierra             | Voting Seat                        | Yes        |
 | Yoram Ben-Zvi           | Voting Seat                        | Yes        |
 | Alexa C. (Thyme Studio) | Voting Seat                        | Yes        |
-| James Meidinger         | Voting Seat                        | No         |
+| James Meidinger         | Voting Seat                        | Yes        |
 | Christian Schmitz       | Voting Seat                        | No         |
 | Giorgio Zinetti         | Voting Seat                        | No         |
 | Samir Idris             | Voting Seat                        | Yes        |
@@ -22,36 +22,28 @@ The session was run in the related [miro board](https://miro.com/app/board/uXjVK
 ## Agenda
 
 * Review actions and updates
-  * Ecosystem Funding Working Group (EFWG)
-  * Vice-Chair appointment
-* Product research
-* Planning
-* CBC survey questions
-* Review KPI document from TSC
-  * Review proposed changes with current status (in Miro)
-  * Agree feedback to TSC
+  * update on UNDP
+  * update on the KPI survey
+  * update on ELK Consortium Milestone 1
+* Complete the Committee survey
+* Review feedback for TKNFRA and Wada
+* Discuss 2027 deliverables
 
 ## Updates
 
 * **Review actions and updates**
-  * **Ecosystem Funding Working Group (EFWG)**
-    * The Committee received an update on the Ecosystem Funding Working Group, including the onboarding of a contractor, the development of a funding coordination framework, and opportunities to align the work with the Product Committee’s KPI refinement activities.
-  * **Vice-Chair appointment**
-    * The Secretary confirmed that Alexandre Maaza had withdrawn from the Vice-Chair role, Alexa C. (Thyme Studio) volunteered to stand for the position, and the Committee agreed to open the opportunity to all members before conducting an asynchronous vote.
-* **Product research**
-  * The Chair confirmed that proposal reviews had been completed, the final report was being anonymised before publication, and the Committee reviewed the proposed list of projects recommended for funding.
-  * The Committee discussed publication of the evaluation report, reviewer anonymity, audit considerations, communications to the community, expected contract structure, and delivery requirements for successful research proposals.
-* **Planning**
-  * The Secretary reviewed the Committee's Quarter 3 workstreams, including issuing research contracts, monitoring research progress, completing KPI refinement activities, and preparing future planning aligned with the 2030 Vision.
-  * The Committee agreed to continue engagement with the Growth & Marketing Committee, request feedback from additional committees through a survey, and consider producing KPI guidance for committees during Quarter 4.
-  * The Committee discussed future funding options following the unsuccessful treasury withdrawal proposal and considered using completed research outputs to support future pilot funding proposals.
-* **CBC survey questions**
-  * The Committee received an update from the Budget Committee that a post-budget process survey would be distributed to participants, and members agreed to support and complete the survey once available.
-* **Review KPI document from TSC**
-  * **Review proposed changes with current status (in Miro)**
-    * The Committee reviewed progress on KPI refinement, discussed alignment of committee planning with the 2030 Vision, and considered improvements to committee-wide KPI adoption and governance.
-  * **Agree feedback to TSC**
-    * No discussion for this topic was held.
+  * **Update on UNDP**
+    * The Secretary reported that UNDP had responded regarding KYC issues, and the Committee requested confirmation that all six countries identified in the proposal remained actively engaged.
+  * **Update on the KPI survey**
+    * The Committee noted that three or four responses had been received, with further committee feedback still expected before the survey was closed and the research findings compiled.
+  * **Update on ELK Consortium Milestone 1**
+    * The Secretary reported that ELK Consortium had completed its first milestone but had not yet formally submitted it, and agreed to provide instructions for submission through the new milestone process.
+* **Complete the Committee survey**
+  * The Committee completed or progressed the committee-effectiveness survey during the session and provided feedback on questions concerning participation across multiple committees.
+* **Review feedback for TKNFRA and Wada**
+  * The Committee reviewed the proposed milestone-review process, agreeing that milestone submissions should be made through GitHub and reviewed by two Committee reviewers followed by the Chair, while initial feedback on TKNFRA identified points requiring clarification against its proposal and milestone criteria.
+* **Discuss 2027 deliverables**
+  * The Secretary recalled the proposed 2027 deliverables framework and noted that, although the related budget proposal was not approved, funding may become available through Intersect to progress work on critical unfunded processes, with further planning to follow once funding is confirmed.
 
 ## Outcomes & Recommendations
 

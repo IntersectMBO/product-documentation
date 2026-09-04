@@ -1,59 +1,43 @@
-# 17th June 2025
+# 19th August 2025
 
 The session was run in the related [miro board](https://miro.com/app/board/uXjVKro_lxs=/).&#x20;
 
-📽️ The meeting recording can be found [here](https://drive.google.com/file/d/1cJMVfs1KJYCPm-kFc28avalsqCvm2y6r/view?usp=sharing).
+📽️ The meeting recording can be found [here](https://drive.google.com/file/d/14V48mh_sjS6Y2LUZFPxP8d_0rT2Kce_Q/view?usp=sharing).
 
 ## Participants
 
-| Name                    | Role                               | Attendance                       |
-| ----------------------- | ---------------------------------- | -------------------------------- |
-| Samuel Leathers         | Chair                              | Yes                              |
-| Lorenzo Bruno           | Secretary                          | Yes                              |
-| Alexandre Maaza         | Voting Seat (Vice-Chair Appointee) | No                               |
-| Juan Sierra             | Voting Seat                        | Yes                              |
-| Yoram Ben-Zvi           | Voting Seat                        | Yes                              |
-| Alexa C. (Thyme Studio) | Voting Seat                        | Yes _(joined as "Thyme Studio")_ |
-| James Meidinger         | Voting Seat                        | Yes                              |
-| Christian Schmitz       | Voting Seat                        | No                               |
-| Giorgio Zinetti         | Voting Seat                        | No                               |
-| Samir Idris             | Voting Seat                        | Yes                              |
+| Name                    | Role                               | Attendance |
+| ----------------------- | ---------------------------------- | ---------- |
+| Samuel Leathers         | Chair                              | Yes        |
+| Lorenzo Bruno           | Secretary                          | Yes        |
+| Alexandre Maaza         | Voting Seat (Vice-Chair Appointee) | No         |
+| Juan Sierra             | Voting Seat                        | Yes        |
+| Yoram Ben-Zvi           | Voting Seat                        | Yes        |
+| Alexa C. (Thyme Studio) | Voting Seat                        | Yes        |
+| James Meidinger         | Voting Seat                        | Yes        |
+| Christian Schmitz       | Voting Seat                        | No         |
+| Giorgio Zinetti         | Voting Seat                        | No         |
+| Samir Idris             | Voting Seat                        | Yes        |
 
 ## Agenda
 
-* Review outstanding actions and updates
-  * confirm meeting logistics
-  * review outstanding follow-up items.
-* Planning
-  * review Quarter 2 summary preparation
-  * agree Quarter 3 priorities
-  * discuss KPI review roadmap.
-* Product research
-  * review procurement progress
-  * discuss expected timelines
-  * agree monitoring approach.
+* Review actions and updates&#x20;
+  * follow up on the outstanding UNDP response
+* Review Product Research milestones for Wada and TKNFRA
+* Review the KPI survey as the Product Committee
+* Discuss 2027 deliverables
 
 ## Updates
 
-* **Review outstanding actions and updates**
-  * **Confirm meeting logistics**
-    * The Secretary confirmed that the committee meeting time had moved 30 minutes earlier and noted the updated schedule.
-  * **Review outstanding follow-up items**
-    * The Secretary confirmed that the current agenda would focus on planning and product research, with KPI work remaining an outstanding action.
-* **Planning**
-  * **Review Quarter 2 summary preparation**
-    * The Secretary advised that a Quarter 2 summary would be drafted for review by the Chair and Vice-Chair before being brought back to the Committee for approval.
-  * **Agree Quarter 3 priorities**
-    * The Committee agreed that Quarter 3 should primarily focus on monitoring product research, progressing KPI work, and operating within the available resources following the unsuccessful budget proposal.
-  * **Discuss KPI review roadmap**
-    * The Committee discussed completing feedback on the Technical Steering Committee KPI proposals, coordinating with the Growth and Marketing Committee, and continuing work towards refining the KPI framework before considering a future on-chain update.
-* **Product research**
-  * **Review procurement progress**
-    * The Chair reported that approximately seven research proposals were currently expected to proceed, subject to final pricing discussions and contract completion.
-  * **Discuss expected timelines**
-    * The Committee reviewed the expected delivery timelines for research projects and noted that most work was likely to continue through Quarter 3, with many deliverables expected later in the year.
-  * **Agree monitoring approach**
-    * The Committee agreed that Quarter 3 should focus on executing contracts, tracking research progress, reviewing interim outcomes where available, and using the completed research to support future funding discussions.
+* **Review actions and updates**
+  * **Follow up on the outstanding UNDP response**
+    * The Secretary reported that the UNDP proposal remained pending because responses to outstanding questions had not been received, with a further follow-up planned before considering allocation to the next proposal in line.
+* **Review Product Research milestones for Wada and TKNFRA**
+  * The Committee received milestone presentations covering research into Cardano’s commercial positioning for AI and adoption opportunities in Africa, and discussed stakeholder outreach, research validation, milestone review and publication of milestone reports.
+* **Review the KPI survey as the Product Committee**
+  * The Committee reviewed and agreed its survey responses, including adoption and utility as the most relevant strategic pillar, concerns with existing KPI measurement, proposed additional KPIs, and the need for consistent ownership and tracking of KPI data.
+* **Discuss 2027 deliverables**
+  * No discussion for this topic was held. The Secretary noted that the item could be covered at the following meeting due to the limited time remaining.
 
 ## Outcomes & Recommendations
 

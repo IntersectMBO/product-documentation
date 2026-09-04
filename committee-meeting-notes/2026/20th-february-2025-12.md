@@ -1,67 +1,93 @@
-# 8th April 2025
+# 3rd June 2025
 
 The session was run in the related [miro board](https://miro.com/app/board/uXjVKro_lxs=/).&#x20;
 
-📽️ The meeting recording can be found [here](https://drive.google.com/file/d/18ti7IA-yNYcGmoXy6yv2C7SFuGhE5-JH/view?usp=sharing).
+📽️ The meeting recording can be found [here](https://drive.google.com/file/d/1xCqfL5TdjCfsuOK7uLgt5cQPIvjLQ1Fo/view?usp=sharing).
 
 ## Participants
 
-| Name                 | Role           | Attendance |
-| -------------------- | -------------- | ---------- |
-| Lorenzo Bruno        | Secretary      | Yes        |
-| Samuel Leathers      | Chair          | No         |
-| Kyle Solomon         | Vice-Chair     | Yes        |
-| Carlos Lopez De Lara | Voting Seat    | Yes        |
-| Alexandre Maaza      | Voting Seat    | No         |
-| James Meidinger      | Voting Seat    | Yes        |
-| Christian Schmitz    | Voting Seat    | No         |
-| Tegegne Tefera       | Voting Seat    | Yes        |
-| Giorgio Zinetti      | Voting Seat    | No         |
-| Tomas Garro          | SME            | Yes        |
-| Jess Fields          | SME            | No         |
-| Juan Sierra          | SME            | Yes        |
-| Federico Weill       | Observer       | Yes        |
-| Justin Schreiner     | Observer       | Yes        |
-| Kevin Hammond        | Observer (TSC) | Yes        |
-| Leandros BSP         | Observer (TSC) | Yes        |
-| Thyme Studio         | Observer       | Yes        |
-| Yoram Ben-Zvi        | Observer (GMC) | Yes        |
+| Name                    | Role                               | Attendance |
+| ----------------------- | ---------------------------------- | ---------- |
+| Samuel Leathers         | Chair                              | Yes        |
+| Lorenzo Bruno           | Secretary                          | Yes        |
+| Alexandre Maaza         | Voting Seat (Vice-Chair Appointee) | No         |
+| Juan Sierra             | Voting Seat                        | Yes        |
+| Yoram Ben-Zvi           | Voting Seat                        | Yes        |
+| Alexa C. (Thyme Studio) | Voting Seat                        | Yes        |
+| James Meidinger         | Voting Seat                        | Yes        |
+| Christian Schmitz       | Voting Seat                        | No         |
+| Giorgio Zinetti         | Voting Seat                        | No         |
+| Samir Idris             | Voting Seat                        | No\*       |
+| Tomas Garro             | SME                                | Yes        |
+| Thiago Nunes            | SME                                | Yes        |
+| Wilco van de Burgwal    | Observer                           | Yes        |
+| Simo Simovic            | Observer                           | Yes        |
+| Benjamin Ben Zvi        | Observer                           | Yes        |
 
 ## Agenda
 
-* Review previous actions and updates
-* Committee elections&#x20;
-* Review KPI feedback from the Technical Steering Committee&#x20;
-* Review product research initiative
-* BuilderDAO alignment
+* Review actions and updates
+* check whether the current meeting time remains suitable for members
+* Chair election – review election process and confirm voting is open
+* Review M3 milestone submission – review completed workshop milestone&#x20;
+* Product research
+  * review current applications
+  * discuss next review process
+  * discuss conflict-of-interest handling
+  * discuss reopening application window
+* Budget proposal voting communications
+  * review comments from SIPO
+  * agree response to Yuta
+* Local gatherings applications
+  * review recent applications
+  * discuss future handling of unused budget
+* Review KPI document from TSC – review proposed changes against current status – provide feedback to TSC
 
 ## Updates
 
-* **Review previous actions and updates**
-  * No discussion for this topic was held.
-* **Committee elections**
-  * **Election application deadline update**
-    * The Secretary reminded the Committee that election applications close on 17 April and that voting is scheduled to begin on 20 April.
-  * **Product Committee community session and X Space updates**
-    * The Secretary provided an update on upcoming community engagement activities, including a Product Committee session and an X Space for prospective candidates.
-  * **Candidate recommendations**
-    * The Secretary encouraged members to recommend suitable candidates and noted that three candidates had applied at the time of the meeting.
-* **Review KPI feedback from the Technical Steering Committee**
-  * **Review proposed core KPIs and adjustments**
-    * The Committee reviewed TSC recommendations including protocol revenue, Plutus fees created, chain density and total value locked as proposed core KPIs and discussed their rationale and targets.
-  * **Review proposed additional and alternative KPIs**
-    * The Committee discussed additional KPI proposals, including measures of business activity, chain reliability, adoption and user-focused metrics, and considered how these could complement existing indicators.
-  * **Agree feedback for TSC**
-    * The Committee agreed to continue the KPI review within the dedicated Product Committee–TSC working session and provide further comments on the document before final feedback is submitted.
-* **Review product research initiative**
-  * **Progress update on research knowledge base and question analysis**
-    * The Committee reviewed progress on the product research initiative, including creation of a knowledge base, mapping research questions against Strategy 2030, identifying overlaps, and developing a prioritisation framework for future initiatives.
-* **BuilderDAO alignment**
-  * **Share BuilderDAO progress and approach**
-    * The Committee received an overview of BuilderDAO processes, including member onboarding, treasury withdrawal proposals and KPI tracking for funded projects.
-  * **Discuss alignment with Product Committee objectives and KPIs**
-    * The Committee discussed alignment between BuilderDAO project KPIs and the Product Committee’s ecosystem objectives and agreed that a dedicated future session would be valuable.
+* **Review actions and updates**
+  * **Check whether the current meeting time remains suitable for members**
+    * The Secretary reviewed attendance patterns and the Committee agreed to explore alternative scheduling options with committee leadership and other committee secretaries.
+* **Chair election**
+  * **Review election process and confirm voting is open**
+    * The Secretary and Simo Simovic confirmed that voting for Chair and Vice-Chair was open in the Members Area and encouraged all eligible members to vote before the deadline.
+* **Review M3 milestone submission**
+  * **Review completed workshop milestone**
+    * The Secretary presented the milestone report covering the Barcelona, Buenos Aires, London and Nairobi workshops and reviewed the supporting documentation.
+  * **Approve submission for signing**
+    * Voting members present supported submitting the milestone package through the procurement process for final approval and signing.
+* **Product research**
+  * **Review current applications**
+    * The Secretary reported that approximately twenty-five research proposals had been received across the published RFPs.
+  * **Discuss next review process**
+    * The Committee agreed to establish a reviewer group to assess the proposals and prepare recommendations.
+  * **Discuss conflict-of-interest handling**
+    * The Committee agreed that members with submitted proposals should not participate in reviewing their own applications.
+  * **Discuss reopening application window**
+    * The Committee agreed to defer any decision on reopening application windows until the current proposals have been reviewed.
+* **Budget proposal voting communications**
+  * **Review comments from SIPO**
+    * The Committee reviewed comments relating to governance, committee composition and pilot funding contained within the budget proposal discussion.
+  * **Agree response to Yuta**
+    * The Committee agreed that any response should clarify the current committee composition, election timetable and the relationship between product research outcomes and future pilot funding decisions.
+* **Local gatherings applications**
+  * **Review recent applications**
+    * The Committee reviewed the status of recent local gathering applications and noted limited utilisation of the available funding.
+  * **Discuss future handling of unused budget**
+    * Voting members agreed to return the remaining local gatherings budget to the Treasury and to notify applicants accordingly.
+* **Review KPI document from TSC**
+  * **Review proposed changes against current status**
+    * No discussion for this topic was held. The item remained on the agenda due to time constraints.
+  * **Provide feedback to TSC**
+    * No discussion for this topic was held.
 
 ## Outcomes & Recommendations
 
 N/A
+
+## Decisions Recorded
+
+* The Committee approved submitting the M3 milestone.
+* The Committee agreed to establish a reviewer group for Product Research proposal evaluation.
+* The Committee agreed to return the remaining Local Gatherings budget to the Treasury.
+* The Committee agreed to return the remaining Business Calls budget to the Treasury.

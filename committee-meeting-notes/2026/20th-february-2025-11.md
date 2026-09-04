@@ -1,74 +1,65 @@
-# 15th April 2025
+# 10th June 2025
 
 The session was run in the related [miro board](https://miro.com/app/board/uXjVKro_lxs=/).&#x20;
 
-📽️ The meeting recording can be found [here](https://drive.google.com/file/d/1YTYBK7HvJuQSxPbUIzbqTluecn2q1E9i/view?usp=sharing).
+📽️ The meeting recording can be found [here](https://drive.google.com/file/d/1647vo7odiQf-iY45YNKUeUiu_jDAmefl/view?usp=sharing).
 
 ## Participants
 
-| Name                 | Role           | Attendance |
-| -------------------- | -------------- | ---------- |
-| Lorenzo Bruno        | Secretary      | Yes        |
-| Samuel Leathers      | Chair          | Yes        |
-| Kyle Solomon         | Vice-Chair     | No         |
-| Carlos Lopez De Lara | Voting Seat    | Yes        |
-| Alexandre Maaza      | Voting Seat    | No         |
-| James Meidinger      | Voting Seat    | Yes        |
-| Christian Schmitz    | Voting Seat    | No         |
-| Tegegne Tefera       | Voting Seat    | Yes        |
-| Giorgio Zinetti      | Voting Seat    | No         |
-| Tomas Garro          | SME            | No         |
-| Jess Fields          | SME            | Yes        |
-| Juan Sierra          | SME            | Yes        |
-| DJ Bodden            | Observer       | Yes        |
-| Justin Schreiner     | Observer       | Yes        |
-| Kevin Hammond        | Observer (TSC) | Yes        |
-| Kriss Baird          | Observer       | Yes        |
-| Leandros BSP         | Observer (TSC) | Yes        |
-| Simo Simovic         | Observer       | Yes        |
-| Yoram Ben-Zvi        | Observer (GMC) | Yes        |
+| Name                    | Role                                            | Attendance |
+| ----------------------- | ----------------------------------------------- | ---------- |
+| Samuel Leathers         | Chair                                           | Yes        |
+| Lorenzo Bruno           | Secretary                                       | Yes        |
+| Alexandre Maaza         | Voting Seat (Vice-Chair Appointee) / Vice-Chair | Yes        |
+| Juan Sierra             | Voting Seat                                     | Yes        |
+| Yoram Ben-Zvi           | Voting Seat                                     | Yes        |
+| Alexa C. (Thyme Studio) | Voting Seat                                     | Yes        |
+| James Meidinger         | Voting Seat                                     | Yes        |
+| Christian Schmitz       | Voting Seat                                     | No         |
+| Giorgio Zinetti         | Voting Seat                                     | No         |
+| Samir Idris             | Voting Seat                                     | No         |
 
 ## Agenda
 
-* Review previous actions and updates
-  * Ecosystem Funding Working Group update
-  * CPC budget update
-  * Committee elections update
-* BuilderDAO update and alignment
-* Business Development Working Group
-* Paris Blockchain Week – discuss community engagement activities and coordination
-* Review KPI feedback from the Technical Steering Committee
+* Review actions and updates
+  * latest update on the Budget Proposal
+* Review Q2 event planning
+  * confirm whether the focus week starting 29 June should replace the regular committee session
+* Review product research activity
+  * review progress of proposal assessments
+* Review Budget Proposal voting status
+  * review voting activity from larger DReps and outstanding votes
+* Confirm future meeting schedule
+  * confirm whether moving the meeting 30 minutes later works for all members
+* Review TSC KPI document – review proposed KPI changes and current status – agree feedback to be returned to TSC
 
 ## Updates
 
-* **Review previous actions and updates**
-  * **Ecosystem Funding Working Group update**
-    * The Committee received an update that the Ecosystem Funding Working Group had recently hosted presentations and continues to focus on improving ecosystem coordination.
-  * **CPC budget update**
-    * The Secretary informed the Committee that board approval had been received for the budget proposal process and that preparation for submission would begin through the budgeting tooling.
-  * **Committee elections update**
-    * The Secretary reminded members that election applications would close on 17 April and encouraged members to recommend qualified candidates for open committee seats.
-* **BuilderDAO update and alignment**
-  * **Review BuilderDAO progress**
-    * The Committee received a presentation from Justin Schreiner on BuilderDAO, including lessons learned from treasury-funded initiatives and the proposed Initiative DAO framework.
-  * **Discuss governance framework and alignment with Product Committee objectives**
-    * The Committee discussed DAO governance, accountability, membership requirements, KPI reporting, DRep oversight, legal structures, and alignment with Cardano Strategy 2030 KPIs.
-* **Business Development Working Group**
-  * **Review current status and coordination considerations**
-    * The Secretary noted that there may be overlap between the Business Development Working Group and existing committee activities and that further discussion would take place in a future session.
-* **Paris Blockchain Week**
-  * **Discuss community engagement activities and coordination**
-    * The Committee noted that several members were attending Paris Blockchain Week and that follow-up would be needed regarding any related community engagement activities.
-* **Review KPI feedback from the Technical Steering Committee**
-  * **Review proposed core KPIs and adjustments**
+* **Review actions and updates**
+  * **Latest update on the Budget Proposal**
+    * The Secretary reported that the committee budget proposal remained below the approval threshold despite receiving additional support following responses to DRep feedback.
+* **Review Q2 event planning**
+  * **Confirm whether the focus week starting 29 June should replace the regular committee session**
+    * The Secretary outlined the quarterly Intersect planning and reporting activities scheduled for the week starting 29 June, and the Committee agreed not to hold a regular committee session during that week.
+* **Review product research activity**
+  * **Review progress of proposal assessments**
+    * The Secretary reported that proposal content had been extracted into the repository for review and that reviewer feedback would be consolidated and returned to the Committee in anonymised form for decision-making.
+* **Review Budget Proposal voting status**
+  * **Review voting activity from larger DReps and outstanding votes**
+    * The Committee reviewed the latest voting data, identified DReps that had abstained, voted against, or not yet voted, and encouraged members to provide additional context through their existing contacts where appropriate.
+* **Confirm future meeting schedule**
+  * **Confirm whether moving the meeting 30 minutes later works for all members**
+    * The Committee confirmed support for moving the meeting start time 30 minutes later on the same day.
+* **Review TSC KPI document**
+  * **Review proposed KPI changes and current status**
     * No discussion for this topic was held.
-  * **Review proposed additional and alternative KPIs**
-    * No discussion for this topic was held.
-  * **Review proposed changes against current KPI status**
-    * The Secretary reminded members of the dedicated Product Committee–TSC KPI review session scheduled later that day and referenced the ongoing review document.
-  * **Agree feedback for TSC**
-    * The Committee agreed to continue KPI discussions during the dedicated joint session with TSC rather than during the current meeting.
+  * **Agree feedback to be returned to TSC**
+    * The Secretary proposed scheduling KPI review work for the next session and will invite the relevant TSC representatives to attend.
 
 ## Outcomes & Recommendations
+
+N/A
+
+## Decisions Recorded
 
 N/A

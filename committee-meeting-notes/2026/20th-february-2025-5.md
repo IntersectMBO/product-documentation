@@ -1,64 +1,45 @@
-# 27th May 2025
+# 29th July 2025
 
 The session was run in the related [miro board](https://miro.com/app/board/uXjVKro_lxs=/).&#x20;
 
-📽️ The meeting recording can be found [here](https://drive.google.com/file/d/1SzUd-grG3JbWbqTwd42fZeKGsAe8xSGF/view?usp=sharing).
+📽️ The meeting recording can be found [here](https://drive.google.com/file/d/1GdNgwrNPmrIS2UiIMct9yyHs7s842BD8/view?usp=sharing).
 
 ## Participants
 
 | Name                    | Role                               | Attendance |
 | ----------------------- | ---------------------------------- | ---------- |
-| Lorenzo Bruno           | Secretary                          | No         |
 | Samuel Leathers         | Chair                              | Yes        |
-| Alexandre Maaza         | Voting Seat (Vice-Chair Appointee) | Yes        |
+| Lorenzo Bruno           | Secretary                          | No         |
+| Alexandre Maaza         | Voting Seat (Vice-Chair Appointee) | No         |
 | Juan Sierra             | Voting Seat                        | Yes        |
-| Yoram Ben-Zvi           | Voting Seat                        | Yes        |
-| Alexa C. (Thyme Studio) | Voting Seat                        | No         |
-| James Meidinger         | Voting Seat                        | Yes        |
+| Yoram Ben-Zvi           | Voting Seat                        | No         |
+| Alexa C. (Thyme Studio) | Voting Seat                        | Yes        |
+| James Meidinger         | Voting Seat                        | No         |
 | Christian Schmitz       | Voting Seat                        | No         |
 | Giorgio Zinetti         | Voting Seat                        | No         |
-| Samir Idris             | Voting Seat                        | Yes        |
-| Tomas Garro             | SME                                | No         |
-| Jess Fields             | SME                                | No         |
-| Simo Simovic            | Observer                           | Yes        |
+| Samir Idris             | Voting Seat                        | No         |
 
 ## Agenda
 
-* Review previous actions and updates
-  * product research update
-* Chair election – review election process and timeline
-* Review KPI feedback from the Technical Steering Committee – review proposed changes against current status – agree feedback for TSC
-* Budget proposal voting communications – review comments from SIPO
-* Product research – discuss application pipeline – discuss whether to reopen application windows in future
-* Any Other Business
+* Review actions and updates
+  * Product Research contracts: 5 out of 7 completed and awaiting signature, with 2 proposers unresponsive
+* Approve release of the KPI feedback survey
+* Review any updates on the Dijkstra hard fork
 
 ## Updates
 
-* **Review previous actions and updates**
-  * **Product research update**
-    * The Chair provided an update on the product research RFP process and noted that applications were being received and discussions were underway with potential applicants.
-* **Chair election**
-  * **Review election process and timeline**
-    * The Chair and Simo Simovic reviewed the upcoming Chair and Vice-Chair election process, application requirements and voting timeline through the Intersect members platform.
-* **Review KPI feedback from the Technical Steering Committee**
-  * **Review proposed changes against current status**
-    * No discussion for this topic was held because no Technical Steering Committee representatives were present.
-  * **Agree feedback for TSC**
-    * No discussion for this topic was held.
-* **Budget proposal voting communications**
-  * **Review comments from SIPO**
-    * The Committee reviewed questions submitted by SIPO regarding governance authority, conflicts of interest, pilot selection, funding controls and assurance processes within the Product Committee budget proposal.
-* **Product research**
-  * **Discuss application pipeline**
-    * The Chair encouraged members to share the research RFPs with potential applicants and confirmed that the Committee would review submissions after the application period closes.
-  * **Discuss whether to reopen application windows in future**
-    * The Chair noted that the Committee retained discretion over how funding would be allocated and that future application rounds could be considered depending on the volume and quality of submissions received.
-* **Any Other Business**
-  * **Welcome new committee member**
-    * The Chair welcomed Samir Idris to the Committee and provided guidance on participation in the product research process and Chair election process.
-  * **University engagement opportunities**
-    * The Committee discussed a potential engagement with Florida International University to raise awareness of the Product Research RFPs and explore future collaboration opportunities.
+* **Review actions and updates**
+  * **Product Research contracts: 5 out of 7 completed and awaiting signature, with 2 proposers unresponsive**
+    * The Committee reviewed the status of the Product Research contracts and discussed an outstanding concern with the proposed milestone structure for releasing funds, which the Secretary was working to address.
+* **Approve release of the KPI feedback survey**
+  * The Committee confirmed that the survey was finalised and ready, and agreed that it would be presented at the next Intersect Committee Council before being shared with committee chairs.
+* **Review any updates on the Dijkstra hard fork**
+  * The Chair confirmed that the Dijkstra hard fork scope and hard fork planning documents had been published following agreement with relevant stakeholders, and highlighted the elements most relevant to the Product Committee.
 
 ## Outcomes & Recommendations
+
+N/A
+
+## Decisions Recorded
 
 N/A

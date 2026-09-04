@@ -97,7 +97,7 @@ Esta propuesta no requiere, per se, la aprobación del Comité Constitucional. S
 Apoyar la Visión y Estrategia Cardano 2030 es esencial porque proporciona a los DReps una herramienta estratégica clave para una gobernanza eficaz y una asignación responsable de los recursos de la tesorería.
 
 Este documento, que incluye cinco Pilares Estratégicos y KPIs asociados, ofrece a los DReps un filtro validado por la comunidad para evaluar rigurosamente solicitudes de financiación e iniciativas. Les permite preguntarse:\
-&#xNAN;**¿Esta propuesta impulsa a Cardano hacia su Visión 2030 de ser la blockchain más segura, fiable y resistente a la censura para aplicaciones de misión crítica?**
+**¿Esta propuesta impulsa a Cardano hacia su Visión 2030 de ser la blockchain más segura, fiable y resistente a la censura para aplicaciones de misión crítica?**
 
 Es importante destacar que este marco está diseñado para informar el voto, no para imponerlo. La Visión es un documento estratégico, no constitucional; proporciona una dirección compartida para canalizar el esfuerzo colectivo, pero no obliga a los DReps a votar de una manera específica ni tiene implicaciones sobre la constitucionalidad de futuras propuestas o acciones. Al adoptar esta visión, la comunidad adquiere la disciplina estratégica necesaria para enfocar recursos y acelerar un crecimiento coherente y sostenible a largo plazo.
 

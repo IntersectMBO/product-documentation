@@ -1,43 +1,58 @@
-# 10th March 2025
+# 6th May 2025
 
 The session was run in the related [miro board](https://miro.com/app/board/uXjVKro_lxs=/).&#x20;
 
-📽️ The meeting recording can be found [here](https://drive.google.com/file/d/1Sub5xMlyjscGWq83-tpfhL0xp0BeL54t/view?usp=sharing).
+📽️ The meeting recording can be found [here](https://drive.google.com/file/d/1gAe5J_A6wbWcBgdgxb3LrUGe5V__S3Yp/view?usp=sharing).
 
 ## Participants
 
-<table><thead><tr><th width="213.19140625">Name</th><th width="212.27734375">Role</th><th width="185.14453125">Attendance</th></tr></thead><tbody><tr><td>Lorenzo Bruno</td><td>Secretary</td><td>Yes</td></tr><tr><td>Samuel Leathers</td><td>Chair</td><td>Yes</td></tr><tr><td>Kyle Solomon</td><td>Vice-Chair</td><td>Yes</td></tr><tr><td>Carlos Lopez De Lara</td><td>Voting seat</td><td>No</td></tr><tr><td>Alexandre Maaza</td><td>Voting seat</td><td>Yes</td></tr><tr><td>James Meidinger</td><td>Voting seat</td><td>Yes</td></tr><tr><td>Christian Schmitz</td><td>Voting seats</td><td>No</td></tr><tr><td>Tegegne Tefera</td><td>Voting seat</td><td>Yes</td></tr><tr><td>Giorgio Zinetti</td><td>Voting seat</td><td>No</td></tr><tr><td>Tomas Garro</td><td>SME</td><td>Yes</td></tr><tr><td>Jess Fields</td><td>SME</td><td>No</td></tr><tr><td>Juan Sierra</td><td>SME</td><td>Yes</td></tr></tbody></table>
+| Name                 | Role        | Attendance |
+| -------------------- | ----------- | ---------- |
+| Lorenzo Bruno        | Secretary   | Yes        |
+| Samuel Leathers      | Chair       | Yes        |
+| Kyle Solomon         | Vice-Chair  | Yes        |
+| Carlos Lopez De Lara | Voting Seat | No         |
+| Alexandre Maaza      | Voting Seat | Yes        |
+| James Meidinger      | Voting Seat | Yes        |
+| Christian Schmitz    | Voting Seat | No         |
+| Tegegne Tefera       | Voting Seat | No         |
+| Giorgio Zinetti      | Voting Seat | No         |
+| Tomas Garro          | SME         | Yes        |
+| Jess Fields          | SME         | Yes        |
+| Juan Sierra          | SME         | No         |
+| Seun Gbiri           | Observer    | Yes        |
+| Simo Simovic         | Observer    | Yes        |
+| Thiago Nunes         | Observer    | Yes        |
 
 ## Agenda
 
-* Review actions / updates
-  * Review GMC (BizDev) update
-  * Review ecosystem funding WG update
-* Review product research grant
-  * Confirm final evaluation
-* Discuss committee budget
-  * Review detailed breakdown
-* Discuss partnerchains X Space
-  * Confirm scheduling
-  * Confirm host
-* Discuss Consensus Miami
+* Review previous actions and updates
+  * newly elected committee members update
+* Budget request review
+  * review community comments and Hydra feedback
+* Product research initiative – review and approve nine research initiatives
+* Discuss creation of a Business Development coordination body with X characteristic to function
+* Review KPI feedback from the Technical Steering Committee – review proposed changes against current status – agree feedback for TSC
 
 ## Updates
 
-* **Review actions / updates**&#x20;
-  * **GMC (BizDev) update**\
-    The Committee reviewed limited progress due to availability constraints.
-  * **ecosystem funding WG update**\
-    The Committee reviewed ongoing work on funding approaches.
-* **Review product research grant – confirm final evaluation**
-  * The Committee confirmed evaluation was completed and decision pending.
-* **Discuss committee budget – review detailed breakdown**
-  * The Committee discussed refinement of budget components.
-* **Discuss partnerchains X Space – confirm scheduling / host**
-  * The Committee discussed planning of the X Space.
-* **Discuss Consensus Miami**
-  * The Committee discussed coordination and participation.
+* **Review previous actions and updates**
+  * **Newly elected committee members update**
+    * The Secretary provided an update on the Product Committee election results and outlined onboarding plans for newly elected members.
+* **Budget request review**
+  * **Review community comments and Hydra feedback**
+    * The Committee reviewed community comments received on the Product Committee budget proposal and discussed plans for proposal promotion and community engagement during the feedback period.
+* **Product research initiative**
+  * **Review and approve nine research initiatives**
+    * Tomas Garro presented the draft RFP framework for the nine approved research initiative areas and the Committee discussed scope, evaluation criteria, budgeting considerations and proposal submission requirements.
+* **Discuss creation of a Business Development coordination body with X characteristic to function**
+  * No discussion for this topic was held. The item remained on the agenda as a reminder for a future session.
+* **Review KPI feedback from the Technical Steering Committee**
+  * **Review proposed changes against current status**
+    * No discussion for this topic was held. The item remained on the agenda for a future session.
+  * **Agree feedback for TSC**
+    * No discussion for this topic was held.
 
 ## Outcomes & Recommendations
 
-N/A
+The Committee agreed to move review and approval of the research initiative RFPs to an asynchronous process so that all current and newly elected members could provide feedback before publication.

@@ -1,20 +1,20 @@
-# 8th July 2025
+# 2nd September 2025
 
 The session was run in the related [miro board](https://miro.com/app/board/uXjVKro_lxs=/).&#x20;
 
-📽️ The meeting recording can be found [here](https://drive.google.com/file/d/1_yovCjX7JGCmhcwXT6IeAyGfWkOzhjQn/view?usp=sharing).
+📽️ The meeting recording can be found [here](https://drive.google.com/file/d/1bNLk_hj2OP14v9eOyP_FY7GJDMlfI5yg/view?usp=sharing).
 
 ## Participants
 
 | Name                    | Role                               | Attendance |
 | ----------------------- | ---------------------------------- | ---------- |
 | Samuel Leathers         | Chair                              | Yes        |
-| Lorenzo Bruno           | Secretary                          | Yes        |
-| Alexandre Maaza         | Voting Seat (Vice-Chair Appointee) | Yes        |
+| Lorenzo Bruno           | Secretary                          | No         |
+| Alexandre Maaza         | Voting Seat (Vice-Chair Appointee) | No         |
 | Juan Sierra             | Voting Seat                        | Yes        |
 | Yoram Ben-Zvi           | Voting Seat                        | Yes        |
-| Alexa C. (Thyme Studio) | Voting Seat (Vice-Chair)           | Yes        |
-| James Meidinger         | Voting Seat                        | No         |
+| Alexa C. (Thyme Studio) | Voting Seat                        | Yes        |
+| James Meidinger         | Voting Seat                        | Yes        |
 | Christian Schmitz       | Voting Seat                        | No         |
 | Giorgio Zinetti         | Voting Seat                        | No         |
 | Samir Idris             | Voting Seat                        | Yes        |
@@ -22,30 +22,33 @@ The session was run in the related [miro board](https://miro.com/app/board/uXjVK
 ## Agenda
 
 * Review actions and updates
-  * Updates on product research
-* Product research
-  * Prepare X post contingent on contract execution
-  * Secretary to prepare draft post
-* Review KPI document from TSC
-  * Review proposed KPI changes and current status (in Miro)
-  * Agree feedback for TSC
+  * confirm milestone submission and review process communicated to proposers
+  * confirm research funds unlocked
+  * update on UNDP contract
+  * confirm committee focus weeks and upcoming planning
+* Review CPC KPI survey
+  * review status and feedback
+* Agree on committee focus weeks
+* Review any milestone pull requests raised by proposers
 
 ## Updates
 
 * **Review actions and updates**
-  * **Updates on product research**
-    * The Secretary confirmed that the Committee had approved the research funding recommendations, notified all applicants of the outcome, published the evaluation report and successful proposals, and commenced procurement, KYC/KYB and contract preparation activities.
-    * The Committee also welcomed Alexa C. (Thyme Studio) as the newly appointed Vice-Chair following the completed committee vote.
-* **Product research**
-  * **Prepare X post contingent on contract execution**
-    * The Secretary proposed publishing an announcement summarising the successful research proposals once contract execution is complete, and the Committee agreed that the communication should explain the funded research themes and acknowledge the return of unused treasury funds.
-  * **Secretary to prepare draft post**
-    * The Secretary agreed to prepare a draft X post for Committee review before publication.
-* **Review KPI document from TSC**
-  * **Review proposed KPI changes and current status (in Miro)**
-    * The Committee reviewed the proposed KPI amendments from the Technical Steering Committee, discussed replacing transaction-based metrics with protocol revenue metrics, questioned the assumptions supporting the proposed growth targets, and agreed that further clarification from TSC was required before finalising feedback.
-  * **Agree feedback for TSC**
-    * The Committee agreed to consolidate its questions and discuss them with the Technical Steering Committee before providing final feedback on the proposed KPI changes.
+  * **Confirm milestone submission and review process communicated to proposers**
+    * The Committee confirmed that proposers had been provided with the milestone submission process and that three milestone pull requests had been received for Committee review.
+  * **Confirm research funds unlocked**
+    * The Chair confirmed that the CR to unlock funds for the research proposals had been signed, enabling payments to proceed as milestones are completed.
+  * **Update on UNDP contract**
+    * The Chair reported that the UNDP contract remained pending on the other party's side and was expected to progress within the coming weeks.
+  * **Confirm committee focus weeks and upcoming planning**
+    * The Chair confirmed plans to hold a meeting during the second-to-last week of September and take the final week of September and first week of October as committee focus weeks.
+* **Review CPC KPI survey**
+  * **Review status and feedback**
+    * The Committee reviewed the KPI survey status, with four of seven committees having submitted responses and six expected by 9 September, while concerns were raised about whether the Steering Committee response represented an agreed committee position.
+* **Agree on committee focus weeks**
+  * The Committee confirmed its September and October schedule and noted that upcoming planning would cover Q3 achievements and Q4 priorities ahead of the quarterly events.
+* **Review any milestone pull requests raised by proposers**
+  * The Committee reviewed the milestone-review arrangements, confirmed that reviewers should comment directly on assigned GitHub pull requests, and agreed that reviews should consider both compliance with agreed requirements and the value delivered to the Cardano community.
 
 ## Outcomes & Recommendations
 
@@ -53,4 +56,4 @@ N/A
 
 ## Decisions Recorded
 
-Product Research funded proposals approved on Member Area Vote [https://members.intersectmbo.org/dashboard/voting/50/event-results](https://members.intersectmbo.org/dashboard/voting/50/event-results)
+N/A

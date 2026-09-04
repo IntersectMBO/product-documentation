@@ -263,10 +263,10 @@ For year 1, 2025, the research conducted in this sub-bucket aims to provide insi
 #### To inform and refine [2025 goals](https://productcommittee.docs.intersectmbo.org/committee-outcomes/2025-cardanos-roadmap/2025-proposed-cardano-goals)
 
 *   **To inform the broad topic: Get more Usage**\
-    &#xNAN;_&#x47;oal_: Attract dApps and users - product market fit\
+    _&#x47;oal_: Attract dApps and users - product market fit\
     Problem to solve: How Might We attract more dApps, users, and protocols to Cardano (to increase transaction activity which will ultimately fund the treasury)?\
     \
-    &#xNAN;_&#x51;uestions_:
+    _&#x51;uestions_:
 
     * What are the existing Cardano use cases (of any size)? Which ones have been successful and which ones have not? What are the reasons behind this?
     * What are the existing use cases that have been tried on blockchains?
@@ -280,10 +280,10 @@ For year 1, 2025, the research conducted in this sub-bucket aims to provide insi
     * How many people participate in the Cardano community at different levels?
 
     \
-    &#xNAN;_&#x47;oal_: Easier to build on and to use Cardano\
+    _&#x47;oal_: Easier to build on and to use Cardano\
     Problem to solve: How Might We reduce barriers and simplify processes for using and building on the Cardano blockchain?\
     \
-    &#xNAN;_&#x51;uestions_:
+    _&#x51;uestions_:
 
     * What are the limitations, barriers, and issues of the existing tooling to build on Cardano?
     * What are the existing barriers and limitations to build on Cardano L2?
@@ -296,7 +296,7 @@ For year 1, 2025, the research conducted in this sub-bucket aims to provide insi
     _Goal_: Cardano competitive option\
     Problem to solve: How Might We make Cardano meet the needs of apps that want to build on it (in terms of speed of transactions and speed of development), so being competitive with other options and getting more users?\
     \
-    &#xNAN;_&#x51;uestions_:&#x20;
+    _&#x51;uestions_:&#x20;
 
     * What are the L2 potential use cases for transactions that settle on Cardano?
     * What customers could benefit from Cardano's current qualities/value?
@@ -313,7 +313,7 @@ For year 1, 2025, the research conducted in this sub-bucket aims to provide insi
     _Goal_: Clear funding mechanisms\
     Problem to solve: How might we develop effective funding mechanisms for Cardano projects and businesses (both from inside and outside the ecosystem)?\
     \
-    &#xNAN;_&#x51;uestions_:
+    _&#x51;uestions_:
 
     * What are the existing funding mechanisms in Cardano? What are the limitations and barriers of entry to those?
     * Are existing projects and businesses aware of these existing funding mechanisms? How easy and clear it is to access them?
@@ -328,7 +328,7 @@ For year 1, 2025, the research conducted in this sub-bucket aims to provide insi
     _Goal_: Make Cardano more recognizable\
     Problem to solve: How might we increase the recognition and reputation of the Cardano ecosystem and ADA token?\
     \
-    &#xNAN;_&#x51;uestions_:
+    _&#x51;uestions_:
 
     * How much awareness does the general public have of Cardano and its core qualities? And how much awareness do businesses that can benefit from Cardano have of it?
     * What is the public perception of Cardano?
@@ -339,10 +339,10 @@ For year 1, 2025, the research conducted in this sub-bucket aims to provide insi
 
 *   **To inform the broad topic: Governance**\
     \
-    &#xNAN;_&#x47;oal_: Reliable decentralized governance\
+    _&#x47;oal_: Reliable decentralized governance\
     Problem to solve: How Might We make the new Cardano governance strong enough to support the newly formed Cardano government?\
     \
-    &#xNAN;_&#x51;uestions_:
+    _&#x51;uestions_:
 
     * What is the right level of participation in governance? What should we expect and what should we aim for?
     * What are the existing barriers to participation in Cardano's governance?
@@ -353,16 +353,16 @@ For year 1, 2025, the research conducted in this sub-bucket aims to provide insi
 
 
 * **To inform the broad topic: Business as usual**\
-  &#xNAN;_&#x47;oal_: Maintain Cardano's current qualities\
+  _&#x47;oal_: Maintain Cardano's current qualities\
   Problem to solve: How might we ensure Cardano remains trustworthy, reliable, and competitive?\
   \
-  &#xNAN;_&#x51;uestions_:
+  _&#x51;uestions_:
   * What are Cardano's core qualities? Which of these are unique? Which one is also our USP and makes us competitive?<br>
 * **To inform the broad topic: Vision**\
-  &#xNAN;_&#x47;oal_: Process for a shared community-driven vision\
+  _&#x47;oal_: Process for a shared community-driven vision\
   Problem to solve: How might we create the next path to move Cardano forward as a community?\
   \
-  &#xNAN;_&#x51;uestions_:
+  _&#x51;uestions_:
   * What other ecosystems have run a process like this? What can we learn from that?
   * What other processes similar to this have we run in our ecosystem? What can we learn from those?&#x20;
   * What frameworks should we leverage?

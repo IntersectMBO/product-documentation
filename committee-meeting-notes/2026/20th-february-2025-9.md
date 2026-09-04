@@ -1,63 +1,62 @@
-# 29th April 2025
+# 24th June 2025
 
 The session was run in the related [miro board](https://miro.com/app/board/uXjVKro_lxs=/).&#x20;
 
-📽️ The meeting recording can be found [here](https://drive.google.com/file/d/125DZ4k_-miKi07eV2mNJFRHN5xKaNK9C/view?usp=sharing).
+📽️ The meeting recording can be found [here](https://drive.google.com/file/d/17G0zW6fR6H-Lri8PnOIQms-D4R0IVyZi/view?usp=sharing).
 
 ## Participants
 
-| Name                 | Role           | Attendance |
-| -------------------- | -------------- | ---------- |
-| Lorenzo Bruno        | Secretary      | Yes        |
-| Samuel Leathers      | Chair          | Yes        |
-| Kyle Solomon         | Vice-Chair     | Yes        |
-| Carlos Lopez De Lara | Voting Seat    | No         |
-| Alexandre Maaza      | Voting Seat    | No         |
-| James Meidinger      | Voting Seat    | Yes        |
-| Christian Schmitz    | Voting Seat    | No         |
-| Tegegne Tefera       | Voting Seat    | No         |
-| Giorgio Zinetti      | Voting Seat    | Yes        |
-| Tomas Garro          | SME            | Yes        |
-| Jess Fields          | SME            | No         |
-| Juan Sierra          | SME            | Yes        |
-| DJ Bodden            | Observer       | Yes        |
-| Seun Gbiri           | Observer       | Yes        |
-| Thyme Studio         | Observer       | Yes        |
-| Yoram Ben-Zvi        | Observer (GMC) | Yes        |
+| Name                    | Role                               | Attendance |
+| ----------------------- | ---------------------------------- | ---------- |
+| Samuel Leathers         | Chair                              | Yes        |
+| Lorenzo Bruno           | Secretary                          | Yes        |
+| Alexandre Maaza         | Voting Seat (Vice-Chair Appointee) | Yes        |
+| Juan Sierra             | Voting Seat                        | Yes        |
+| Yoram Ben-Zvi           | Voting Seat                        | Yes        |
+| Alexa C. (Thyme Studio) | Voting Seat                        | Yes        |
+| James Meidinger         | Voting Seat                        | No         |
+| Christian Schmitz       | Voting Seat                        | No         |
+| Giorgio Zinetti         | Voting Seat                        | No         |
+| Samir Idris             | Voting Seat                        | Yes        |
 
 ## Agenda
 
-* Review previous actions and updates
-  * budget proposal published update
-  * option to join Intersect Town Hall discussion
-* Discuss potential X Space for budget proposal overview
-* Product research initiative
-* Discuss creation of a Business Development coordination body with X characteristic to function
-* Review KPI feedback from the Technical Steering Committee
+* Review actions and updates
+  * Ecosystem Funding Working Group (EFWG)
+  * Vice-Chair appointment
+* Product research
+* Planning
+* CBC survey questions
+* Review KPI document from TSC
+  * Review proposed changes with current status (in Miro)
+  * Agree feedback to TSC
 
 ## Updates
 
-* **Review previous actions and updates**
-  * **Budget proposal published update**
-    * The Secretary confirmed that the Product Committee budget proposal had been published and encouraged members to review the proposal and share it with ecosystem stakeholders for feedback.
-  * **Option to join Intersect Town Hall discussion**
-    * The Secretary advised that there was an opportunity for Committee representatives to participate in the upcoming Intersect Town Hall to discuss the proposal and answer questions.
-* **Discuss potential X Space for budget proposal overview**
-  * **Review communications approach and timeline**
-    * The Committee discussed hosting an X Space during the feedback period to explain the proposal, answer questions and encourage community participation before voting begins.
-* **Product research initiative**
-  * **Review proposed research initiative portfolio**
-    * Tomas Garro presented the product research framework, including the consolidation of research questions, prioritisation methodology and candidate research initiatives aligned with Strategy 2030 objectives.
-  * **Agree priority research streams for proposal development**
-    * The Committee reviewed the proposed initiatives, agreed to remove several items considered operational or outside scope, and narrowed the portfolio to nine priority research streams for further development.
-* **Discuss creation of a Business Development coordination body with X characteristic to function**
-  * No discussion for this topic was held. The Secretary noted that additional preparation and supporting material would be required before a future discussion.
-* **Review KPI feedback from the Technical Steering Committee**
-  * **Review proposed changes against current status**
-    * No discussion for this topic was held.
-  * **Agree feedback for TSC**
+* **Review actions and updates**
+  * **Ecosystem Funding Working Group (EFWG)**
+    * The Committee received an update on the Ecosystem Funding Working Group, including the onboarding of a contractor, the development of a funding coordination framework, and opportunities to align the work with the Product Committee’s KPI refinement activities.
+  * **Vice-Chair appointment**
+    * The Secretary confirmed that Alexandre Maaza had withdrawn from the Vice-Chair role, Alexa C. (Thyme Studio) volunteered to stand for the position, and the Committee agreed to open the opportunity to all members before conducting an asynchronous vote.
+* **Product research**
+  * The Chair confirmed that proposal reviews had been completed, the final report was being anonymised before publication, and the Committee reviewed the proposed list of projects recommended for funding.
+  * The Committee discussed publication of the evaluation report, reviewer anonymity, audit considerations, communications to the community, expected contract structure, and delivery requirements for successful research proposals.
+* **Planning**
+  * The Secretary reviewed the Committee's Quarter 3 workstreams, including issuing research contracts, monitoring research progress, completing KPI refinement activities, and preparing future planning aligned with the 2030 Vision.
+  * The Committee agreed to continue engagement with the Growth & Marketing Committee, request feedback from additional committees through a survey, and consider producing KPI guidance for committees during Quarter 4.
+  * The Committee discussed future funding options following the unsuccessful treasury withdrawal proposal and considered using completed research outputs to support future pilot funding proposals.
+* **CBC survey questions**
+  * The Committee received an update from the Budget Committee that a post-budget process survey would be distributed to participants, and members agreed to support and complete the survey once available.
+* **Review KPI document from TSC**
+  * **Review proposed changes with current status (in Miro)**
+    * The Committee reviewed progress on KPI refinement, discussed alignment of committee planning with the 2030 Vision, and considered improvements to committee-wide KPI adoption and governance.
+  * **Agree feedback to TSC**
     * No discussion for this topic was held.
 
 ## Outcomes & Recommendations
 
-The Committee agreed to proceed with development of nine priority product research initiative streams and prepare the associated grant documentation for review and publication.
+N/A
+
+## Decisions Recorded
+
+N/A

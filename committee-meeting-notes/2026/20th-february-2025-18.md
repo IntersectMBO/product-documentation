@@ -1,50 +1,64 @@
-# 24th February 2025
+# 22nd April 2025
 
 The session was run in the related [miro board](https://miro.com/app/board/uXjVKro_lxs=/).&#x20;
 
-📽️ The meeting recording can be found [here](https://drive.google.com/file/d/1atRfVRVNUrfhFMItnyaxp4wgNfNS4CXj/view?usp=sharing).
+📽️ The meeting recording can be found [here](https://drive.google.com/file/d/1jBYUzqu-glD2_Fivfx1VuIAGw8bX_k9i/view?usp=sharing).
 
 ## Participants
 
-<table><thead><tr><th width="213.19140625">Name</th><th width="212.27734375">Role</th><th width="185.14453125">Attendance</th></tr></thead><tbody><tr><td>Lorenzo Bruno</td><td>Secretary</td><td>Yes</td></tr><tr><td>Samuel Leathers</td><td>Chair</td><td>Yes</td></tr><tr><td>Kyle Solomon</td><td>Vice-Chair</td><td>Yes</td></tr><tr><td>Carlos Lopez De Lara</td><td>Voting seat</td><td>No</td></tr><tr><td>Alexandre Maaza</td><td>Voting seat</td><td>No</td></tr><tr><td>James Meidinger</td><td>Voting seat</td><td>Yes</td></tr><tr><td>Christian Schmitz</td><td>Voting seats</td><td>No</td></tr><tr><td>Tegegne Tefera</td><td>Voting seat</td><td>Yes</td></tr><tr><td>Giorgio Zinetti</td><td>Voting seat</td><td>No</td></tr><tr><td>Tomas Garro</td><td>SME</td><td>No</td></tr><tr><td>Jess Fields</td><td>SME</td><td>No</td></tr><tr><td>Juan Sierra</td><td>SME</td><td>Yes</td></tr></tbody></table>
+| Name                 | Role           | Attendance |
+| -------------------- | -------------- | ---------- |
+| Lorenzo Bruno        | Secretary      | Yes        |
+| Samuel Leathers      | Chair          | Yes        |
+| Kyle Solomon         | Vice-Chair     | Yes        |
+| Carlos Lopez De Lara | Voting Seat    | Yes        |
+| Alexandre Maaza      | Voting Seat    | No         |
+| James Meidinger      | Voting Seat    | Yes        |
+| Christian Schmitz    | Voting Seat    | No         |
+| Tegegne Tefera       | Voting Seat    | Yes        |
+| Giorgio Zinetti      | Voting Seat    | No         |
+| Tomas Garro          | SME            | Yes        |
+| Jess Fields          | SME            | No         |
+| Juan Sierra          | SME            | Yes        |
+| Daniel Muringe       | Observer       | Yes        |
+| Seun Gbiri           | Observer       | Yes        |
+| Simo Simovic         | Observer       | Yes        |
+| Thyme Studio         | Observer       | Yes        |
+| Yoram Ben-Zvi        | Observer (GMC) | Yes        |
 
 ## Agenda
 
-* Review actions / updates
-  * Review Nairobi workshops
-  * Review stipend updates
-* Discuss elections
-  * Review seats
-  * Review questions
-  * Review one pager
-* Review product research grant
-  * Confirm volunteers to review
-* Discuss committee budget
-  * Define work packages
-* Discuss KPIs
-  * Review TSC feedback
-  * Plan stakeholder meetings
-* Discuss developer experience
-  * Plan meeting with OSC
+* Review previous actions and updates
+  * update from Paris Blockchain Week
+  * committee elections update
+* Review and approve the Product Committee budget proposal
+* Product research initiative
+  * review progress and alignment of research, business validation and market pilot activities
+* Business Development Working Group
 
 ## Updates
 
-* **Review actions / updates – review Nairobi workshops**
-  * The Committee reviewed outcomes from the Nairobi workshops and key insights gathered.
-  * The Committee briefly discussed stipend-related updates.
-* **Discuss elections – review seats / questions / one pager**
-  * The Committee discussed election structure and supporting materials required.
-* **Review product research grant – confirm volunteers to review**
-  * The Committee confirmed reviewers for the product research applications.
-* **Discuss committee budget – define work packages**
-  * The Committee discussed structuring the budget into defined work packages.
-* **Discuss KPIs – review TSC feedback / plan stakeholder meetings**
-  * The Committee reviewed feedback from TSC and discussed stakeholder engagement.
-* **Discuss developer experience – plan meeting with OSC**
-  * The Committee noted that alignment with OSC was still pending.
-
-
+* **Review previous actions and updates**
+  * **Update from Paris Blockchain Week**
+    * The Committee received updates from attendees regarding ecosystem visibility, institutional engagement, partnership discussions and Cardano-related activities during Paris Blockchain Week.
+  * **Committee elections update**
+    * The Secretary reminded members that committee election voting was open and encouraged members to participate in the voting process.
+* **Review and approve the Product Committee budget proposal**
+  * **Review budget proposal**
+    * The Secretary presented the Product Committee budget proposal, including work packages covering 2027 strategic goals, business validation activities and product research to market pilot initiatives.
+  * **Approve budget proposal**
+    * The Committee reviewed the proposal, suggested minor updates relating to KPIs, business validation strategy and reporting, and expressed support for submission following incorporation of the agreed amendments.
+* **Product research initiative**
+  * **Review progress and alignment of research, business validation and market pilot activities**
+    * The Committee discussed how product research outputs, business validation activities and market pilots would be connected to validate strategic assumptions and support ecosystem adoption opportunities.
+* **Business Development Working Group**
+  * **Discuss future structure and coordination following budget approval**
+    * The Committee discussed whether business development activities should continue through a dedicated working group or be coordinated through existing structures, and agreed to revisit the topic after the budget process progresses.
 
 ## Outcomes & Recommendations
 
 N/A
+
+## Decisions Recorded
+
+The Committee reviewed the Product Committee budget proposal and approved proceeding with submission following incorporation of the discussed amendments.
