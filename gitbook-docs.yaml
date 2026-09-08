@@ -1,0 +1,11 @@
+$schema: https://api.gitbook.com/gitbook-docs.yaml
+site:
+  title: Product Committee
+  structure:
+    - type: space
+      key: space-1
+      title: Intersect -  Product committee
+      path: product-committee
+      default: true
+      content:
+        directory: ./intersect-product-committee
