@@ -9,3 +9,11 @@ site:
       default: true
       content:
         directory: ./intersect-product-committee
+    - type: space
+      key: space-2
+      title: 🇪🇸 Intersect -  Product committee
+      path: intersect-product-committee
+      draft: true
+      content:
+        directory: ./intersect-product-committee-1
+        language: es
