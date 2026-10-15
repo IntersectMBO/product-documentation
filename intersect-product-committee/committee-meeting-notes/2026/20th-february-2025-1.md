@@ -1,54 +1,26 @@
-# 26th August 2025
+# 3rd February 2025
 
 The session was run in the related [miro board](https://miro.com/app/board/uXjVKro_lxs=/).&#x20;
 
-📽️ The meeting recording can be found [here](https://drive.google.com/file/d/1k1lHexqLnER_GsjjvuRJDQiZof6hI8y1/view?usp=sharing).
+📽️ The meeting recording can be found [here](https://drive.google.com/file/d/1pY-HO0sLRHzr_8IprwdLmFeeaIhiHXR8/view?usp=sharing).
 
 ## Participants
 
-| Name                    | Role                               | Attendance |
-| ----------------------- | ---------------------------------- | ---------- |
-| Samuel Leathers         | Chair                              | Yes        |
-| Lorenzo Bruno           | Secretary                          | Yes        |
-| Alexandre Maaza         | Voting Seat (Vice-Chair Appointee) | Yes        |
-| Juan Sierra             | Voting Seat                        | Yes        |
-| Yoram Ben-Zvi           | Voting Seat                        | Yes        |
-| Alexa C. (Thyme Studio) | Voting Seat                        | Yes        |
-| James Meidinger         | Voting Seat                        | Yes        |
-| Christian Schmitz       | Voting Seat                        | No         |
-| Giorgio Zinetti         | Voting Seat                        | No         |
-| Samir Idris             | Voting Seat                        | Yes        |
+<table><thead><tr><th width="213.19140625">Name</th><th width="212.27734375">Role</th><th width="185.14453125">Attendance</th></tr></thead><tbody><tr><td>Lorenzo Bruno</td><td>Secretary</td><td>Yes</td></tr><tr><td>Samuel Leathers</td><td>Chair</td><td>No</td></tr><tr><td>Kyle Solomon</td><td>Vice-Chair</td><td>No</td></tr><tr><td>Alexandre Maaza</td><td>Voting seat</td><td>No</td></tr><tr><td>James Meidinger</td><td>Voting seat</td><td>No</td></tr><tr><td>Christian Schmitz</td><td>Voting seat</td><td>Yes</td></tr><tr><td>Carlos Lopez De Lara</td><td>Voting seat</td><td>Yes</td></tr><tr><td>Tegegne Tefera</td><td>Voting seat</td><td>Yes</td></tr><tr><td>Giorgio Zinetti</td><td>Voting seat</td><td>No</td></tr><tr><td>Tomas Garro</td><td>SME</td><td>Yes</td></tr><tr><td>Jess Fields</td><td>SME</td><td>No</td></tr><tr><td>Juan Sierra</td><td>SME</td><td>Yes</td></tr><tr><td>Michael Yagi</td><td>Observer</td><td>No</td></tr><tr><td>Filip Blagojević</td><td>Observer</td><td>Yes</td></tr><tr><td>Federico Weill</td><td>Observer</td><td>Yes</td></tr><tr><td>Nikhil Shetty</td><td>Observer</td><td>Yes</td></tr><tr><td>Randy Randy</td><td>Observer</td><td>Yes</td></tr></tbody></table>
 
 ## Agenda
 
-* Review actions and updates
-  * update on UNDP
-  * update on the KPI survey
-  * update on ELK Consortium Milestone 1
-* Complete the Committee survey
-* Review feedback for TKNFRA and Wada
-* Discuss 2027 deliverables
+* Review actions / updates
+* Committee budget guide
+* Product research grant vote - async
 
 ## Updates
 
-* **Review actions and updates**
-  * **Update on UNDP**
-    * The Secretary reported that UNDP had responded regarding KYC issues, and the Committee requested confirmation that all six countries identified in the proposal remained actively engaged.
-  * **Update on the KPI survey**
-    * The Committee noted that three or four responses had been received, with further committee feedback still expected before the survey was closed and the research findings compiled.
-  * **Update on ELK Consortium Milestone 1**
-    * The Secretary reported that ELK Consortium had completed its first milestone but had not yet formally submitted it, and agreed to provide instructions for submission through the new milestone process.
-* **Complete the Committee survey**
-  * The Committee completed or progressed the committee-effectiveness survey during the session and provided feedback on questions concerning participation across multiple committees.
-* **Review feedback for TKNFRA and Wada**
-  * The Committee reviewed the proposed milestone-review process, agreeing that milestone submissions should be made through GitHub and reviewed by two Committee reviewers followed by the Chair, while initial feedback on TKNFRA identified points requiring clarification against its proposal and milestone criteria.
-* **Discuss 2027 deliverables**
-  * The Secretary recalled the proposed 2027 deliverables framework and noted that, although the related budget proposal was not approved, funding may become available through Intersect to progress work on critical unfunded processes, with further planning to follow once funding is confirmed.
+* Review actions / updates
+  * The secretary provided an update about progress of budget process
+* The secretary shared the WIP draft for the committee budgets guide to collect feedback
+* The secretary provided an overview of the updates for the grant and posted an async vote on the product committee channel
 
 ## Outcomes & Recommendations
-
-N/A
-
-## Decisions Recorded
 
 N/A
