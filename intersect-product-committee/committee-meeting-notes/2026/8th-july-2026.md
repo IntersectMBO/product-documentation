@@ -1,4 +1,4 @@
-# 8th July 2025
+# 8th July 2026
 
 The session was run in the related [miro board](https://miro.com/app/board/uXjVKro_lxs=/).&#x20;
 
@@ -6,18 +6,18 @@ The session was run in the related [miro board](https://miro.com/app/board/uXjVK
 
 ## Participants
 
-| Name                    | Role                               | Attendance |
-| ----------------------- | ---------------------------------- | ---------- |
-| Samuel Leathers         | Chair                              | Yes        |
-| Lorenzo Bruno           | Secretary                          | Yes        |
-| Alexandre Maaza         | Voting Seat (Vice-Chair Appointee) | Yes        |
-| Juan Sierra             | Voting Seat                        | Yes        |
-| Yoram Ben-Zvi           | Voting Seat                        | Yes        |
-| Alexa C. (Thyme Studio) | Voting Seat (Vice-Chair)           | Yes        |
-| James Meidinger         | Voting Seat                        | No         |
-| Christian Schmitz       | Voting Seat                        | No         |
-| Giorgio Zinetti         | Voting Seat                        | No         |
-| Samir Idris             | Voting Seat                        | Yes        |
+| Name                    | Role                     | Attendance |
+| ----------------------- | ------------------------ | ---------- |
+| Samuel Leathers         | Chair                    | Yes        |
+| Lorenzo Bruno           | Secretary                | Yes        |
+| Alexandre Maaza         | Voting Seat              | Yes        |
+| Juan Sierra             | Voting Seat              | Yes        |
+| Yoram Ben-Zvi           | Voting Seat              | Yes        |
+| Alexa C. (Thyme Studio) | Voting Seat (Vice-Chair) | Yes        |
+| James Meidinger         | Voting Seat              | No         |
+| Christian Schmitz       | Voting Seat              | No         |
+| Giorgio Zinetti         | Voting Seat              | No         |
+| Samir Idris             | Voting Seat              | Yes        |
 
 ## Agenda
 
